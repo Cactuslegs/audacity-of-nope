@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/pkgconfig
+END
+vamp-hostsdk.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/pkgconfig/vamp-hostsdk.pc.in
+END
+vamp-sdk.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/pkgconfig/vamp-sdk.pc.in
+END
+vamp.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/pkgconfig/vamp.pc.in
+END

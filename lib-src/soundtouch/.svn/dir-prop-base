@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 75
+autom4te.cache
+config.log
+config.status
+soundtouch-1.0.pc
+libtool
+Makefile
+
+END

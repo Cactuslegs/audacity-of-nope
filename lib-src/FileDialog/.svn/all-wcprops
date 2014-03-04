@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13009/audacity-src/trunk/lib-src/FileDialog
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12917/audacity-src/trunk/lib-src/FileDialog/config.h.in
+END
+FileDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12704/audacity-src/trunk/lib-src/FileDialog/FileDialog.cpp
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12917/audacity-src/trunk/lib-src/FileDialog/configure
+END
+FileDialog.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/FileDialog/FileDialog.vcproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12917/audacity-src/trunk/lib-src/FileDialog/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12915/audacity-src/trunk/lib-src/FileDialog/configure.ac
+END
+FileDialogPrivate.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12915/audacity-src/trunk/lib-src/FileDialog/FileDialogPrivate.h.in
+END
+FileDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12915/audacity-src/trunk/lib-src/FileDialog/FileDialog.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12916/audacity-src/trunk/lib-src/FileDialog/Makefile.am
+END

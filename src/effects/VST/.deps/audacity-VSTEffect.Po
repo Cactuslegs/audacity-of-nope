@@ -1,0 +1,6 @@
+effects/VST/audacity-VSTEffect.o: effects/VST/VSTEffect.cpp \
+ effects/VST/../../Audacity.h effects/VST/../../configunix.h
+
+effects/VST/../../Audacity.h:
+
+effects/VST/../../configunix.h:

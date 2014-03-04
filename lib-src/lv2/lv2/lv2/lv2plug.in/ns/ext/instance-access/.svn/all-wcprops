@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/instance-access
+END
+instance-access.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/instance-access/instance-access.ttl
+END
+lv2-instance-access.doap.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/instance-access/lv2-instance-access.doap.ttl
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/instance-access/manifest.ttl
+END
+instance-access.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/instance-access/instance-access.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/instance-access/NEWS
+END

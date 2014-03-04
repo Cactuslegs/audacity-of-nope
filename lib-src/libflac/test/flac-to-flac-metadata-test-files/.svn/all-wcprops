@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files
+END
+case03c-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case03c-expect.meta
+END
+case04b-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case04b-expect.meta
+END
+case01e-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case01e-expect.meta
+END
+case04c-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case04c-expect.meta
+END
+input-SCVPAP.flac
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/input-SCVPAP.flac
+END
+input-SCVA.flac
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/input-SCVA.flac
+END
+case04d-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case04d-expect.meta
+END
+case04e-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case04e-expect.meta
+END
+input-SVAUP.flac
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/input-SVAUP.flac
+END
+input-SCVAUP.flac
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/input-SCVAUP.flac
+END
+input-VA.flac
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/input-VA.flac
+END
+input-SCPAP.flac
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/input-SCPAP.flac
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/Makefile.am
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/Makefile.in
+END
+case00a-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case00a-expect.meta
+END
+case01a-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case01a-expect.meta
+END
+case01b-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case01b-expect.meta
+END
+case02a-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case02a-expect.meta
+END
+case01c-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case01c-expect.meta
+END
+case02b-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case02b-expect.meta
+END
+input0.cue
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/input0.cue
+END
+case03a-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case03a-expect.meta
+END
+case01d-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case01d-expect.meta
+END
+case03b-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case03b-expect.meta
+END
+case04a-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case04a-expect.meta
+END
+case02c-expect.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/flac-to-flac-metadata-test-files/case02c-expect.meta
+END

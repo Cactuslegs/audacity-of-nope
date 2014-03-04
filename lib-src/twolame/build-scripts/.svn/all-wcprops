@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/build-scripts
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/build-scripts/libtool.m4
+END
+ltversion.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/build-scripts/ltversion.m4
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/build-scripts/depcomp
+END
+test-driver
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/build-scripts/test-driver
+END
+lt~obsolete.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/build-scripts/lt~obsolete.m4
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/build-scripts/missing
+END
+ltoptions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/build-scripts/ltoptions.m4
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/build-scripts/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/build-scripts/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/build-scripts/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/build-scripts/install-sh
+END
+ltsugar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/build-scripts/ltsugar.m4
+END

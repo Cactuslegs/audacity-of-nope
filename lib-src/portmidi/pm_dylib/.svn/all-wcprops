@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_dylib
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_dylib/README.txt
+END
+portmidi-dynamic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_dylib/portmidi-dynamic.vcproj
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_dylib/CMakeLists.txt
+END

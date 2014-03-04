@@ -1,0 +1,10 @@
+prefix=/home/justin/audacity-read-only/lib-src/lv2/serd
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=.
+
+Name: Serd
+Version: 0.18.2
+Description: Lightweight RDF syntax library
+Libs: -L${libdir} -lserd-0
+Cflags: -I${includedir}/serd-0

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/simplefrontend
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/simplefrontend/Makefile.in
+END
+audio_wave.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/simplefrontend/audio_wave.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/simplefrontend/Makefile.am
+END
+audio_wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/simplefrontend/audio_wave.h
+END
+simplefrontend.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/simplefrontend/simplefrontend.c
+END

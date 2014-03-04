@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libogg
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/Makefile.in
+END
+ogg.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libogg/ogg.pc.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/depcomp
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12834/audacity-src/trunk/lib-src/libogg/autotools.patch
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/compile
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/config.guess
+END
+ogg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/ogg.m4
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/ltmain.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/config.h.in
+END
+libogg.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/libogg.spec.in
+END
+ogg-uninstalled.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/ogg-uninstalled.pc.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12835/audacity-src/trunk/lib-src/libogg/configure.ac
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libogg/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12834/audacity-src/trunk/lib-src/libogg/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/missing
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/install-sh
+END

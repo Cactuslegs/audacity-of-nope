@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/mod-track-panel
+END
+ModTrackPanelCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/mod-track-panel/ModTrackPanelCallback.h
+END
+TrackPanel2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/mod-track-panel/TrackPanel2.cpp
+END
+Registrar.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/mod-track-panel/Registrar.h
+END
+TrackPanel2.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/mod-track-panel/TrackPanel2.h
+END
+SkewedRuler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/mod-track-panel/SkewedRuler.cpp
+END
+mod-track-panel.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11133/audacity-src/trunk/lib-src/mod-track-panel/mod-track-panel.vcproj
+END
+ModTrackPanelCallback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/mod-track-panel/ModTrackPanelCallback.cpp
+END
+SkewedRuler.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/mod-track-panel/SkewedRuler.h
+END
+Registrar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/mod-track-panel/Registrar.cpp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/apps
+END
+allegroconvert.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12812/audacity-src/trunk/lib-src/portsmf/apps/allegroconvert.vcproj
+END
+allegroplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/apps/allegroplay.cpp
+END
+seq2midi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12812/audacity-src/trunk/lib-src/portsmf/apps/seq2midi.cpp
+END
+seq2midi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/apps/seq2midi.h
+END
+midicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/apps/midicode.h
+END
+allegroconvert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12812/audacity-src/trunk/lib-src/portsmf/apps/allegroconvert.cpp
+END

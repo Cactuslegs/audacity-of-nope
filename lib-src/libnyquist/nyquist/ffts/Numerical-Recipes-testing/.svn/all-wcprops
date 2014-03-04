@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Numerical-Recipes-testing
+END
+fftTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Numerical-Recipes-testing/fftTest.c
+END
+rfftTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Numerical-Recipes-testing/rfftTest.c
+END
+fftTest2d.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Numerical-Recipes-testing/fftTest2d.c
+END
+fftTest3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Numerical-Recipes-testing/fftTest3d.c
+END
+rfftTest2d.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Numerical-Recipes-testing/rfftTest2d.c
+END

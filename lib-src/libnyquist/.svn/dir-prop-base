@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 66
+config.status
+config.log
+aclocal.m4
+.deps
+Makefile
+autom4te.cache
+
+END

@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/test
+END
+patest_stop.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_stop.c
+END
+patest_dsound_low_level_latency_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/test/patest_dsound_low_level_latency_params.c
+END
+patest_maxsines.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_maxsines.c
+END
+patest_toomanysines.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_toomanysines.c
+END
+patest_leftright.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_leftright.c
+END
+patest_sine_formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_sine_formats.c
+END
+patest_in_overflow.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_in_overflow.c
+END
+patest_converters.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_converters.c
+END
+patest_dsound_find_best_latency_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/test/patest_dsound_find_best_latency_params.c
+END
+patest_out_underflow.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_out_underflow.c
+END
+patest_latency.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_latency.c
+END
+patest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest1.c
+END
+patest_start_stop.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10714/audacity-src/trunk/lib-src/portaudio-v19/test/patest_start_stop.c
+END
+patest_stop_playout.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10714/audacity-src/trunk/lib-src/portaudio-v19/test/patest_stop_playout.c
+END
+patest_many.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_many.c
+END
+patest_underflow.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_underflow.c
+END
+patest_wire.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_wire.c
+END
+patest_two_rates.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_two_rates.c
+END
+patest_sine_channelmaps.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_sine_channelmaps.c
+END
+patest_suggested_vs_streaminfo_latency.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/test/patest_suggested_vs_streaminfo_latency.c
+END
+patest_multi_sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_multi_sine.c
+END
+patest_mono.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_mono.c
+END
+patest_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_buffer.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/CMakeLists.txt
+END
+patest_sine_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_sine_time.c
+END
+patest_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_sync.c
+END
+patest_hang.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_hang.c
+END
+patest_ringmix.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_ringmix.c
+END
+patest_dither.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_dither.c
+END
+pa_minlat.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/pa_minlat.c
+END
+patest_sine8.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_sine8.c
+END
+patest_timing.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_timing.c
+END
+patest_clip.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_clip.c
+END
+patest_sine_srate.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10711/audacity-src/trunk/lib-src/portaudio-v19/test/patest_sine_srate.c
+END
+patest_dsound_surround.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_dsound_surround.c
+END
+patest_wmme_low_level_latency_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/test/patest_wmme_low_level_latency_params.c
+END
+patest_write_stop.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_write_stop.c
+END
+patest_callbackstop.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_callbackstop.c
+END
+patest_wmme_find_best_latency_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/test/patest_wmme_find_best_latency_params.c
+END
+patest_read_record.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_read_record.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/README.txt
+END
+patest_prime.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_prime.c
+END
+patest_jack_wasapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/test/patest_jack_wasapi.c
+END
+patest_suggested_vs_streaminfo_latency.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/test/patest_suggested_vs_streaminfo_latency.py
+END
+patest_longsine.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/test/patest_longsine.c
+END

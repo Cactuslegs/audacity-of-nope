@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/build/scons
+END
+SConscript_opts
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/build/scons/SConscript_opts
+END
+SConscript_common
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/build/scons/SConscript_common
+END

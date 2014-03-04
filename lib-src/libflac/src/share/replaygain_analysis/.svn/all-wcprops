@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/share/replaygain_analysis
+END
+replaygain_analysis.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/replaygain_analysis/replaygain_analysis.c
+END
+replaygain_analysis_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/replaygain_analysis/replaygain_analysis_static.vcproj
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libflac/src/share/replaygain_analysis/Makefile.lite
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/ffmpeg/win32
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/ffmpeg/win32/stdint.h
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/ffmpeg/win32/inttypes.h
+END

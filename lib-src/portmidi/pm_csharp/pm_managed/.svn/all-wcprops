@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_csharp/pm_managed
+END
+app.ico
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_csharp/pm_managed/app.ico
+END
+pm_managed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_csharp/pm_managed/pm_managed.cpp
+END
+pm_managed.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_csharp/pm_managed/pm_managed.vcproj
+END
+Stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_csharp/pm_managed/Stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_csharp/pm_managed/ReadMe.txt
+END
+AssemblyInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_csharp/pm_managed/AssemblyInfo.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_csharp/pm_managed/resource.h
+END
+pm_managed.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_csharp/pm_managed/pm_managed.h
+END
+Stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_csharp/pm_managed/Stdafx.h
+END
+app.rc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_csharp/pm_managed/app.rc
+END

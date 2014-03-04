@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/lv2/lv2/lv2specgen
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2specgen/style.css
+END
+lv2docgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2specgen/lv2docgen.py
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2specgen/template.html
+END
+lv2specgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2specgen/lv2specgen.py
+END

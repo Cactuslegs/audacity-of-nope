@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12897/audacity-src/trunk/lib-src/soundtouch/source
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12897/audacity-src/trunk/lib-src/soundtouch/source/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/source/Makefile.am
+END

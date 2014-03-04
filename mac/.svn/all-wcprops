@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/13041/audacity-src/trunk/mac
+END
+audacity.r
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10107/audacity-src/trunk/mac/audacity.r
+END
+Install.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12182/audacity-src/trunk/mac/Install.txt
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10999/audacity-src/trunk/mac/Info.plist
+END
+build_manual.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10999/audacity-src/trunk/mac/build_manual.sh
+END
+compile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12870/audacity-src/trunk/mac/compile.txt
+END
+wxMac-2.8.9.patch
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10107/audacity-src/trunk/mac/wxMac-2.8.9.patch
+END
+build_plugins.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12509/audacity-src/trunk/mac/build_plugins.sh
+END
+audacity.Rsrc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10107/audacity-src/trunk/mac/audacity.Rsrc
+END
+configmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10189/audacity-src/trunk/mac/configmac.h
+END
+Audacity.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10954/audacity-src/trunk/mac/Audacity.sh
+END
+audacity-carbon.rsrc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10107/audacity-src/trunk/mac/audacity-carbon.rsrc
+END
+wxMac-2.8.10.patch
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10107/audacity-src/trunk/mac/wxMac-2.8.10.patch
+END
+wxMac-2.8.11.patch
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11048/audacity-src/trunk/mac/wxMac-2.8.11.patch
+END

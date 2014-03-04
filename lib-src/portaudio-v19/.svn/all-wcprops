@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12910/audacity-src/trunk/lib-src/portaudio-v19
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12236/audacity-src/trunk/lib-src/portaudio-v19/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12236/audacity-src/trunk/lib-src/portaudio-v19/Makefile.in
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/Doxyfile
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12592/audacity-src/trunk/lib-src/portaudio-v19/configure.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/depcomp
+END
+fixdir.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/fixdir.bat
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/config.guess
+END
+README.configure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/README.configure.txt
+END
+fixfile.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/fixfile.bat
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/ltmain.sh
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portaudio-v19/LICENSE.txt
+END
+libtool22.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/libtool22.patch
+END
+jack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12234/audacity-src/trunk/lib-src/portaudio-v19/jack.patch
+END
+wasapi-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12233/audacity-src/trunk/lib-src/portaudio-v19/wasapi-fix.patch
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/SConstruct
+END
+Doxyfile.developer
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/Doxyfile.developer
+END
+portaudio-2.0.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/portaudio-2.0.pc.in
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/missing
+END
+wasapi-loopback.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12233/audacity-src/trunk/lib-src/portaudio-v19/wasapi-loopback.patch
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portaudio-v19/index.html
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portaudio-v19/README.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12236/audacity-src/trunk/lib-src/portaudio-v19/CMakeLists.txt
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/install-sh
+END

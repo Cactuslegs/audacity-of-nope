@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg02-midigate.lv2/waflib/extras
+END
+autowaf.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg02-midigate.lv2/waflib/extras/autowaf.py
+END
+doxygen.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg02-midigate.lv2/waflib/extras/doxygen.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg02-midigate.lv2/waflib/extras/__init__.py
+END

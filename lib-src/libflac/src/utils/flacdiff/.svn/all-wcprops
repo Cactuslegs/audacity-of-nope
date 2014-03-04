@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/utils/flacdiff
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/utils/flacdiff/main.cpp
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/utils/flacdiff/Makefile.lite
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/utils/flacdiff/Makefile.am
+END
+flacdiff.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/utils/flacdiff/flacdiff.vcproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/src/utils/flacdiff/Makefile.in
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/examples/cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/examples/cpp/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/examples/cpp/Makefile.am
+END

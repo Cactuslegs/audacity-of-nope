@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_python/pyportmidi
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_python/pyportmidi/__init__.py
+END
+midi.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_python/pyportmidi/midi.py
+END
+_pyportmidi.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_python/pyportmidi/_pyportmidi.pyx
+END
+_pyportmidi.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_python/pyportmidi/_pyportmidi.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Win32
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsndfile/Win32/Makefile.am
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Win32/Makefile.in
+END
+README-precompiled-dll.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsndfile/Win32/README-precompiled-dll.txt
+END
+testprog.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsndfile/Win32/testprog.c
+END

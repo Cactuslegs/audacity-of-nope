@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src
+END
+test_audio_analyzer.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/test_audio_analyzer.c
+END
+audio_analyzer.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/audio_analyzer.c
+END
+qa_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/qa_tools.h
+END
+write_wav.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/write_wav.c
+END
+paqa_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/paqa_tools.h
+END
+test_audio_analyzer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/test_audio_analyzer.h
+END
+biquad_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/biquad_filter.c
+END
+audio_analyzer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/audio_analyzer.h
+END
+write_wav.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/write_wav.h
+END
+biquad_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/biquad_filter.h
+END
+paqa.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/paqa.c
+END
+paqa_tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/qa/loopback/src/paqa_tools.c
+END

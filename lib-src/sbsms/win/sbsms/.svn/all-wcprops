@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/sbsms/win/sbsms
+END
+sbsms.sln
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/sbsms/win/sbsms/sbsms.sln
+END
+sbsms.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/win/sbsms/sbsms.wxs
+END
+sbsms.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/sbsms/win/sbsms/sbsms.vcproj
+END
+sbsms.rc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/sbsms/win/sbsms/sbsms.rc
+END
+sbsms.ICO
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/win/sbsms/sbsms.ICO
+END

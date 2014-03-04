@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/plugin_xmms
+END
+tag.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/tag.c
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/http.c
+END
+tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/tag.h
+END
+configure.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/configure.c
+END
+http.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/http.h
+END
+configure.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/configure.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/Makefile.am
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/Makefile.lite
+END
+charset.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/charset.c
+END
+locale_hack.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/locale_hack.h
+END
+fileinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/fileinfo.c
+END
+charset.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/charset.h
+END
+plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/plugin.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/Makefile.in
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_xmms/plugin.h
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_test
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/pm_test/test.c
+END
+midiclock.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_test/midiclock.vcproj
+END
+latency.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_test/latency.vcproj
+END
+qtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_test/qtest.vcproj
+END
+midithru.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/pm_test/midithru.c
+END
+txdata.syx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_test/txdata.syx
+END
+mm.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_test/mm.vcproj
+END
+midithread.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_test/midithread.vcproj
+END
+sysex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_test/sysex.vcproj
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_test/CMakeLists.txt
+END
+midiclock.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/pm_test/midiclock.c
+END
+latency.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/pm_test/latency.c
+END
+qtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/pm_test/qtest.c
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_test/test.vcproj
+END
+midithru.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_test/midithru.vcproj
+END
+mm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10702/audacity-src/trunk/lib-src/portmidi/pm_test/mm.c
+END
+midithread.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/pm_test/midithread.c
+END
+sysex.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10702/audacity-src/trunk/lib-src/portmidi/pm_test/sysex.c
+END

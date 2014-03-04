@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/doc
+END
+vbr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/doc/vbr.txt
+END
+twolame.1
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/doc/twolame.1
+END
+api.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/twolame/doc/api.txt
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/doc/Makefile.am
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/doc/Makefile.in
+END
+psycho.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/twolame/doc/psycho.txt
+END
+twolame.1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/doc/twolame.1.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/doc/index.txt
+END

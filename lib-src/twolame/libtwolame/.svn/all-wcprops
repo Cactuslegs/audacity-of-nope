@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/libtwolame
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/util.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/mem.c
+END
+availbits.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/availbits.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/config.h.in
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/util.h
+END
+availbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/availbits.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/mem.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/Makefile.am
+END
+psycho_2_absthr.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_2_absthr.h
+END
+enwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/enwindow.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/libtwolame/Makefile.in
+END
+psycho_n1.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_n1.c
+END
+crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/crc.c
+END
+psycho_n1.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_n1.h
+END
+twolame.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/twolame.c
+END
+bitbuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/bitbuffer.c
+END
+bitbuffer_inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/bitbuffer_inline.h
+END
+ath.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/ath.c
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/crc.h
+END
+twolame.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/twolame.h
+END
+bitbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/bitbuffer.h
+END
+subband.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/subband.c
+END
+psycho_1_freqtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_1_freqtable.h
+END
+fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/fft.c
+END
+ath.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/ath.h
+END
+subband.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/subband.h
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/fft.h
+END
+psycho_0.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_0.c
+END
+psycho_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_1.c
+END
+dab.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/dab.c
+END
+psycho_2.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_2.c
+END
+psycho_3.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_3.c
+END
+psycho_4.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_4.c
+END
+energy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/energy.c
+END
+psycho_0.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_0.h
+END
+get_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/get_set.c
+END
+psycho_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_1.h
+END
+dab.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/dab.h
+END
+psycho_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_2.h
+END
+psycho_3.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_3.h
+END
+psycho_4.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_4.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/common.h
+END
+encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/encode.c
+END
+energy.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/energy.h
+END
+psycho_1_critband.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/psycho_1_critband.h
+END
+encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/libtwolame/encode.h
+END

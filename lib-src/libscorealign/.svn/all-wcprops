@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libscorealign
+END
+audiofilereader-snd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/audiofilereader-snd.cpp
+END
+gen_chroma.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/libscorealign/gen_chroma.h
+END
+scorealign-vc2010.sln
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libscorealign/scorealign-vc2010.sln
+END
+score-align.sln
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libscorealign/score-align.sln
+END
+alignfiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/alignfiles.cpp
+END
+scorealign-vc2010.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/scorealign-vc2010.vcproj
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12853/audacity-src/trunk/lib-src/libscorealign/configure.ac
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/changelog.txt
+END
+audioreader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10702/audacity-src/trunk/lib-src/libscorealign/audioreader.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/main.cpp
+END
+score-align.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/score-align.vcproj
+END
+regression.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libscorealign/regression.h
+END
+scorealign.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/scorealign.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12849/audacity-src/trunk/lib-src/libscorealign/Makefile.am
+END
+audiofilereader.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/audiofilereader.h
+END
+sautils.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/libscorealign/sautils.h
+END
+curvefit.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libscorealign/curvefit.h
+END
+comp_chroma.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/libscorealign/comp_chroma.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12855/audacity-src/trunk/lib-src/libscorealign/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12855/audacity-src/trunk/lib-src/libscorealign/Makefile.in
+END
+gen_chroma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/gen_chroma.cpp
+END
+trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libscorealign/trace.h
+END
+hillclimb.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/libscorealign/hillclimb.h
+END
+scorealign.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12854/audacity-src/trunk/lib-src/libscorealign/scorealign.pc.in
+END
+audiofilereader-snd.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/audiofilereader-snd.h
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10702/audacity-src/trunk/lib-src/libscorealign/license.txt
+END
+regression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libscorealign/regression.cpp
+END
+alignfiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/alignfiles.h
+END
+audiofilereader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/audiofilereader.cpp
+END
+sautils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libscorealign/sautils.cpp
+END
+comp_chroma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10702/audacity-src/trunk/lib-src/libscorealign/comp_chroma.cpp
+END
+curvefit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/curvefit.cpp
+END
+audioreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libscorealign/audioreader.h
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/main.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/README.txt
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libscorealign/Makefile.linux
+END
+scorealign.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/scorealign.h
+END
+trace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libscorealign/trace.cpp
+END
+hillclimb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10684/audacity-src/trunk/lib-src/libscorealign/hillclimb.cpp
+END
+compare_transcripts.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/compare_transcripts.vcproj
+END
+Makefile.osx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libscorealign/Makefile.osx
+END

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 91
+Makefile
+aclocal.m4
+autom4te.cache
+libtool
+config.log
+config.status
+libsbsms.spec
+sbsms.pc
+
+END

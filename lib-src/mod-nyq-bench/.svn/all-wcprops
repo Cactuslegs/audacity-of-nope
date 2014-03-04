@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13014/audacity-src/trunk/lib-src/mod-nyq-bench
+END
+NyqBench.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12861/audacity-src/trunk/lib-src/mod-nyq-bench/NyqBench.cpp
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11128/audacity-src/trunk/lib-src/mod-nyq-bench/Readme.txt
+END
+NyqBench.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12727/audacity-src/trunk/lib-src/mod-nyq-bench/NyqBench.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13011/audacity-src/trunk/lib-src/mod-nyq-bench/Makefile
+END
+NyqBench.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/mod-nyq-bench/NyqBench.sln
+END
+mod-nyq-bench.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13014/audacity-src/trunk/lib-src/mod-nyq-bench/mod-nyq-bench.vcproj
+END

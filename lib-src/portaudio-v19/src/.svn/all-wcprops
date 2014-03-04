@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/src
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/SConscript
+END

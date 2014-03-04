@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsndfile/AUTHORS
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/autotools.patch
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/ChangeLog
+END
+sndfile.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/sndfile.pc.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/README
+END
+libsndfile-ppc-crash-on-some-id3-mp3s.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/11749/audacity-src/trunk/lib-src/libsndfile/libsndfile-ppc-crash-on-some-id3-mp3s.patch
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/configure.ac
+END
+0001-Add-support-for-Album-and-Track-tags-in-RIFF-files-for-libsndfile-1.0.24.patch
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/12462/audacity-src/trunk/lib-src/libsndfile/0001-Add-support-for-Album-and-Track-tags-in-RIFF-files-for-libsndfile-1.0.24.patch
+END
+0001-Add-support-for-Album-and-Track-tags-in-RIFF-files-for-libsndfile-1.0.25.patch
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/12462/audacity-src/trunk/lib-src/libsndfile/0001-Add-support-for-Album-and-Track-tags-in-RIFF-files-for-libsndfile-1.0.25.patch
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/INSTALL
+END
+build-test-tarball.mk.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/build-test-tarball.mk.in
+END
+maintainer-mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11071/audacity-src/trunk/lib-src/libsndfile/maintainer-mode.patch
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsndfile/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Makefile.am
+END
+libsndfile.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsndfile/libsndfile.spec.in
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/NEWS
+END
+id3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11457/audacity-src/trunk/lib-src/libsndfile/id3.patch
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Makefile.in
+END

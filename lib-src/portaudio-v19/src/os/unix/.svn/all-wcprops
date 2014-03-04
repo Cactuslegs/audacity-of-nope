@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/os/unix
+END
+pa_unix_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/os/unix/pa_unix_util.h
+END
+pa_unix_hostapis.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/os/unix/pa_unix_hostapis.c
+END
+pa_unix_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10714/audacity-src/trunk/lib-src/portaudio-v19/src/os/unix/pa_unix_util.c
+END

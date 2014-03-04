@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 109
+autom4te.cache
+config.h
+config.log
+config.status
+libtool
+Makefile
+stamp-h1
+.deps
+.dirstamp
+Doxyfile
+FLAC.tag
+
+END

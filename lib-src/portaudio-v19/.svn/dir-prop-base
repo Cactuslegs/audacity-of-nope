@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 126
+Makefile
+aclocal.m4
+autom4te.cache
+libtool
+config.log
+config.status
+configure.lineno
+lib-stamp
+bin-stamp
+portaudio-2.0.pc
+lib
+
+K 13
+svn:mergeinfo
+V 54
+/audacity-src/vendor/portaudio-v19/current:10707-10782
+END

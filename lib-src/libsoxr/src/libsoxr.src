@@ -1,0 +1,1 @@
+set(TARGET_LIBS "/home/justin/audacity-read-only/lib-src/libsoxr/src/libsoxr.a;/home/justin/audacity-read-only/lib-src/libsoxr/src/libsoxr-lsr.a")

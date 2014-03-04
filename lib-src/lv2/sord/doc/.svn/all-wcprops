@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/doc
+END
+layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/doc/layout.xml
+END
+sord_validate.1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/doc/sord_validate.1
+END
+sordi.1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/doc/sordi.1
+END
+reference.doxygen.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/doc/reference.doxygen.in
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/doc/style.css
+END

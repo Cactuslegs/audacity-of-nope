@@ -1,0 +1,386 @@
+nyquist/nyqsrc/sndfnint.o: nyquist/nyqsrc/sndfnint.c \
+ /usr/include/stdlib.h /usr/include/features.h \
+ /usr/include/i386-linux-gnu/bits/predefs.h \
+ /usr/include/i386-linux-gnu/sys/cdefs.h \
+ /usr/include/i386-linux-gnu/bits/wordsize.h \
+ /usr/include/i386-linux-gnu/gnu/stubs.h \
+ /usr/include/i386-linux-gnu/gnu/stubs-32.h \
+ /usr/lib/gcc/i686-linux-gnu/4.6/include/stddef.h \
+ /usr/include/i386-linux-gnu/bits/waitflags.h \
+ /usr/include/i386-linux-gnu/bits/waitstatus.h /usr/include/endian.h \
+ /usr/include/i386-linux-gnu/bits/endian.h \
+ /usr/include/i386-linux-gnu/bits/byteswap.h \
+ /usr/include/i386-linux-gnu/sys/types.h \
+ /usr/include/i386-linux-gnu/bits/types.h \
+ /usr/include/i386-linux-gnu/bits/typesizes.h /usr/include/time.h \
+ /usr/include/i386-linux-gnu/sys/select.h \
+ /usr/include/i386-linux-gnu/bits/select.h \
+ /usr/include/i386-linux-gnu/bits/sigset.h \
+ /usr/include/i386-linux-gnu/bits/time.h \
+ /usr/include/i386-linux-gnu/sys/sysmacros.h \
+ /usr/include/i386-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ nyquist/xlisp/xlisp.h /usr/include/stdio.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/i686-linux-gnu/4.6/include/stdarg.h \
+ /usr/include/i386-linux-gnu/bits/stdio_lim.h \
+ /usr/include/i386-linux-gnu/bits/sys_errlist.h /usr/include/ctype.h \
+ /usr/include/xlocale.h /usr/include/setjmp.h \
+ /usr/include/i386-linux-gnu/bits/setjmp.h nyquist/xlisp/xldmem.h \
+ nyquist/nyqsrc/sndfmt.h /usr/include/sndfile.h nyquist/nyqsrc/sound.h \
+ /usr/include/math.h /usr/include/i386-linux-gnu/bits/huge_val.h \
+ /usr/include/i386-linux-gnu/bits/huge_valf.h \
+ /usr/include/i386-linux-gnu/bits/huge_vall.h \
+ /usr/include/i386-linux-gnu/bits/inf.h \
+ /usr/include/i386-linux-gnu/bits/nan.h \
+ /usr/include/i386-linux-gnu/bits/mathdef.h \
+ /usr/include/i386-linux-gnu/bits/mathcalls.h nyquist/nyqsrc/stdefs.h \
+ nyquist/cmt/cext.h nyquist/sys/unix/switches.h nyquist/cmt/swlogic.h \
+ /usr/include/string.h nyquist/cmt/mem.h nyquist/cmt/cleanup.h \
+ nyquist/nyqsrc/add.h nyquist/nyqsrc/avg.h nyquist/nyqsrc/compose.h \
+ nyquist/nyqsrc/convolve.h nyquist/nyqsrc/downsample.h \
+ nyquist/nyqsrc/fft.h nyquist/nyqsrc/inverse.h nyquist/nyqsrc/multiseq.h \
+ nyquist/nyqsrc/resamp.h nyquist/nyqsrc/resampv.h \
+ nyquist/nyqsrc/samples.h nyquist/nyqsrc/sndmax.h \
+ nyquist/nyqsrc/sndread.h nyquist/nyqsrc/sndseq.h \
+ nyquist/nyqsrc/sndsliders.h nyquist/nyqsrc/sndwrite.h \
+ nyquist/nyqsrc/yin.h nyquist/nyqsrc/nyq-osc-server.h \
+ nyquist/nyqsrc/trigger.h nyquist/nyqsrc/lpanal.h nyquist/tran/abs.h \
+ nyquist/tran/allpoles.h nyquist/tran/alpass.h nyquist/tran/alpasscv.h \
+ nyquist/tran/alpassvv.h nyquist/tran/amosc.h nyquist/tran/areson.h \
+ nyquist/tran/aresonvc.h nyquist/tran/aresoncv.h nyquist/tran/aresonvv.h \
+ nyquist/tran/atone.h nyquist/tran/atonev.h nyquist/tran/biquadfilt.h \
+ nyquist/tran/buzz.h nyquist/tran/chase.h nyquist/tran/clip.h \
+ nyquist/tran/congen.h nyquist/tran/const.h nyquist/tran/coterm.h \
+ nyquist/tran/delaycc.h nyquist/tran/delaycv.h nyquist/tran/eqbandvvv.h \
+ nyquist/tran/exp.h nyquist/tran/follow.h nyquist/tran/fmosc.h \
+ nyquist/tran/fromobject.h nyquist/tran/fromarraystream.h \
+ nyquist/tran/gate.h nyquist/tran/ifft.h nyquist/tran/instrclar.h \
+ nyquist/tran/instrclarall.h nyquist/tran/instrclarfreq.h \
+ nyquist/tran/instrsax.h nyquist/tran/instrsaxall.h \
+ nyquist/tran/instrsaxfreq.h nyquist/tran/integrate.h nyquist/tran/log.h \
+ nyquist/tran/lpreson.h nyquist/tran/maxv.h nyquist/tran/offset.h \
+ nyquist/tran/oneshot.h nyquist/tran/osc.h nyquist/tran/partial.h \
+ nyquist/tran/pluck.h nyquist/tran/prod.h nyquist/tran/pwl.h \
+ nyquist/tran/quantize.h nyquist/tran/recip.h nyquist/tran/reson.h \
+ nyquist/tran/resonvc.h nyquist/tran/resoncv.h nyquist/tran/resonvv.h \
+ nyquist/tran/sampler.h nyquist/tran/scale.h nyquist/tran/shape.h \
+ nyquist/tran/sine.h nyquist/tran/siosc.h nyquist/tran/slope.h \
+ nyquist/tran/sqrt.h nyquist/tran/tapf.h nyquist/tran/tapv.h \
+ nyquist/tran/tone.h nyquist/tran/tonev.h nyquist/tran/upsample.h \
+ nyquist/tran/white.h nyquist/tran/stkrev.h nyquist/tran/stkpitshift.h \
+ nyquist/tran/stkchorus.h nyquist/tran/instrbow.h \
+ nyquist/tran/instrbowedfreq.h nyquist/tran/instrbanded.h \
+ nyquist/tran/instrmandolin.h nyquist/tran/instrsitar.h \
+ nyquist/tran/instrmodalbar.h nyquist/tran/instrflute.h \
+ nyquist/tran/instrflutefreq.h nyquist/tran/instrfluteall.h \
+ nyquist/tran/fmfb.h nyquist/tran/sine.h nyquist/tran/fmfbv.h
+
+/usr/include/stdlib.h:
+
+/usr/include/features.h:
+
+/usr/include/i386-linux-gnu/bits/predefs.h:
+
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.6/include/stddef.h:
+
+/usr/include/i386-linux-gnu/bits/waitflags.h:
+
+/usr/include/i386-linux-gnu/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/i386-linux-gnu/bits/endian.h:
+
+/usr/include/i386-linux-gnu/bits/byteswap.h:
+
+/usr/include/i386-linux-gnu/sys/types.h:
+
+/usr/include/i386-linux-gnu/bits/types.h:
+
+/usr/include/i386-linux-gnu/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/include/i386-linux-gnu/sys/select.h:
+
+/usr/include/i386-linux-gnu/bits/select.h:
+
+/usr/include/i386-linux-gnu/bits/sigset.h:
+
+/usr/include/i386-linux-gnu/bits/time.h:
+
+/usr/include/i386-linux-gnu/sys/sysmacros.h:
+
+/usr/include/i386-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+nyquist/xlisp/xlisp.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.6/include/stdarg.h:
+
+/usr/include/i386-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/i386-linux-gnu/bits/sys_errlist.h:
+
+/usr/include/ctype.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/setjmp.h:
+
+/usr/include/i386-linux-gnu/bits/setjmp.h:
+
+nyquist/xlisp/xldmem.h:
+
+nyquist/nyqsrc/sndfmt.h:
+
+/usr/include/sndfile.h:
+
+nyquist/nyqsrc/sound.h:
+
+/usr/include/math.h:
+
+/usr/include/i386-linux-gnu/bits/huge_val.h:
+
+/usr/include/i386-linux-gnu/bits/huge_valf.h:
+
+/usr/include/i386-linux-gnu/bits/huge_vall.h:
+
+/usr/include/i386-linux-gnu/bits/inf.h:
+
+/usr/include/i386-linux-gnu/bits/nan.h:
+
+/usr/include/i386-linux-gnu/bits/mathdef.h:
+
+/usr/include/i386-linux-gnu/bits/mathcalls.h:
+
+nyquist/nyqsrc/stdefs.h:
+
+nyquist/cmt/cext.h:
+
+nyquist/sys/unix/switches.h:
+
+nyquist/cmt/swlogic.h:
+
+/usr/include/string.h:
+
+nyquist/cmt/mem.h:
+
+nyquist/cmt/cleanup.h:
+
+nyquist/nyqsrc/add.h:
+
+nyquist/nyqsrc/avg.h:
+
+nyquist/nyqsrc/compose.h:
+
+nyquist/nyqsrc/convolve.h:
+
+nyquist/nyqsrc/downsample.h:
+
+nyquist/nyqsrc/fft.h:
+
+nyquist/nyqsrc/inverse.h:
+
+nyquist/nyqsrc/multiseq.h:
+
+nyquist/nyqsrc/resamp.h:
+
+nyquist/nyqsrc/resampv.h:
+
+nyquist/nyqsrc/samples.h:
+
+nyquist/nyqsrc/sndmax.h:
+
+nyquist/nyqsrc/sndread.h:
+
+nyquist/nyqsrc/sndseq.h:
+
+nyquist/nyqsrc/sndsliders.h:
+
+nyquist/nyqsrc/sndwrite.h:
+
+nyquist/nyqsrc/yin.h:
+
+nyquist/nyqsrc/nyq-osc-server.h:
+
+nyquist/nyqsrc/trigger.h:
+
+nyquist/nyqsrc/lpanal.h:
+
+nyquist/tran/abs.h:
+
+nyquist/tran/allpoles.h:
+
+nyquist/tran/alpass.h:
+
+nyquist/tran/alpasscv.h:
+
+nyquist/tran/alpassvv.h:
+
+nyquist/tran/amosc.h:
+
+nyquist/tran/areson.h:
+
+nyquist/tran/aresonvc.h:
+
+nyquist/tran/aresoncv.h:
+
+nyquist/tran/aresonvv.h:
+
+nyquist/tran/atone.h:
+
+nyquist/tran/atonev.h:
+
+nyquist/tran/biquadfilt.h:
+
+nyquist/tran/buzz.h:
+
+nyquist/tran/chase.h:
+
+nyquist/tran/clip.h:
+
+nyquist/tran/congen.h:
+
+nyquist/tran/const.h:
+
+nyquist/tran/coterm.h:
+
+nyquist/tran/delaycc.h:
+
+nyquist/tran/delaycv.h:
+
+nyquist/tran/eqbandvvv.h:
+
+nyquist/tran/exp.h:
+
+nyquist/tran/follow.h:
+
+nyquist/tran/fmosc.h:
+
+nyquist/tran/fromobject.h:
+
+nyquist/tran/fromarraystream.h:
+
+nyquist/tran/gate.h:
+
+nyquist/tran/ifft.h:
+
+nyquist/tran/instrclar.h:
+
+nyquist/tran/instrclarall.h:
+
+nyquist/tran/instrclarfreq.h:
+
+nyquist/tran/instrsax.h:
+
+nyquist/tran/instrsaxall.h:
+
+nyquist/tran/instrsaxfreq.h:
+
+nyquist/tran/integrate.h:
+
+nyquist/tran/log.h:
+
+nyquist/tran/lpreson.h:
+
+nyquist/tran/maxv.h:
+
+nyquist/tran/offset.h:
+
+nyquist/tran/oneshot.h:
+
+nyquist/tran/osc.h:
+
+nyquist/tran/partial.h:
+
+nyquist/tran/pluck.h:
+
+nyquist/tran/prod.h:
+
+nyquist/tran/pwl.h:
+
+nyquist/tran/quantize.h:
+
+nyquist/tran/recip.h:
+
+nyquist/tran/reson.h:
+
+nyquist/tran/resonvc.h:
+
+nyquist/tran/resoncv.h:
+
+nyquist/tran/resonvv.h:
+
+nyquist/tran/sampler.h:
+
+nyquist/tran/scale.h:
+
+nyquist/tran/shape.h:
+
+nyquist/tran/sine.h:
+
+nyquist/tran/siosc.h:
+
+nyquist/tran/slope.h:
+
+nyquist/tran/sqrt.h:
+
+nyquist/tran/tapf.h:
+
+nyquist/tran/tapv.h:
+
+nyquist/tran/tone.h:
+
+nyquist/tran/tonev.h:
+
+nyquist/tran/upsample.h:
+
+nyquist/tran/white.h:
+
+nyquist/tran/stkrev.h:
+
+nyquist/tran/stkpitshift.h:
+
+nyquist/tran/stkchorus.h:
+
+nyquist/tran/instrbow.h:
+
+nyquist/tran/instrbowedfreq.h:
+
+nyquist/tran/instrbanded.h:
+
+nyquist/tran/instrmandolin.h:
+
+nyquist/tran/instrsitar.h:
+
+nyquist/tran/instrmodalbar.h:
+
+nyquist/tran/instrflute.h:
+
+nyquist/tran/instrflutefreq.h:
+
+nyquist/tran/instrfluteall.h:
+
+nyquist/tran/fmfb.h:
+
+nyquist/tran/sine.h:
+
+nyquist/tran/fmfbv.h:

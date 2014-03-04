@@ -1,0 +1,112 @@
+10
+
+dir
+13066
+http://audacity.googlecode.com/svn/audacity-src/trunk/win/Projects
+http://audacity.googlecode.com/svn
+
+
+
+2014-02-17T00:50:13.197143Z
+13059
+v.audacity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47890b92-0858-11df-a26f-8b716316a5bc
+
+libflac
+dir
+
+locale
+dir
+
+libresample
+dir
+
+filedialog
+dir
+
+libid3tag
+dir
+
+taglib
+dir
+
+libnyquist
+dir
+
+lv2
+dir
+
+libogg
+dir
+
+Audacity
+dir
+
+twolame
+dir
+
+libsndfile
+dir
+
+mod-script-pipe
+dir
+
+libscorealign
+dir
+
+expat
+dir
+
+libflac++
+dir
+
+libsoxr
+dir
+
+portaudio-v19
+dir
+
+libsamplerate
+dir
+
+portmidi
+dir
+
+sbsms
+dir
+
+libmad
+dir
+
+help
+dir
+
+portmixer
+dir
+
+portsmf
+dir
+
+libvamp
+dir
+
+libvorbis
+dir
+
+soundtouch
+dir
+

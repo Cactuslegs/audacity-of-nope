@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12781/audacity-src/trunk/lib-src/lv2/lilv/src
+END
+pluginclass.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/pluginclass.c
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/port.c
+END
+instance.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/instance.c
+END
+node.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/node.c
+END
+query.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/query.c
+END
+lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/lib.c
+END
+lilv_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12781/audacity-src/trunk/lib-src/lv2/lilv/src/lilv_internal.h
+END
+world.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/world.c
+END
+ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/ui.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/util.c
+END
+plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/plugin.c
+END
+collections.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/collections.c
+END
+state.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/state.c
+END
+scalepoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/scalepoint.c
+END

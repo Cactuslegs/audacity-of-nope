@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src
+END
+syntax.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/syntax.c
+END
+sord_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/sord_test.c
+END
+sord.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/sord.c
+END
+sord_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/sord_internal.h
+END
+sordi.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/sordi.c
+END
+sord_validate.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/sord_validate.c
+END
+sordmm_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/sordmm_test.cpp
+END

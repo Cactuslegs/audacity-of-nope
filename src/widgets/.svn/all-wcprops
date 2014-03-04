@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/13033/audacity-src/trunk/src/widgets
+END
+AButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12607/audacity-src/trunk/src/widgets/AButton.cpp
+END
+LinkingHtmlWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11132/audacity-src/trunk/src/widgets/LinkingHtmlWindow.h
+END
+ErrorDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/ErrorDialog.h
+END
+MultiDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12356/audacity-src/trunk/src/widgets/MultiDialog.h
+END
+ImageRoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/ImageRoll.h
+END
+Meter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/Meter.h
+END
+numformatter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13013/audacity-src/trunk/src/widgets/numformatter.cpp
+END
+ProgressDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/ProgressDialog.cpp
+END
+ASlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/ASlider.h
+END
+KeyView.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12883/audacity-src/trunk/src/widgets/KeyView.h
+END
+Grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12101/audacity-src/trunk/src/widgets/Grid.h
+END
+HtmlWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12607/audacity-src/trunk/src/widgets/HtmlWindow.cpp
+END
+TimeTextCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12773/audacity-src/trunk/src/widgets/TimeTextCtrl.h
+END
+Ruler.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/Ruler.h
+END
+ExpandingToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/ExpandingToolBar.cpp
+END
+AttachableScrollBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/AttachableScrollBar.h
+END
+valnum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13013/audacity-src/trunk/src/widgets/valnum.cpp
+END
+Warning.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12965/audacity-src/trunk/src/widgets/Warning.cpp
+END
+FileHistory.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/FileHistory.h
+END
+LinkingHtmlWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12482/audacity-src/trunk/src/widgets/LinkingHtmlWindow.cpp
+END
+ErrorDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/ErrorDialog.cpp
+END
+Grabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/Grabber.h
+END
+MultiDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12356/audacity-src/trunk/src/widgets/MultiDialog.cpp
+END
+ImageRoll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/ImageRoll.cpp
+END
+Meter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12482/audacity-src/trunk/src/widgets/Meter.cpp
+END
+AButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/AButton.h
+END
+KeyView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12984/audacity-src/trunk/src/widgets/KeyView.cpp
+END
+ASlider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12607/audacity-src/trunk/src/widgets/ASlider.cpp
+END
+Grid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12816/audacity-src/trunk/src/widgets/Grid.cpp
+END
+TimeTextCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13033/audacity-src/trunk/src/widgets/TimeTextCtrl.cpp
+END
+numformatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13013/audacity-src/trunk/src/widgets/numformatter.h
+END
+ProgressDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/ProgressDialog.h
+END
+Ruler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12977/audacity-src/trunk/src/widgets/Ruler.cpp
+END
+AttachableScrollBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/AttachableScrollBar.cpp
+END
+HtmlWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/HtmlWindow.h
+END
+FileHistory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/FileHistory.cpp
+END
+Grabber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/Grabber.cpp
+END
+ExpandingToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12593/audacity-src/trunk/src/widgets/ExpandingToolBar.h
+END
+valnum.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13013/audacity-src/trunk/src/widgets/valnum.h
+END
+Warning.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12067/audacity-src/trunk/src/widgets/Warning.h
+END

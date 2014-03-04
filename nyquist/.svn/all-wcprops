@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/11806/audacity-src/trunk/nyquist
+END
+envelopes.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/envelopes.lsp
+END
+profile.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/profile.lsp
+END
+evalenv.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/evalenv.lsp
+END
+dspprims.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11790/audacity-src/trunk/nyquist/dspprims.lsp
+END
+stk.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/stk.lsp
+END
+equalizer.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/equalizer.lsp
+END
+follow.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/follow.lsp
+END
+init.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/init.lsp
+END
+fileio.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11806/audacity-src/trunk/nyquist/fileio.lsp
+END
+xlinit.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/xlinit.lsp
+END
+nyquist-plot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/nyquist/nyquist-plot.txt
+END
+nyinit.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/nyinit.lsp
+END
+nyquist.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10722/audacity-src/trunk/nyquist/nyquist.lsp
+END
+bug.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/bug.lsp
+END
+sal.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10761/audacity-src/trunk/nyquist/sal.lsp
+END
+nyqmisc.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/nyqmisc.lsp
+END
+sndfnint.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/sndfnint.lsp
+END
+system.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/system.lsp
+END
+xm.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/xm.lsp
+END
+printrec.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/printrec.lsp
+END
+seqfnint.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/seqfnint.lsp
+END
+sal-parse.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10761/audacity-src/trunk/nyquist/sal-parse.lsp
+END
+seq.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/seq.lsp
+END
+seqmidi.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/seqmidi.lsp
+END
+misc.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10107/audacity-src/trunk/nyquist/misc.lsp
+END

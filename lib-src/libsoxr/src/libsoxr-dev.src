@@ -1,0 +1,2 @@
+set(TARGET_HEADERS "/home/justin/audacity-read-only/lib-src/libsoxr/src/soxr.h;/home/justin/audacity-read-only/lib-src/libsoxr/src/soxr-lsr.h")
+set(TARGET_PCS "/home/justin/audacity-read-only/lib-src/libsoxr/src/soxr.pc /home/justin/audacity-read-only/lib-src/libsoxr/src/soxr-lsr.pc")

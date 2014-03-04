@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg03-metro.lv2
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg03-metro.lv2/README.txt
+END
+wscript
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg03-metro.lv2/wscript
+END
+manifest.ttl.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg03-metro.lv2/manifest.ttl.in
+END
+waf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg03-metro.lv2/waf
+END
+metro.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg03-metro.lv2/metro.c
+END
+metro.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg03-metro.lv2/metro.ttl
+END

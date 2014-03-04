@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/twolame/win32
+END
+libtwolame_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/win32/libtwolame_static.vcproj
+END
+configwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/twolame/win32/configwin.h
+END
+libtwolame_dll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/twolame/win32/libtwolame_dll.vcproj
+END
+winutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/twolame/win32/winutil.h
+END
+libtwolame_static.sln
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/twolame/win32/libtwolame_static.sln
+END
+libtwolame_dll.sln
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/twolame/win32/libtwolame_dll.sln
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12958/audacity-src/trunk/lib-src/twolame
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/autogen.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/twolame/README
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/aclocal.m4
+END
+twolame.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/twolame/twolame.pc.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/configure.ac
+END
+fix-tests.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12958/audacity-src/trunk/lib-src/twolame/fix-tests.patch
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/TODO
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/twolame/COPYING
+END

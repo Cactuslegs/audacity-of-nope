@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_java
+END
+mac-make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_java/mac-make.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_java/README.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_java/CMakeLists.txt
+END
+UpdateRsrcJavaExe.exe
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_java/UpdateRsrcJavaExe.exe
+END
+pmdefaults-setup-script.iss
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_java/pmdefaults-setup-script.iss
+END
+make.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_java/make.bat
+END
+JavaExe.exe
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_java/JavaExe.exe
+END

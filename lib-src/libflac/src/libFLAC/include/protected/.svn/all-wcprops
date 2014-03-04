@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/libFLAC/include/protected
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/include/protected/Makefile.am
+END
+all.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/include/protected/all.h
+END
+stream_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/include/protected/stream_encoder.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/src/libFLAC/include/protected/Makefile.in
+END
+stream_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/include/protected/stream_decoder.h
+END

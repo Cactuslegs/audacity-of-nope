@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libogg/win32/VS2008
+END
+libogg_dynamic.sln
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libogg/win32/VS2008/libogg_dynamic.sln
+END
+libogg_static.sln
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libogg/win32/VS2008/libogg_static.sln
+END
+libogg_dynamic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/win32/VS2008/libogg_dynamic.vcproj
+END
+libogg_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/win32/VS2008/libogg_static.vcproj
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/tests
+END
+large-ratio
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/tests/large-ratio
+END
+eg-test
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/tests/eg-test
+END
+vector-gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/tests/vector-gen.c
+END
+cmp-test.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/tests/cmp-test.cmake
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/tests/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/tests/README
+END
+vector-cmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/tests/vector-cmp.c
+END
+io-test
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/tests/io-test
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_common
+END
+portmidi-dynamic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_common/portmidi-dynamic.vcproj
+END
+pmutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/pm_common/pmutil.c
+END
+portmidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/pm_common/portmidi.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_common/CMakeLists.txt
+END
+portmidi-static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_common/portmidi-static.vcproj
+END
+pmjni.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_common/pmjni.vcproj
+END
+pminternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/pm_common/pminternal.h
+END
+pmutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/pm_common/pmutil.h
+END
+portmidi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_common/portmidi.c
+END

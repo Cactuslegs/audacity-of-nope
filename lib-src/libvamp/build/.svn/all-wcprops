@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvamp/build
+END
+README.osx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/README.osx
+END
+VampHostSDK.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/VampHostSDK.vcproj
+END
+libvamp-hostsdk.la.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/libvamp-hostsdk.la.in
+END
+libvamp-sdk.la.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/libvamp-sdk.la.in
+END
+vamp-plugin.list
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvamp/build/vamp-plugin.list
+END
+VampExamplePlugins.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvamp/build/VampExamplePlugins.vcxproj
+END
+vamp-plugin.map
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvamp/build/vamp-plugin.map
+END
+VampExamplePlugins.sln
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvamp/build/VampExamplePlugins.sln
+END
+VampPluginSDK.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvamp/build/VampPluginSDK.vcxproj
+END
+update-version.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/update-version.sh
+END
+VampPluginSDK.sln
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvamp/build/VampPluginSDK.sln
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/Doxyfile
+END
+VampExamplePlugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvamp/build/VampExamplePlugins.vcproj
+END
+Makefile.osx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/Makefile.osx
+END
+VampPluginSDK.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/VampPluginSDK.vcproj
+END
+Makefile.osx.106
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/Makefile.osx.106
+END
+README.linux
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/README.linux
+END
+VampHostSDK.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvamp/build/VampHostSDK.vcxproj
+END
+VampHostSDK.sln
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvamp/build/VampHostSDK.sln
+END
+Makefile.mingw32
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/Makefile.mingw32
+END
+README.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/build/README.msvc
+END

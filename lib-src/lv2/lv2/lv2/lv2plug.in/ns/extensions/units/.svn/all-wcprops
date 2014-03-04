@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/extensions/units
+END
+lv2-units.doap.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/extensions/units/lv2-units.doap.ttl
+END
+units.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/extensions/units/units.h
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/extensions/units/manifest.ttl
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/extensions/units/NEWS
+END
+units.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/extensions/units/units.ttl
+END

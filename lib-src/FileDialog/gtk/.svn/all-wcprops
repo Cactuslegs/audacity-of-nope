@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12889/audacity-src/trunk/lib-src/FileDialog/gtk
+END
+FileDialogPrivate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/FileDialog/gtk/FileDialogPrivate.cpp
+END
+FileDialogPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/FileDialog/gtk/FileDialogPrivate.h
+END
+private.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/FileDialog/gtk/private.h
+END

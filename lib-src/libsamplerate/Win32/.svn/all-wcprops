@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12938/audacity-src/trunk/lib-src/libsamplerate/Win32
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsamplerate/Win32/Makefile.am
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/Win32/config.h
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/Win32/unistd.h
+END
+libsamplerate-0.def
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libsamplerate/Win32/libsamplerate-0.def
+END
+Makefile.mingw.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsamplerate/Win32/Makefile.mingw.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12938/audacity-src/trunk/lib-src/libsamplerate/Win32/Makefile.in
+END
+Makefile.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libsamplerate/Win32/Makefile.msvc
+END
+libsamplerate.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/Win32/libsamplerate.vcproj
+END

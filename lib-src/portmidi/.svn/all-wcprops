@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/CMakeLists.txt
+END
+ZERO_CHECK.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/ZERO_CHECK.vcproj
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portmidi/license.txt
+END
+portmidi_cdt.zip
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/portmidi_cdt.zip
+END
+portmidi.sln
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/portmidi.sln
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portmidi/Doxyfile
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/CHANGELOG.txt
+END
+portmusic_logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portmidi/portmusic_logo.png
+END
+ALL_BUILD.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/ALL_BUILD.vcproj
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/README.txt
+END

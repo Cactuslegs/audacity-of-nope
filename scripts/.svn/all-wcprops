@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12974/audacity-src/trunk/scripts
+END
+mailman-discard.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10107/audacity-src/trunk/scripts/mailman-discard.pl
+END
+mkdmg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10436/audacity-src/trunk/scripts/mkdmg
+END
+mac_release_build
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10287/audacity-src/trunk/scripts/mac_release_build
+END
+pipe-test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12252/audacity-src/trunk/scripts/pipe-test.pl
+END
+maketarball.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12744/audacity-src/trunk/scripts/maketarball.sh
+END
+reindent
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10107/audacity-src/trunk/scripts/reindent
+END
+dot-emacs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10107/audacity-src/trunk/scripts/dot-emacs
+END

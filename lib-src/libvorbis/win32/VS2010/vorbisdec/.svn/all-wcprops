@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvorbis/win32/VS2010/vorbisdec
+END
+vorbisdec_dynamic.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvorbis/win32/VS2010/vorbisdec/vorbisdec_dynamic.vcxproj
+END
+vorbisdec_static.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvorbis/win32/VS2010/vorbisdec/vorbisdec_static.vcxproj
+END

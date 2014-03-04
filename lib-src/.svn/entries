@@ -1,0 +1,328 @@
+10
+
+dir
+13066
+http://audacity.googlecode.com/svn/audacity-src/trunk/lib-src
+http://audacity.googlecode.com/svn
+
+
+
+2014-01-18T23:22:45.963957Z
+13043
+james.k.crook@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+47890b92-0858-11df-a26f-8b716316a5bc
+
+libvorbis
+dir
+
+soundtouch
+dir
+
+libflac
+dir
+
+FileDialog
+dir
+
+lv2
+dir
+
+libogg
+dir
+
+id3lib
+dir
+
+lib-widget-extra
+dir
+
+libsndfile
+dir
+
+mod-script-pipe
+dir
+
+libvamp
+dir
+
+libresample
+dir
+
+mod-nyq-bench
+dir
+
+dist-libvamp.mk
+file
+
+
+
+
+2014-03-02T16:49:07.638713Z
+8593a26d96c04291619904c11ef9c006
+2013-11-20T02:51:42.280668Z
+12960
+benjamin.drung@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3651
+
+libid3tag
+dir
+
+taglib
+dir
+
+libnyquist
+dir
+
+ffmpeg
+dir
+
+audacity-patches.txt
+file
+
+
+
+
+2014-03-02T16:49:07.638713Z
+c3f339ce2ded44fc1aa281d3055e73da
+2013-11-20T00:02:36.400456Z
+12958
+benjamin.drung@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15910
+
+twolame
+dir
+
+Makefile.am
+file
+
+
+
+
+2014-03-02T16:49:07.638713Z
+791a892fe3cde98136488afedbac8257
+2013-11-20T02:51:42.280668Z
+12960
+benjamin.drung@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4121
+
+portburn
+dir
+
+libscorealign
+dir
+
+dist-portaudio.mk
+file
+
+
+
+
+2014-03-02T16:49:07.642713Z
+69fed7de6b39d87d73b8047e717e1fb1
+2013-11-20T02:51:42.280668Z
+12960
+benjamin.drung@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17631
+
+mod-track-panel
+dir
+
+lame
+dir
+
+expat
+dir
+
+libsoxr
+dir
+
+Makefile.in
+file
+
+
+
+
+2014-03-02T16:49:07.638713Z
+e53695a1fe538e0a42bdec1c9e7bda5a
+2013-11-20T03:03:34.452824Z
+12961
+benjamin.drung@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+49957
+
+portaudio-v19
+dir
+
+libsamplerate
+dir
+
+mod-null
+dir
+
+portmidi
+dir
+
+sbsms
+dir
+
+libmad
+dir
+
+portmixer
+dir
+
+dist-libsoxr.mk
+file
+
+
+
+
+2014-03-02T16:49:07.638713Z
+77f09a7389790d3fc65b3872939abea5
+2013-11-20T02:51:42.280668Z
+12960
+benjamin.drung@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2357
+
+portsmf
+dir
+

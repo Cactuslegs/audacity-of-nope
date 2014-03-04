@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/share/utf8
+END
+charmaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libflac/src/share/utf8/charmaps.h
+END
+utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/utf8/utf8.c
+END
+charset_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/utf8/charset_test.c
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/utf8/Makefile.lite
+END
+charset.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/utf8/charset.c
+END
+iconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/utf8/iconvert.c
+END
+makemap.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/utf8/makemap.c
+END
+charsetmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libflac/src/share/utf8/charsetmap.h
+END
+iconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/utf8/iconvert.h
+END
+charset.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/utf8/charset.h
+END
+utf8_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/utf8/utf8_static.vcproj
+END

@@ -1,0 +1,1 @@
+/usr/bin/gcc   -Wconversion -Wall -W -pedantic -Wundef -Wcast-align -Wpointer-arith -Wno-long-long -Wnested-externs -Wmissing-prototypes -Wstrict-prototypes -O3 -DNDEBUG    CMakeFiles/1a-lsr.dir/1a-lsr.c.o  -o 1a-lsr -rdynamic -lm ../src/libsoxr.a ../src/libsoxr-lsr.a ../src/libsoxr.a -lm 

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12929/audacity-src/trunk/lib-src/lv2/windows
+END
+sord_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12781/audacity-src/trunk/lib-src/lv2/windows/sord_config.h
+END
+serd_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12781/audacity-src/trunk/lib-src/lv2/windows/serd_config.h
+END
+sratom_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12781/audacity-src/trunk/lib-src/lv2/windows/sratom_config.h
+END
+lilv_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12929/audacity-src/trunk/lib-src/lv2/windows/lilv_config.h
+END

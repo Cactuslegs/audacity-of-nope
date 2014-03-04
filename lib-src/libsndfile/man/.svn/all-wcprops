@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/man
+END
+sndfile-info.1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsndfile/man/sndfile-info.1
+END
+sndfile-metadata-get.1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/man/sndfile-metadata-get.1
+END
+sndfile-interleave.1
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/man/sndfile-interleave.1
+END
+sndfile-cmp.1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/man/sndfile-cmp.1
+END
+sndfile-convert.1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/man/sndfile-convert.1
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/man/Makefile.in
+END
+sndfile-play.1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsndfile/man/sndfile-play.1
+END
+sndfile-concat.1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/man/sndfile-concat.1
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/man/Makefile.am
+END

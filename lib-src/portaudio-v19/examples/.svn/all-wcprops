@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/examples
+END
+paex_write_sine_nonint.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_write_sine_nonint.c
+END
+paex_sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_sine.c
+END
+paex_pink.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_pink.c
+END
+pa_fuzz.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/examples/pa_fuzz.c
+END
+pa_devs.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12592/audacity-src/trunk/lib-src/portaudio-v19/examples/pa_devs.c
+END
+paex_wmme_surround.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_wmme_surround.c
+END
+paex_write_sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_write_sine.c
+END
+paex_mono_asio_channel_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_mono_asio_channel_select.c
+END
+paex_read_write_wire.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_read_write_wire.c
+END
+paex_record_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_record_file.c
+END
+paex_record.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_record.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/examples/CMakeLists.txt
+END
+paex_ocean_shore.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_ocean_shore.c
+END
+paex_sine_c++.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_sine_c++.cpp
+END
+paex_saw.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_saw.c
+END
+paex_wmme_ac3.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/examples/paex_wmme_ac3.c
+END

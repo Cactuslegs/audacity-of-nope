@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12974/audacity-src/trunk/scripts/mw2html_audacity
+END
+sidebar.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12974/audacity-src/trunk/scripts/mw2html_audacity/sidebar.html
+END
+mw2html.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12860/audacity-src/trunk/scripts/mw2html_audacity/mw2html.py
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12502/audacity-src/trunk/scripts/mw2html_audacity/footer.html
+END
+wiki2htm.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11096/audacity-src/trunk/scripts/mw2html_audacity/wiki2htm.bat
+END
+htmldata.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12860/audacity-src/trunk/scripts/mw2html_audacity/htmldata.py
+END
+wiki2htm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11155/audacity-src/trunk/scripts/mw2html_audacity/wiki2htm.sh
+END

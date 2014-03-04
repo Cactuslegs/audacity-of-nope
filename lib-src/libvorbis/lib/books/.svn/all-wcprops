@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/lib/books
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/lib/books/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvorbis/lib/books/Makefile.am
+END

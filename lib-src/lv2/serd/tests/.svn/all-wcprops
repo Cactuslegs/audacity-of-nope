@@ -1,0 +1,1019 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/lv2/serd/tests
+END
+test-backspace.out
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-backspace.out
+END
+test-lang.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-lang.ttl
+END
+test-21.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-21.ttl
+END
+test-23.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-23.ttl
+END
+test-30.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-30.out
+END
+test-25.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-25.ttl
+END
+bad-11.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-11.ttl
+END
+bad-eof-in-string.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-eof-in-string.ttl
+END
+test-27.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-27.ttl
+END
+bad-13.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-13.ttl
+END
+test-29.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-29.ttl
+END
+test-out-of-range-unicode.out
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-out-of-range-unicode.out
+END
+test-delete.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-delete.ttl
+END
+bad-prefix.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-prefix.ttl
+END
+test-backspace.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-backspace.ttl
+END
+bad-datatype.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-datatype.ttl
+END
+rdfq-results.out
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/rdfq-results.out
+END
+test-30.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-30.ttl
+END
+bad-list.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-list.ttl
+END
+bad-eof-in-object-list2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-eof-in-object-list2.ttl
+END
+test-00.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-00.out
+END
+test-02.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-02.out
+END
+test-out-of-range-unicode.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-out-of-range-unicode.ttl
+END
+test-04.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-04.out
+END
+test-06.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-06.out
+END
+test-08.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-08.out
+END
+serd_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/serd_test.c
+END
+test-id.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-id.out
+END
+test-num.out
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-num.out
+END
+bad-verb.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-verb.ttl
+END
+bad-eof-in-lang-suffix.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-eof-in-lang-suffix.ttl
+END
+test-blank-in-list.out
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-blank-in-list.out
+END
+rdfq-results.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/rdfq-results.ttl
+END
+test-bad-utf8.out
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-bad-utf8.out
+END
+test-00.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-00.ttl
+END
+test-02.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-02.ttl
+END
+bad-eof-in-escape.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-eof-in-escape.ttl
+END
+test-04.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-04.ttl
+END
+test-11.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-11.out
+END
+test-06.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-06.ttl
+END
+test-08.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-08.ttl
+END
+test-13.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-13.out
+END
+test-utf8-uri.out
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-utf8-uri.out
+END
+test-15.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-15.out
+END
+test-17.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-17.out
+END
+test-id.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-id.ttl
+END
+test-no-spaces.out
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-no-spaces.out
+END
+test-19.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-19.out
+END
+test-digit-start-pname.out
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-digit-start-pname.out
+END
+test-num.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-num.ttl
+END
+base.out
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/base.out
+END
+test-blank-in-list.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-blank-in-list.ttl
+END
+test-bad-utf8.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-bad-utf8.ttl
+END
+bad-eof-in-triple-quote.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-eof-in-triple-quote.ttl
+END
+test-list-subject.out
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-list-subject.out
+END
+manifest-bad.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/manifest-bad.ttl
+END
+rdfs-namespace.out
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/rdfs-namespace.out
+END
+test-11.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-11.ttl
+END
+test-base-query.out
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-base-query.out
+END
+test-bom.out
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-bom.out
+END
+bad-eof-in-uri.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-eof-in-uri.ttl
+END
+test-13.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-13.ttl
+END
+test-utf8-uri.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-utf8-uri.ttl
+END
+test-15.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-15.ttl
+END
+test-20.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-20.out
+END
+test-17.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-17.ttl
+END
+test-22.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-22.out
+END
+bad-01.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-01.ttl
+END
+bad-lang.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-lang.ttl
+END
+test-no-spaces.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-no-spaces.ttl
+END
+test-24.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-24.out
+END
+test-19.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-19.ttl
+END
+bad-hex-digit.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-hex-digit.ttl
+END
+test-digit-start-pname.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-digit-start-pname.ttl
+END
+bad-03.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-03.ttl
+END
+test-26.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-26.out
+END
+bad-05.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-05.ttl
+END
+base.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/base.ttl
+END
+test-eof-at-page-end.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-eof-at-page-end.out
+END
+bad-07.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-07.ttl
+END
+bad-09.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-09.ttl
+END
+rdf-schema.out
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/rdf-schema.out
+END
+test-cr.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-cr.out
+END
+test-list-subject.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-list-subject.ttl
+END
+rdfs-namespace.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/rdfs-namespace.ttl
+END
+test-base-query.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-base-query.ttl
+END
+test-bom.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-bom.ttl
+END
+test-20.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-20.ttl
+END
+test-22.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-22.ttl
+END
+test-24.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-24.ttl
+END
+test-26.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-26.ttl
+END
+bad-10.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-10.ttl
+END
+bad-12.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-12.ttl
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/manifest.ttl
+END
+test-eof-at-page-end.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-eof-at-page-end.ttl
+END
+bad-14.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-14.ttl
+END
+bad-eof-in-predicate-list.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-eof-in-predicate-list.ttl
+END
+rdf-schema.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/rdf-schema.ttl
+END
+test-uri.out
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-uri.out
+END
+test-cr.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/lv2/serd/tests/test-cr.ttl
+END
+test-long-string.out
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-long-string.out
+END
+bad-eof-in-blank.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-eof-in-blank.ttl
+END
+test-list.out
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-list.out
+END
+test-01.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-01.out
+END
+test-semi-dot.out
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-semi-dot.out
+END
+test-rel.out
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-rel.out
+END
+test-03.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-03.out
+END
+bad-ns.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-ns.ttl
+END
+test-05.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-05.out
+END
+test-07.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-07.out
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/README.txt
+END
+test-09.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-09.out
+END
+bad-eof-in-list.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-eof-in-list.ttl
+END
+bad-blank.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-blank.ttl
+END
+test-uri.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-uri.ttl
+END
+bad-object2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-object2.ttl
+END
+bad-eof-in-object-list.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-eof-in-object-list.ttl
+END
+bad-namespace.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-namespace.ttl
+END
+test-long-string.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-long-string.ttl
+END
+bad-list2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-list2.ttl
+END
+bad-uri-escape.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-uri-escape.ttl
+END
+test-list.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-list.ttl
+END
+bad-object.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-object.ttl
+END
+bad-string.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-string.ttl
+END
+test-01.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-01.ttl
+END
+test-semi-dot.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-semi-dot.ttl
+END
+bad-base.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-base.ttl
+END
+test-rel.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-rel.ttl
+END
+test-03.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-03.ttl
+END
+test-05.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-05.ttl
+END
+test-10.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-10.out
+END
+UTF-8.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/UTF-8.ttl
+END
+test-07.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-07.ttl
+END
+test-12.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-12.out
+END
+test-escapes.out
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-escapes.out
+END
+test-09.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-09.ttl
+END
+test-14.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-14.out
+END
+test-16.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-16.out
+END
+test-pretty.out
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-pretty.out
+END
+test-blank-cont.out
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-blank-cont.out
+END
+test-18.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-18.out
+END
+test-prefix.out
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-prefix.out
+END
+bad-num.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-num.ttl
+END
+test-list-in-blank.out
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-list-in-blank.out
+END
+test-10.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-10.ttl
+END
+test-12.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-12.ttl
+END
+test-escapes.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-escapes.ttl
+END
+test-14.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-14.ttl
+END
+test-lang.out
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-lang.out
+END
+bad-00.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-00.ttl
+END
+test-16.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-16.ttl
+END
+test-21.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-21.out
+END
+test-pretty.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-pretty.ttl
+END
+bad-02.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-02.ttl
+END
+test-23.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-23.out
+END
+test-18.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-18.ttl
+END
+test-blank-cont.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-blank-cont.ttl
+END
+bad-04.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-04.ttl
+END
+test-25.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-25.out
+END
+bad-id-clash.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-id-clash.ttl
+END
+bad-06.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-06.ttl
+END
+test-27.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-27.out
+END
+test-prefix.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-prefix.ttl
+END
+bad-08.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-08.ttl
+END
+test-29.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-29.out
+END
+bad-eof-in-lang.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-eof-in-lang.ttl
+END
+test-list-in-blank.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-list-in-blank.ttl
+END
+test-delete.out
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/test-delete.out
+END
+bad-escape.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/tests/bad-escape.ttl
+END

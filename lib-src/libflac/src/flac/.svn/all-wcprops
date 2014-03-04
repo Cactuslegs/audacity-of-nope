@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/flac
+END
+iffscan.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/iffscan.vcproj
+END
+vorbiscomment.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/vorbiscomment.h
+END
+encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/encode.c
+END
+foreign_metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/foreign_metadata.h
+END
+local_string_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libflac/src/flac/local_string_utils.c
+END
+Makefile.lite.iffscan
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/Makefile.lite.iffscan
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/utils.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/src/flac/Makefile.in
+END
+encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/encode.h
+END
+analyze.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/analyze.c
+END
+local_string_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/local_string_utils.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/utils.h
+END
+analyze.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/analyze.h
+END
+iffscan.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/iffscan.c
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/decode.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/main.c
+END
+flac.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/flac.vcproj
+END
+vorbiscomment.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/vorbiscomment.c
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/Makefile.lite
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/Makefile.am
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/decode.h
+END
+foreign_metadata.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/flac/foreign_metadata.c
+END

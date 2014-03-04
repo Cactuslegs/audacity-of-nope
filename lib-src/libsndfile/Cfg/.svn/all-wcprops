@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Cfg
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Cfg/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Cfg/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Cfg/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Cfg/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Cfg/install-sh
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Cfg/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/Cfg/compile
+END

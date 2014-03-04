@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/port-props
+END
+port-props.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/port-props/port-props.ttl
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/port-props/manifest.ttl
+END
+lv2-port-props.doap.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/port-props/lv2-port-props.doap.ttl
+END
+port-props.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/port-props/port-props.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/port-props/NEWS
+END

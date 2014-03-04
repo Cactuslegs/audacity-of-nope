@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/utils
+END
+lilv.bash_completion
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/utils/lilv.bash_completion
+END
+uri_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/utils/uri_table.h
+END
+lv2info.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/utils/lv2info.c
+END
+lv2ls.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/utils/lv2ls.c
+END
+lv2bench.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/utils/lv2bench.c
+END
+lilv-bench.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/utils/lilv-bench.c
+END
+bench.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/utils/bench.h
+END

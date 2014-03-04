@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 124
+Makefile
+config.h
+config.log
+config.status
+ogg-uninstalled.pc
+ogg.pc
+stamp-h1
+aclocal.m4
+autom4te.cache
+libogg.spec
+libtool
+
+END

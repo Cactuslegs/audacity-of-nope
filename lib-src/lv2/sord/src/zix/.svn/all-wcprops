@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/zix
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/zix/tree.c
+END
+digest.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/zix/digest.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/zix/hash.c
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/zix/tree.h
+END
+digest.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/zix/digest.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/zix/hash.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/sord/src/zix/common.h
+END

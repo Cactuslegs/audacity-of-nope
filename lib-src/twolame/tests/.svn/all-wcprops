@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12958/audacity-src/trunk/lib-src/twolame/tests
+END
+test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/tests/test.pl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12958/audacity-src/trunk/lib-src/twolame/tests/Makefile.am
+END
+testcase-22050.wav
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/tests/testcase-22050.wav
+END
+testcase-44100.wav
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12737/audacity-src/trunk/lib-src/twolame/tests/testcase-44100.wav
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12741/audacity-src/trunk/lib-src/twolame/tests/Makefile.in
+END

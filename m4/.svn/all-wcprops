@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12963/audacity-src/trunk/m4
+END
+lib-prefix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12961/audacity-src/trunk/m4/lib-prefix.m4
+END
+fcntl-o.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12961/audacity-src/trunk/m4/fcntl-o.m4
+END
+lib-ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12961/audacity-src/trunk/m4/lib-ld.m4
+END
+intldir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12961/audacity-src/trunk/m4/intldir.m4
+END
+ax_cflags_warn_all.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10107/audacity-src/trunk/m4/ax_cflags_warn_all.m4
+END
+inttypes-pri.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12961/audacity-src/trunk/m4/inttypes-pri.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12961/audacity-src/trunk/m4/progtest.m4
+END
+audacity_checklib_taglib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_taglib.m4
+END
+stdint_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12961/audacity-src/trunk/m4/stdint_h.m4
+END
+audacity_checklib_portaudio.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_portaudio.m4
+END
+size_max.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12961/audacity-src/trunk/m4/size_max.m4
+END
+audacity_checklib_libexpat.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12963/audacity-src/trunk/m4/audacity_checklib_libexpat.m4
+END
+pkg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12762/audacity-src/trunk/m4/pkg.m4
+END
+audacity_checklib_libsndfile.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libsndfile.m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12961/audacity-src/trunk/m4/glibc21.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12961/audacity-src/trunk/m4/codeset.m4
+END
+ax_cflags_strict_prototypes.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10107/audacity-src/trunk/m4/ax_cflags_strict_prototypes.m4
+END
+audacity_checklib_libsoxr.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libsoxr.m4
+END
+audacity_checklib_widgetextra.m4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_widgetextra.m4
+END
+audacity_checklib_libmad.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libmad.m4
+END
+audacity_checklib_libflac.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libflac.m4
+END
+ax_check_compiler_flags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12762/audacity-src/trunk/m4/ax_check_compiler_flags.m4
+END
+intdiv0.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12961/audacity-src/trunk/m4/intdiv0.m4
+END
+ltsugar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12961/audacity-src/trunk/m4/ltsugar.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12961/audacity-src/trunk/m4/gettext.m4
+END
+visibility.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12961/audacity-src/trunk/m4/visibility.m4
+END
+lock.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12961/audacity-src/trunk/m4/lock.m4
+END
+ac_c99_func_lrintf.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12762/audacity-src/trunk/m4/ac_c99_func_lrintf.m4
+END
+intmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12961/audacity-src/trunk/m4/intmax.m4
+END
+audacity_checklib_libvamp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libvamp.m4
+END
+glibc2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12961/audacity-src/trunk/m4/glibc2.m4
+END
+audacity_checklib_libvorbis.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libvorbis.m4
+END
+wint_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12961/audacity-src/trunk/m4/wint_t.m4
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12961/audacity-src/trunk/m4/libtool.m4
+END
+intl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12961/audacity-src/trunk/m4/intl.m4
+END
+uintmax_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12961/audacity-src/trunk/m4/uintmax_t.m4
+END
+audacity_checklib_libid3tag.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libid3tag.m4
+END
+lt~obsolete.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12961/audacity-src/trunk/m4/lt~obsolete.m4
+END
+audacity_checklib_lv2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_lv2.m4
+END
+audacity_checklib_ffmpeg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_ffmpeg.m4
+END
+po.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12961/audacity-src/trunk/m4/po.m4
+END
+iconv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12961/audacity-src/trunk/m4/iconv.m4
+END
+ax_compiler_vendor.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12762/audacity-src/trunk/m4/ax_compiler_vendor.m4
+END
+ax_cxx_check_flag.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10107/audacity-src/trunk/m4/ax_cxx_check_flag.m4
+END
+intlmacosx.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12961/audacity-src/trunk/m4/intlmacosx.m4
+END
+ax_cxxcpp_check_flag.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10107/audacity-src/trunk/m4/ax_cxxcpp_check_flag.m4
+END
+audacity_checklib_libsbsms.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libsbsms.m4
+END
+audacity_checklib_lame.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_lame.m4
+END
+ac_c99_func_lrint.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12762/audacity-src/trunk/m4/ac_c99_func_lrint.m4
+END
+audacity_checklib_libsamplerate.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libsamplerate.m4
+END
+nls.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12961/audacity-src/trunk/m4/nls.m4
+END
+audacity_checklib_portsmf.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_portsmf.m4
+END
+lib-link.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12961/audacity-src/trunk/m4/lib-link.m4
+END
+xsize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12961/audacity-src/trunk/m4/xsize.m4
+END
+printf-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12961/audacity-src/trunk/m4/printf-posix.m4
+END
+lcmessage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12961/audacity-src/trunk/m4/lcmessage.m4
+END
+audacity_checklib_libresample.m4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libresample.m4
+END
+audacity_checklib_libtwolame.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libtwolame.m4
+END
+audacity_checklib_libnyquist.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libnyquist.m4
+END
+ax_ld_check_flag.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10107/audacity-src/trunk/m4/ax_ld_check_flag.m4
+END
+longlong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12961/audacity-src/trunk/m4/longlong.m4
+END
+ltversion.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12961/audacity-src/trunk/m4/ltversion.m4
+END
+inttypes_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12961/audacity-src/trunk/m4/inttypes_h.m4
+END
+wchar_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12961/audacity-src/trunk/m4/wchar_t.m4
+END
+audacity_checklib_libsoundtouch.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12960/audacity-src/trunk/m4/audacity_checklib_libsoundtouch.m4
+END
+ltoptions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12961/audacity-src/trunk/m4/ltoptions.m4
+END
+ax_config_dir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12762/audacity-src/trunk/m4/ax_config_dir.m4
+END
+threadlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12961/audacity-src/trunk/m4/threadlib.m4
+END

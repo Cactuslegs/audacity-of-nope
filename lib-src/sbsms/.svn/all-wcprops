@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12905/audacity-src/trunk/lib-src/sbsms
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/TODO
+END
+ar-lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12844/audacity-src/trunk/lib-src/sbsms/ar-lib
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12844/audacity-src/trunk/lib-src/sbsms/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12844/audacity-src/trunk/lib-src/sbsms/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12905/audacity-src/trunk/lib-src/sbsms/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/NEWS
+END
+libsbsms.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/libsbsms.spec.in
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/bootstrap
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12844/audacity-src/trunk/lib-src/sbsms/install-sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12844/audacity-src/trunk/lib-src/sbsms/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12844/audacity-src/trunk/lib-src/sbsms/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12905/audacity-src/trunk/lib-src/sbsms/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/AUTHORS
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12843/audacity-src/trunk/lib-src/sbsms/autotools.patch
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11696/audacity-src/trunk/lib-src/sbsms/ChangeLog
+END
+autotools-fix-make-dist.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12905/audacity-src/trunk/lib-src/sbsms/autotools-fix-make-dist.patch
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12844/audacity-src/trunk/lib-src/sbsms/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12844/audacity-src/trunk/lib-src/sbsms/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12844/audacity-src/trunk/lib-src/sbsms/ltmain.sh
+END
+sbsms.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/sbsms.pc.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/README
+END
+dont-mangle-cflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/sbsms/dont-mangle-cflags.patch
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12843/audacity-src/trunk/lib-src/sbsms/configure.ac
+END

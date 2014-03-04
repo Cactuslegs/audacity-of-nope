@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12938/audacity-src/trunk/lib-src/libsamplerate/doc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12938/audacity-src/trunk/lib-src/libsamplerate/doc/Makefile.in
+END
+api_simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/api_simple.html
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/license.html
+END
+api_misc.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/api_misc.html
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsamplerate/doc/ChangeLog
+END
+api_callback.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/api_callback.html
+END
+quality.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/quality.html
+END
+api_full.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/api_full.html
+END
+lists.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/lists.html
+END
+history.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/history.html
+END
+win32.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/win32.html
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsamplerate/doc/Makefile.am
+END
+faq.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/faq.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/index.html
+END
+download.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/download.html
+END
+SRC.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/SRC.png
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsamplerate/doc/NEWS
+END
+api.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/doc/api.html
+END
+SRC.css
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsamplerate/doc/SRC.css
+END

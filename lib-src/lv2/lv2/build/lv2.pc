@@ -1,0 +1,7 @@
+prefix=/home/justin/audacity-read-only/lib-src/lv2/lv2
+includedir=.
+
+Name: LV2
+Version: 1.6.0
+Description: An extensible audio plugin interface.
+Cflags: -I${includedir}

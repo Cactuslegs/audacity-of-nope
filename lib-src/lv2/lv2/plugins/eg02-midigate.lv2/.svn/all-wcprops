@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg02-midigate.lv2
+END
+midigate.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg02-midigate.lv2/midigate.c
+END
+midigate.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg02-midigate.lv2/midigate.ttl
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg02-midigate.lv2/README.txt
+END
+wscript
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg02-midigate.lv2/wscript
+END
+manifest.ttl.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg02-midigate.lv2/manifest.ttl.in
+END
+waf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg02-midigate.lv2/waf
+END

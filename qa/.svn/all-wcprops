@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12768/audacity-src/trunk/qa
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12768/audacity-src/trunk/qa/README.txt
+END
+General.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10189/audacity-src/trunk/qa/General.txt
+END
+UI.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10189/audacity-src/trunk/qa/UI.txt
+END
+Effects.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10189/audacity-src/trunk/qa/Effects.txt
+END
+Audio.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10189/audacity-src/trunk/qa/Audio.txt
+END
+Plugins.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10189/audacity-src/trunk/qa/Plugins.txt
+END
+IO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10189/audacity-src/trunk/qa/IO.txt
+END

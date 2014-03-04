@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/src/os/win
+END
+pa_win_waveformat.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/os/win/pa_win_waveformat.c
+END
+pa_win_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/os/win/pa_win_util.c
+END
+pa_win_coinitialize.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/src/os/win/pa_win_coinitialize.c
+END
+pa_win_wdmks_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/os/win/pa_win_wdmks_utils.c
+END
+pa_x86_plain_converters.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/12592/audacity-src/trunk/lib-src/portaudio-v19/src/os/win/pa_x86_plain_converters.c
+END
+pa_win_coinitialize.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/src/os/win/pa_win_coinitialize.h
+END
+pa_x86_plain_converters.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/os/win/pa_x86_plain_converters.h
+END
+pa_win_wdmks_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/os/win/pa_win_wdmks_utils.h
+END
+pa_win_hostapis.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12234/audacity-src/trunk/lib-src/portaudio-v19/src/os/win/pa_win_hostapis.c
+END

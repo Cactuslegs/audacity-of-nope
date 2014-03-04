@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/portsmf_test
+END
+test2.gro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/portsmf_test/test2.gro
+END
+portsmf_test-VC8.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12812/audacity-src/trunk/lib-src/portsmf/portsmf_test/portsmf_test-VC8.vcproj
+END
+portsmf_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/portsmf_test/portsmf_test.cpp
+END
+test5.gro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/portsmf_test/test5.gro
+END
+portsmf_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12812/audacity-src/trunk/lib-src/portsmf/portsmf_test/portsmf_test.vcproj
+END
+scale.gro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/portsmf_test/scale.gro
+END
+Makefile.osx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12812/audacity-src/trunk/lib-src/portsmf/portsmf_test/Makefile.osx
+END
+test.gro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/portsmf_test/test.gro
+END

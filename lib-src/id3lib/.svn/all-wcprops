@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12910/audacity-src/trunk/lib-src/id3lib
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12910/audacity-src/trunk/lib-src/id3lib/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/AUTHORS
+END
+THANKS
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/THANKS
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/ltmain.sh
+END
+HISTORY
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/HISTORY
+END
+ltconfig
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/ltconfig
+END
+config.win32
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/config.win32
+END
+cvs2cl.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/cvs2cl.pl
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/COPYING
+END
+acconfig
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/acconfig
+END
+macconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/id3lib/macconfig.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/NEWS
+END
+reconf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/reconf
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/stamp-h.in
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/mkinstalldirs
+END
+rename.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/rename.pl
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/configure.in
+END
+config.h.win32
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/config.h.win32
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/README
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/id3lib/acconfig.h
+END
+id3lib.lsm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/id3lib.lsm
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/config.h.in
+END
+config.h.win32.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/config.h.win32.in
+END
+id3lib.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/id3lib.spec.in
+END
+libtool
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/libtool
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/TODO
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/Makefile.am
+END
+id3lib.kdevprj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/id3lib/id3lib.kdevprj
+END

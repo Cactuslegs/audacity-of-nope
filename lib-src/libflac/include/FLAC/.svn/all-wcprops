@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/include/FLAC
+END
+stream_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/FLAC/stream_decoder.h
+END
+metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/FLAC/metadata.h
+END
+assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/FLAC/assert.h
+END
+export.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/FLAC/export.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/FLAC/Makefile.am
+END
+all.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/FLAC/all.h
+END
+format.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/FLAC/format.h
+END
+stream_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/FLAC/stream_encoder.h
+END
+ordinals.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/FLAC/ordinals.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/include/FLAC/Makefile.in
+END
+callback.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/FLAC/callback.h
+END

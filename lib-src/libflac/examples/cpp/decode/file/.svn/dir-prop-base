@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 115
+autom4te.cache
+config.h
+config.log
+config.status
+libtool
+Makefile
+stamp-h1
+.deps
+.dirstamp
+example_cpp_decode_file
+
+END

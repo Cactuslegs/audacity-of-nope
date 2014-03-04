@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/plugin_common
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/defs.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/Makefile.am
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/Makefile.lite
+END
+charset.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/charset.c
+END
+replaygain.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/replaygain.c
+END
+plugin_common_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/plugin_common_static.vcproj
+END
+charset.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/charset.h
+END
+tags.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/tags.c
+END
+replaygain.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/replaygain.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/src/plugin_common/Makefile.in
+END
+tags.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/tags.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/README
+END
+all.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/all.h
+END
+dither.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/dither.c
+END
+dither.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/plugin_common/dither.h
+END

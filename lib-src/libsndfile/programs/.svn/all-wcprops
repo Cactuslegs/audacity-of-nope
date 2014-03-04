@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/programs
+END
+sndfile-info.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/sndfile-info.c
+END
+sndfile-play-beos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsndfile/programs/sndfile-play-beos.cpp
+END
+test-sndfile-metadata-set.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/test-sndfile-metadata-set.py
+END
+sndfile-metadata-get.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/sndfile-metadata-get.c
+END
+sndfile-interleave.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/sndfile-interleave.c
+END
+sndfile-play.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/sndfile-play.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/programs/Makefile.am
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/common.c
+END
+sndfile-concat.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/sndfile-concat.c
+END
+sndfile-deinterleave.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/sndfile-deinterleave.c
+END
+sndfile-metadata-set.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/sndfile-metadata-set.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/common.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/programs/Makefile.in
+END
+sndfile-cmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/sndfile-cmp.c
+END
+sndfile-convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/sndfile-convert.c
+END
+sndfile-salvage.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/programs/sndfile-salvage.c
+END

@@ -1,0 +1,175 @@
+10
+
+dir
+13066
+http://audacity.googlecode.com/svn/audacity-src/trunk/lib-src/libflac/src
+http://audacity.googlecode.com/svn
+
+
+
+2013-11-07T18:32:35.141155Z
+12899
+benjamin.drung@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+47890b92-0858-11df-a26f-8b716316a5bc
+
+test_libFLAC
+dir
+
+libFLAC
+dir
+
+utils
+dir
+
+test_libs_common
+dir
+
+monkeys_audio_utilities
+dir
+
+plugin_xmms
+dir
+
+share
+dir
+
+flac
+dir
+
+plugin_common
+dir
+
+Makefile.am
+file
+
+
+
+
+2014-03-02T16:48:56.754659Z
+fda0a6285f1c9d52bdc93721704d0255
+2013-10-24T16:08:56.226314Z
+12745
+lllucius
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1257
+
+Makefile.lite
+file
+
+
+
+
+2014-03-02T16:48:56.754659Z
+3208724d0da52ba2df58cac2a301e564
+2013-10-24T16:08:56.226314Z
+12745
+lllucius
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2850
+
+metaflac
+dir
+
+test_streams
+dir
+
+test_libFLAC++
+dir
+
+libFLAC++
+dir
+
+Makefile.in
+file
+
+
+
+
+2014-03-02T16:48:56.754659Z
+66d8e87e7647e7fbc011a92d9cb92799
+2013-11-07T00:08:59.924982Z
+12893
+benjamin.drung@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20947
+
+test_seeking
+dir
+
+test_grabbag
+dir
+

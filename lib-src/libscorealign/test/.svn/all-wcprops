@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/test
+END
+cde.gro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/test/cde.gro
+END
+cde-11khz.wav
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/test/cde-11khz.wav
+END
+cde.mid
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/test/cde.mid
+END
+save.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12828/audacity-src/trunk/lib-src/libscorealign/test/save.sh
+END

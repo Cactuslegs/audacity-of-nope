@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/qa
+END
+paqa_latency.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12592/audacity-src/trunk/lib-src/portaudio-v19/qa/paqa_latency.c
+END
+paqa_devs.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12592/audacity-src/trunk/lib-src/portaudio-v19/qa/paqa_devs.c
+END
+paqa_errs.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/qa/paqa_errs.c
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf
+END
+codepage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/codepage.h
+END
+xmlmime.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/xmlmime.h
+END
+unixfilemap.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/unixfilemap.c
+END
+filemap.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/filemap.h
+END
+xmlwin32url.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/xmlwin32url.cxx
+END
+xmltchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/xmltchar.h
+END
+xmlurl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/xmlurl.h
+END
+xmlwf.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/xmlwf.c
+END
+win32filemap.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/win32filemap.c
+END
+xmlfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/xmlfile.c
+END
+xmlwf.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/xmlwf.dsp
+END
+xmlfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/xmlfile.h
+END
+ct.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/ct.c
+END
+codepage.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/codepage.c
+END
+xmlmime.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/xmlmime.c
+END
+readfilemap.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/xmlwf/readfilemap.c
+END

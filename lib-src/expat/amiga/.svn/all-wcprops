@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/amiga
+END
+expat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/amiga/expat.xml
+END
+expat_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/amiga/expat_base.h
+END
+expat_vectors.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/amiga/expat_vectors.c
+END
+expat_68k_handler_stubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/amiga/expat_68k_handler_stubs.c
+END
+expat_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/amiga/expat_lib.c
+END
+expat_68k.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/amiga/expat_68k.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/amiga/README.txt
+END
+launch.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/amiga/launch.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/amiga/Makefile
+END
+expat_68k.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/amiga/expat_68k.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/zix
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/zix/common.h
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/zix/tree.c
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lilv/src/zix/tree.h
+END

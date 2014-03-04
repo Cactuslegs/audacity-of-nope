@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/include/vorbis
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvorbis/include/vorbis/Makefile.am
+END
+vorbisfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/include/vorbis/vorbisfile.h
+END
+vorbisenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/include/vorbis/vorbisenc.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/include/vorbis/Makefile.in
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/include/vorbis/codec.h
+END

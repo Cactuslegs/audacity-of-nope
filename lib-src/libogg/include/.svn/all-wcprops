@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/include
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libogg/include/Makefile.am
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/include/Makefile.in
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12910/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp
+END
+portaudiocpp.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/portaudiocpp.pc.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/INSTALL
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/SConscript
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/README
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/aclocal.m4
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/win/LADSPA_plugins-win/glibc_includes/bits
+END
+wchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/win/LADSPA_plugins-win/glibc_includes/bits/wchar.h
+END
+wordsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10189/audacity-src/trunk/win/LADSPA_plugins-win/glibc_includes/bits/wordsize.h
+END

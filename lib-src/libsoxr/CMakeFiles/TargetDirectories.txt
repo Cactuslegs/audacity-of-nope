@@ -1,0 +1,10 @@
+/home/justin/audacity-read-only/lib-src/libsoxr/examples/CMakeFiles/1a-lsr.dir
+/home/justin/audacity-read-only/lib-src/libsoxr/examples/CMakeFiles/3-options-input-fn.dir
+/home/justin/audacity-read-only/lib-src/libsoxr/CMakeFiles/check.dir
+/home/justin/audacity-read-only/lib-src/libsoxr/CMakeFiles/deinstall.dir
+/home/justin/audacity-read-only/lib-src/libsoxr/CMakeFiles/distclean.dir
+/home/justin/audacity-read-only/lib-src/libsoxr/src/CMakeFiles/soxr.dir
+/home/justin/audacity-read-only/lib-src/libsoxr/src/CMakeFiles/soxr-lsr.dir
+/home/justin/audacity-read-only/lib-src/libsoxr/tests/CMakeFiles/test-vectors.dir
+/home/justin/audacity-read-only/lib-src/libsoxr/tests/CMakeFiles/vector-cmp.dir
+/home/justin/audacity-read-only/lib-src/libsoxr/tests/CMakeFiles/vector-gen.dir

@@ -1,0 +1,7 @@
+K 10
+svn:ignore
+V 46
+sndfile-deinterleave.1
+sndfile-metadata-set.1
+
+END

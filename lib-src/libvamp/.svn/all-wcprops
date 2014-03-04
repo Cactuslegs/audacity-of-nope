@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12951/audacity-src/trunk/lib-src/libvamp
+END
+README.compat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvamp/README.compat
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12951/audacity-src/trunk/lib-src/libvamp/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/INSTALL
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/CHANGELOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/README
+END
+fix-linkage-against-dl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12950/audacity-src/trunk/lib-src/libvamp/fix-linkage-against-dl.patch
+END
+fix-all-target.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12951/audacity-src/trunk/lib-src/libvamp/fix-all-target.patch
+END

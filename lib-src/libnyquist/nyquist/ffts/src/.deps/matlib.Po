@@ -1,0 +1,4 @@
+nyquist/ffts/src/matlib.o: nyquist/ffts/src/matlib.c \
+ nyquist/ffts/src/matlib.h
+
+nyquist/ffts/src/matlib.h:

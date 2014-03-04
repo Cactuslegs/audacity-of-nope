@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 38
+soundtouch_config.h
+stamp-h1
+Makefile
+
+END

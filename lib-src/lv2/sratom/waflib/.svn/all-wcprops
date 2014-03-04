@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib
+END
+Options.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/Options.py
+END
+TaskGen.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/TaskGen.py
+END
+Build.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/Build.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/__init__.py
+END
+Utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/Utils.py
+END
+Scripting.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/Scripting.py
+END
+Task.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/Task.py
+END
+Logs.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/Logs.py
+END
+Runner.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/Runner.py
+END
+Errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/Errors.py
+END
+Configure.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/Configure.py
+END
+fixpy2.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/fixpy2.py
+END
+ConfigSet.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/ConfigSet.py
+END
+ansiterm.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/ansiterm.py
+END
+Context.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/Context.py
+END
+Node.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/sratom/waflib/Node.py
+END

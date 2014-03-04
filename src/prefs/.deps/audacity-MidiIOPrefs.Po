@@ -1,0 +1,8 @@
+prefs/audacity-MidiIOPrefs.o: prefs/MidiIOPrefs.cpp prefs/../Audacity.h \
+ prefs/../configunix.h prefs/../Experimental.h
+
+prefs/../Audacity.h:
+
+prefs/../configunix.h:
+
+prefs/../Experimental.h:

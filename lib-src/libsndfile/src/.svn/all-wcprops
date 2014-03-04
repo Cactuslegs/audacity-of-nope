@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/src
+END
+test_endswap.def
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsndfile/src/test_endswap.def
+END
+gsm610.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/gsm610.c
+END
+test_endswap.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_endswap.tpl
+END
+create_symbols_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/create_symbols_file.py
+END
+rf64.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/rf64.c
+END
+libsndfile-1.def
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/libsndfile-1.def
+END
+htk.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/htk.c
+END
+dwvw.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/dwvw.c
+END
+test_audio_detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_audio_detect.c
+END
+avr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/avr.c
+END
+sd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/sd2.c
+END
+strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11750/audacity-src/trunk/lib-src/libsndfile/src/strings.c
+END
+sds.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/sds.c
+END
+caf.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/caf.c
+END
+pvf.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/pvf.c
+END
+wav_w64.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/wav_w64.c
+END
+wav_w64.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/wav_w64.h
+END
+binheader_writef_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/binheader_writef_check.py
+END
+test_float.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_float.c
+END
+paf.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/paf.c
+END
+mat5.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/mat5.c
+END
+test_strncpy_crlf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_strncpy_crlf.c
+END
+test_conversions.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_conversions.c
+END
+Symbols.os2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/Symbols.os2
+END
+rx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/rx2.c
+END
+ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/ogg.c
+END
+mpc2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/mpc2k.c
+END
+ima_oki_adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/ima_oki_adpcm.c
+END
+command.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/command.c
+END
+pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/pcm.c
+END
+w64.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/w64.c
+END
+svx.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/svx.c
+END
+ima_oki_adpcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/ima_oki_adpcm.h
+END
+txw.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/txw.c
+END
+test_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_main.c
+END
+alaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/alaw.c
+END
+sndfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/sndfile.c
+END
+Symbols.gnu-binutils
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/Symbols.gnu-binutils
+END
+g72x.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/g72x.c
+END
+voc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/voc.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/src/Makefile.am
+END
+test_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_main.h
+END
+ircam.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/ircam.c
+END
+sfendian.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/sfendian.h
+END
+Symbols.static
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/Symbols.static
+END
+wav.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12462/audacity-src/trunk/lib-src/libsndfile/src/wav.c
+END
+sndfile.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/sndfile.h.in
+END
+interleave.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/interleave.c
+END
+sndfile.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/sndfile.hh
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/src/Makefile.in
+END
+test_log_printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_log_printf.c
+END
+sfconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/sfconfig.h
+END
+flac.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/flac.c
+END
+au.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/au.c
+END
+aiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/aiff.c
+END
+chanmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/chanmap.c
+END
+ulaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/ulaw.c
+END
+ima_adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/ima_adpcm.c
+END
+test_ima_oki_adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_ima_oki_adpcm.c
+END
+chanmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/chanmap.h
+END
+id3.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11749/audacity-src/trunk/lib-src/libsndfile/src/id3.c
+END
+double64.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/double64.c
+END
+macbinary3.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/macbinary3.c
+END
+audio_detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/audio_detect.c
+END
+windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/windows.c
+END
+test_endswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_endswap.c
+END
+wve.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/wve.c
+END
+broadcast.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/broadcast.c
+END
+macos.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/macos.c
+END
+sf_unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/sf_unistd.h
+END
+test_file_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_file_io.c
+END
+mat4.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/mat4.c
+END
+chunk.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/chunk.c
+END
+test_broadcast_var.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/test_broadcast_var.c
+END
+nist.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/nist.c
+END
+dwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/dwd.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/config.h.in
+END
+dither.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/dither.c
+END
+vox_adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/vox_adpcm.c
+END
+xi.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/xi.c
+END
+make-static-lib-hidden-privates.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/make-static-lib-hidden-privates.sh
+END
+ms_adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/ms_adpcm.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/common.c
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/raw.c
+END
+version-metadata.rc.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/version-metadata.rc.in
+END
+Symbols.darwin
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/Symbols.darwin
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/common.h
+END
+file_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/file_io.c
+END
+float32.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/src/float32.c
+END

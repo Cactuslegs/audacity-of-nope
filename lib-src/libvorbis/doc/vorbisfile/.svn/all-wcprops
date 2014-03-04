@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile
+END
+ov_callbacks.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_callbacks.html
+END
+exampleindex.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/exampleindex.html
+END
+ov_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_test.html
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/style.css
+END
+seeking.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/seeking.html
+END
+ov_pcm_seek_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_pcm_seek_page.html
+END
+crosslap.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/crosslap.html
+END
+ov_pcm_seek_lap.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_pcm_seek_lap.html
+END
+ov_clear.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_clear.html
+END
+threads.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/threads.html
+END
+ov_serialnumber.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_serialnumber.html
+END
+OggVorbis_File.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/OggVorbis_File.html
+END
+ov_raw_seek_lap.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_raw_seek_lap.html
+END
+ov_time_seek_page_lap.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_time_seek_page_lap.html
+END
+seeking_example_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/seeking_example_c.html
+END
+ov_pcm_tell.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_pcm_tell.html
+END
+seekexample.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/seekexample.html
+END
+ov_test_open.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_test_open.html
+END
+ov_time_seek_lap.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_time_seek_lap.html
+END
+ov_open.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_open.html
+END
+ov_time_total.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_time_total.html
+END
+ov_comment.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_comment.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/index.html
+END
+ov_fopen.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_fopen.html
+END
+ov_raw_tell.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_raw_tell.html
+END
+ov_read.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_read.html
+END
+callbacks.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/callbacks.html
+END
+ov_streams.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_streams.html
+END
+ov_time_tell.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_time_tell.html
+END
+ov_test_callbacks.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_test_callbacks.html
+END
+ov_pcm_seek_page_lap.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_pcm_seek_page_lap.html
+END
+ov_read_filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_read_filter.html
+END
+seeking_test_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/seeking_test_c.html
+END
+ov_pcm_total.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_pcm_total.html
+END
+initialization.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/initialization.html
+END
+ov_crosslap.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_crosslap.html
+END
+ov_pcm_seek.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_pcm_seek.html
+END
+example.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/example.html
+END
+fileinfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/fileinfo.html
+END
+chainingexample.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/chainingexample.html
+END
+chaining_example_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/chaining_example_c.html
+END
+reference.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/reference.html
+END
+ov_bitrate_instant.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_bitrate_instant.html
+END
+ov_bitrate.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_bitrate.html
+END
+ov_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_info.html
+END
+ov_raw_total.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_raw_total.html
+END
+seekingexample.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/seekingexample.html
+END
+ov_open_callbacks.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_open_callbacks.html
+END
+ov_raw_seek.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_raw_seek.html
+END
+ov_read_float.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_read_float.html
+END
+ov_time_seek_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_time_seek_page.html
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/Makefile.am
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/overview.html
+END
+ov_time_seek.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_time_seek.html
+END
+decoding.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/decoding.html
+END
+datastructures.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/datastructures.html
+END
+ov_seekable.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/ov_seekable.html
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/Makefile.in
+END
+vorbisfile_example_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/doc/vorbisfile/vorbisfile_example_c.html
+END

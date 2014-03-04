@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10228/audacity-src/trunk/lib-src/libresample/src
+END
+filterkit.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/src/filterkit.c
+END
+resample_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/src/resample_defs.h
+END
+filterkit.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/src/filterkit.h
+END
+resamplesubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/src/resamplesubs.c
+END
+configtemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/src/configtemplate.h
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/src/resample.c
+END

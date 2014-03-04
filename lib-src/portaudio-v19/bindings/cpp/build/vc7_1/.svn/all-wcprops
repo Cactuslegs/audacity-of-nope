@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/build/vc7_1
+END
+sine_example.sln
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/build/vc7_1/sine_example.sln
+END
+static_library.sln
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/build/vc7_1/static_library.sln
+END
+devs_example.sln
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/build/vc7_1/devs_example.sln
+END
+sine_example.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/build/vc7_1/sine_example.vcproj
+END
+static_library.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/build/vc7_1/static_library.vcproj
+END
+devs_example.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/build/vc7_1/devs_example.vcproj
+END

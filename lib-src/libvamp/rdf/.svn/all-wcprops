@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/rdf
+END
+vamp.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/rdf/vamp.rdf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvamp/rdf/README
+END
+vamp.n3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/rdf/vamp.n3
+END
+ToDo
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvamp/rdf/ToDo
+END

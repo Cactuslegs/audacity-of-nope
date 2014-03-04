@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12592/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/coreaudio
+END
+pa_mac_core_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/coreaudio/pa_mac_core_internal.h
+END
+pa_mac_core_blocking.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/coreaudio/pa_mac_core_blocking.c
+END
+pa_mac_core_utilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/coreaudio/pa_mac_core_utilities.c
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10714/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/coreaudio/notes.txt
+END
+pa_mac_core_blocking.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10714/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/coreaudio/pa_mac_core_blocking.h
+END
+pa_mac_core_old.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/coreaudio/pa_mac_core_old.c
+END
+pa_mac_core_utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10711/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/coreaudio/pa_mac_core_utilities.h
+END
+pa_mac_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12592/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/coreaudio/pa_mac_core.c
+END

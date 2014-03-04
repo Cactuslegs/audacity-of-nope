@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/include/test_libs_common
+END
+metadata_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/test_libs_common/metadata_utils.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/test_libs_common/Makefile.am
+END
+file_utils_flac.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/include/test_libs_common/file_utils_flac.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/include/test_libs_common/Makefile.in
+END

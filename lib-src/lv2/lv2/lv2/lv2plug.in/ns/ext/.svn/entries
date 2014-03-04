@@ -1,0 +1,91 @@
+10
+
+dir
+13066
+http://audacity.googlecode.com/svn/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext
+http://audacity.googlecode.com/svn
+
+
+
+2013-10-27T08:56:51.386744Z
+12778
+lllucius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47890b92-0858-11df-a26f-8b716316a5bc
+
+state
+dir
+
+log
+dir
+
+dynmanifest
+dir
+
+event
+dir
+
+midi
+dir
+
+resize-port
+dir
+
+buf-size
+dir
+
+port-props
+dir
+
+presets
+dir
+
+morph
+dir
+
+options
+dir
+
+time
+dir
+
+patch
+dir
+
+atom
+dir
+
+port-groups
+dir
+
+parameters
+dir
+
+urid
+dir
+
+instance-access
+dir
+
+data-access
+dir
+
+worker
+dir
+
+uri-map
+dir
+

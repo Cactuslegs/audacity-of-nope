@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12959/audacity-src/trunk/tests/ProjectCheckTests/orphaned_blockfiles_data/e00/d00
+END
+e000055a.au
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/12959/audacity-src/trunk/tests/ProjectCheckTests/orphaned_blockfiles_data/e00/d00/e000055a.au
+END
+orphan1.au
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12959/audacity-src/trunk/tests/ProjectCheckTests/orphaned_blockfiles_data/e00/d00/orphan1.au
+END
+orphan2.au
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12959/audacity-src/trunk/tests/ProjectCheckTests/orphaned_blockfiles_data/e00/d00/orphan2.au
+END

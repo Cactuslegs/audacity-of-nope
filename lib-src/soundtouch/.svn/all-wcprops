@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12897/audacity-src/trunk/lib-src/soundtouch
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12897/audacity-src/trunk/lib-src/soundtouch/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12897/audacity-src/trunk/lib-src/soundtouch/Makefile.in
+END
+COPYING.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12739/audacity-src/trunk/lib-src/soundtouch/COPYING.TXT
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12838/audacity-src/trunk/lib-src/soundtouch/autotools.patch
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12739/audacity-src/trunk/lib-src/soundtouch/README.html
+END
+soundtouch-1.4.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12739/audacity-src/trunk/lib-src/soundtouch/soundtouch-1.4.pc.in
+END
+soundtouch.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12739/audacity-src/trunk/lib-src/soundtouch/soundtouch.pc.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12896/audacity-src/trunk/lib-src/soundtouch/configure.ac
+END
+libtool
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12740/audacity-src/trunk/lib-src/soundtouch/libtool
+END
+configure-file-README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/configure-file-README.txt
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12739/audacity-src/trunk/lib-src/soundtouch/Makefile.am
+END
+soundtouch.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12739/audacity-src/trunk/lib-src/soundtouch/soundtouch.m4
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12897/audacity-src/trunk/lib-src/soundtouch/aclocal.m4
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12739/audacity-src/trunk/lib-src/soundtouch/bootstrap
+END
+make-win.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12739/audacity-src/trunk/lib-src/soundtouch/make-win.bat
+END

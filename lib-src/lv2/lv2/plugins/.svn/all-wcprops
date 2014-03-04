@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/plugins
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/README.txt
+END
+wscript
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/wscript
+END
+literasc.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/literasc.py
+END

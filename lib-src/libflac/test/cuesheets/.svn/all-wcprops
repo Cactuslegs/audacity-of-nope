@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/test/cuesheets
+END
+bad.030.FLAGS_multiple.cue
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.030.FLAGS_multiple.cue
+END
+bad.131.TRACK_missing_INDEX_01_2.cue
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.131.TRACK_missing_INDEX_01_2.cue
+END
+bad.135.TRACK_invalid_number_1.cue
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.135.TRACK_invalid_number_1.cue
+END
+bad.139.TRACK_missing_type.cue
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.139.TRACK_missing_type.cue
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/Makefile.am
+END
+bad.133.TRACK_missing_INDEX_01_4.cue
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.133.TRACK_missing_INDEX_01_4.cue
+END
+bad.061.INDEX_missing_number.cue
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.061.INDEX_missing_number.cue
+END
+bad.200.FLAC_leadin_missing_offset.cue
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.200.FLAC_leadin_missing_offset.cue
+END
+bad.201.FLAC_leadin_illegal_offset.cue
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.201.FLAC_leadin_illegal_offset.cue
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/test/cuesheets/Makefile.in
+END
+bad.000.CATALOG_multiple.cue
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.000.CATALOG_multiple.cue
+END
+bad.065.INDEX_num_out_of_range.cue
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.065.INDEX_num_out_of_range.cue
+END
+bad.140.no_TRACKs.cue
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.140.no_TRACKs.cue
+END
+bad.234.FLAC_leadout_illegal_offset.cue
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.234.FLAC_leadout_illegal_offset.cue
+END
+bad.202.FLAC_leadin_cdda_illegal_offset.cue
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.202.FLAC_leadin_cdda_illegal_offset.cue
+END
+bad.070.INDEX_offset_not_ascending_1.cue
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.070.INDEX_offset_not_ascending_1.cue
+END
+bad.003.CATALOG_not_13_digits.cue
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.003.CATALOG_not_13_digits.cue
+END
+good.000.cue
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/good.000.cue
+END
+bad.111.ISRC_wrong_place_1.cue
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.111.ISRC_wrong_place_1.cue
+END
+good.001.cue
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/good.001.cue
+END
+bad.113.ISRC_missing_number.cue
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.113.ISRC_missing_number.cue
+END
+bad.063.first_INDEX_not_0_or_1.cue
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.063.first_INDEX_not_0_or_1.cue
+END
+good.003.missing_final_newline.cue
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/good.003.missing_final_newline.cue
+END
+bad.130.TRACK_missing_INDEX_01_1.cue
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.130.TRACK_missing_INDEX_01_1.cue
+END
+bad.001.CATALOG_missing_number.cue
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.001.CATALOG_missing_number.cue
+END
+bad.132.TRACK_missing_INDEX_01_3.cue
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.132.TRACK_missing_INDEX_01_3.cue
+END
+bad.110.ISRC_multiple.cue
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.110.ISRC_multiple.cue
+END
+bad.062.INDEX_invalid_number_1.cue
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.062.INDEX_invalid_number_1.cue
+END
+bad.136.TRACK_invalid_number_2.cue
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.136.TRACK_invalid_number_2.cue
+END
+bad.134.TRACK_missing_number.cue
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.134.TRACK_missing_number.cue
+END
+bad.137.TRACK_cdda_out_of_range.cue
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.137.TRACK_cdda_out_of_range.cue
+END
+bad.066.INDEX_missing_offset.cue
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.066.INDEX_missing_offset.cue
+END
+bad.235.FLAC_leadout_offset_not_211680000.cue
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.235.FLAC_leadout_offset_not_211680000.cue
+END
+bad.067.INDEX_illegal_offset.cue
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.067.INDEX_illegal_offset.cue
+END
+bad.002.CATALOG_number_too_long.cue
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.002.CATALOG_number_too_long.cue
+END
+bad.114.ISRC_invalid_number.cue
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.114.ISRC_invalid_number.cue
+END
+bad.233.FLAC_leadout_missing_offset.cue
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.233.FLAC_leadout_missing_offset.cue
+END
+bad.060.INDEX_wrong_place.cue
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.060.INDEX_wrong_place.cue
+END
+bad.068.INDEX_cdda_illegal_offset.cue
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.068.INDEX_cdda_illegal_offset.cue
+END
+bad.031.FLAGS_wrong_place_1.cue
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.031.FLAGS_wrong_place_1.cue
+END
+bad.071.INDEX_offset_not_ascending_2.cue
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.071.INDEX_offset_not_ascending_2.cue
+END
+good.002.dos_format.cue
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libflac/test/cuesheets/good.002.dos_format.cue
+END
+bad.230.FLAC_leadout_multiple.cue
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.230.FLAC_leadout_multiple.cue
+END
+bad.032.FLAGS_wrong_place_2.cue
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.032.FLAGS_wrong_place_2.cue
+END
+bad.138.TRACK_num_non_sequential.cue
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.138.TRACK_num_non_sequential.cue
+END
+bad.064.INDEX_num_non_sequential.cue
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.064.INDEX_num_non_sequential.cue
+END
+bad.231.FLAC_leadout_missing_track.cue
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.231.FLAC_leadout_missing_track.cue
+END
+bad.112.ISRC_wrong_place_2.cue
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.112.ISRC_wrong_place_2.cue
+END
+good.004.dos_format.missing_final_newline.cue
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libflac/test/cuesheets/good.004.dos_format.missing_final_newline.cue
+END
+bad.232.FLAC_leadout_illegal_track.cue
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.232.FLAC_leadout_illegal_track.cue
+END
+bad.069.nonzero_first_INDEX.cue
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheets/bad.069.nonzero_first_INDEX.cue
+END

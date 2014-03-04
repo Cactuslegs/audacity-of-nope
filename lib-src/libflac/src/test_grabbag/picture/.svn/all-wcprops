@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/test_grabbag/picture
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_grabbag/picture/Makefile.lite
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_grabbag/picture/Makefile.am
+END
+test_picture.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_grabbag/picture/test_picture.vcproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/src/test_grabbag/picture/Makefile.in
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_grabbag/picture/main.c
+END

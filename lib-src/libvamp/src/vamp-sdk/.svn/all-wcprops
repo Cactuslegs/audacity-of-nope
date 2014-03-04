@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/src/vamp-sdk
+END
+FFTimpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/src/vamp-sdk/FFTimpl.cpp
+END
+RealTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/src/vamp-sdk/RealTime.cpp
+END
+acsymbols.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/src/vamp-sdk/acsymbols.c
+END
+PluginAdapter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/src/vamp-sdk/PluginAdapter.cpp
+END
+FFT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/src/vamp-sdk/FFT.cpp
+END

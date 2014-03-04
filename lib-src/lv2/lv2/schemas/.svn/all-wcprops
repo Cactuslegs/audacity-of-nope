@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas
+END
+doap.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/doap.ttl
+END
+dcam.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/dcam.ttl
+END
+dc.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/dc.ttl
+END
+aboutdcmi.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/aboutdcmi.ttl
+END
+dctype.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/dctype.ttl
+END
+dcs.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/dcs.ttl
+END
+dct.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/dct.ttl
+END
+rdf.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/rdf.ttl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/README
+END
+foaf.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/foaf.ttl
+END
+xsd.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/xsd.ttl
+END
+rdfs.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/rdfs.ttl
+END
+skos.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/skos.ttl
+END
+owl.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/schemas/owl.ttl
+END

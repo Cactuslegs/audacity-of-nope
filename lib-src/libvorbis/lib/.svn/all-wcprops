@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/lib
+END
+lookups.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/lookups.pl
+END
+mdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/mdct.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12765/audacity-src/trunk/lib-src/libvorbis/lib/Makefile.am
+END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/block.c
+END
+mdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/mdct.h
+END
+masking.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/masking.h
+END
+lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/lsp.c
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/misc.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/lib/Makefile.in
+END
+floor0.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/floor0.c
+END
+floor1.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/floor1.c
+END
+lsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/lsp.h
+END
+tone.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/tone.c
+END
+psytune.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/psytune.c
+END
+registry.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/registry.c
+END
+mapping0.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/mapping0.c
+END
+psy.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/psy.c
+END
+envelope.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/envelope.c
+END
+registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/registry.h
+END
+barkmel.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/barkmel.c
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/lpc.c
+END
+codec_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/codec_internal.h
+END
+backends.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/backends.h
+END
+psy.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/psy.h
+END
+envelope.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/envelope.h
+END
+lpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/lpc.h
+END
+codebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/codebook.c
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/os.h
+END
+synthesis.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/synthesis.c
+END
+bitrate.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/bitrate.c
+END
+vorbisenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/vorbisenc.c
+END
+codebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/codebook.h
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/info.c
+END
+bitrate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/bitrate.h
+END
+smallft.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/smallft.c
+END
+vorbisfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/vorbisfile.c
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/window.c
+END
+lookup_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/lookup_data.h
+END
+smallft.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/smallft.h
+END
+res0.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/res0.c
+END
+lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/lookup.c
+END
+highlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/highlevel.h
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/window.h
+END
+lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/lookup.h
+END
+scales.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/scales.h
+END
+sharedbook.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/sharedbook.c
+END
+analysis.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/lib/analysis.c
+END

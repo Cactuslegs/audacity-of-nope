@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/libFLAC/ia32
+END
+fixed_asm.nasm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/ia32/fixed_asm.nasm
+END
+bitreader_asm.nasm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/ia32/bitreader_asm.nasm
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/src/libFLAC/ia32/Makefile.in
+END
+nasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12747/audacity-src/trunk/lib-src/libflac/src/libFLAC/ia32/nasm.h
+END
+cpu_asm.nasm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/ia32/cpu_asm.nasm
+END
+stream_encoder_asm.nasm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/ia32/stream_encoder_asm.nasm
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/ia32/Makefile.am
+END
+lpc_asm.nasm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/ia32/lpc_asm.nasm
+END

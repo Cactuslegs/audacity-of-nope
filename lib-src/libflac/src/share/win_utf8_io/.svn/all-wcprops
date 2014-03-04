@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/share/win_utf8_io
+END
+win_utf8_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/win_utf8_io/win_utf8_io.c
+END
+win_utf8_io.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/share/win_utf8_io/win_utf8_io.vcproj
+END

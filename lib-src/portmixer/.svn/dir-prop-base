@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 57
+Makefile
+autom4te.cache
+config.log
+config.status
+libtool
+
+END

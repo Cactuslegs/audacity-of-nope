@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12592/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/asio
+END
+ASIO-README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/asio/ASIO-README.txt
+END
+Callback_adaptation_.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/asio/Callback_adaptation_.pdf
+END
+iasiothiscallresolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10711/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/asio/iasiothiscallresolver.cpp
+END
+pa_asio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12592/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/asio/pa_asio.cpp
+END
+iasiothiscallresolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10711/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/asio/iasiothiscallresolver.h
+END
+Pa_ASIO.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/asio/Pa_ASIO.pdf
+END

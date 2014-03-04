@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12956/audacity-src/trunk/lib-src/libsoxr
+END
+add-make-check-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12956/audacity-src/trunk/lib-src/libsoxr/add-make-check-support.patch
+END
+inst-check
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/inst-check
+END
+soxr-config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/soxr-config.h.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/README
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/LICENCE
+END
+deinstall.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/deinstall.cmake.in
+END
+go
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/go
+END
+COPYING.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11996/audacity-src/trunk/lib-src/libsoxr/COPYING.LGPL
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11996/audacity-src/trunk/lib-src/libsoxr/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/INSTALL
+END
+go.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/go.bat
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/NEWS
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12956/audacity-src/trunk/lib-src/libsoxr/CMakeLists.txt
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12865/audacity-src/trunk/lib-src/libsoxr/configure
+END
+inst-check-soxr
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/inst-check-soxr
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11996/audacity-src/trunk/lib-src/libsoxr/AUTHORS
+END

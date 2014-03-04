@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/justin/audacity-read-only/lib-src/libsoxr/tests/../src/rint.h
+soxr-config.h
+/home/justin/audacity-read-only/lib-src/libsoxr/tests/../src/soxr-config.h
+math.h
+-
+
+/home/justin/audacity-read-only/lib-src/libsoxr/tests/vector-cmp.c
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+../src/rint.h
+/home/justin/audacity-read-only/lib-src/libsoxr/tests/../src/rint.h
+
+soxr-config.h
+limits.h
+-
+

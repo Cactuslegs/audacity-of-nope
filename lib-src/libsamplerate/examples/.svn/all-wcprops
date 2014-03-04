@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12938/audacity-src/trunk/lib-src/libsamplerate/examples
+END
+audio_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/examples/audio_out.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12938/audacity-src/trunk/lib-src/libsamplerate/examples/Makefile.am
+END
+sndfile-resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/examples/sndfile-resample.c
+END
+audio_out.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/examples/audio_out.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12938/audacity-src/trunk/lib-src/libsamplerate/examples/Makefile.in
+END
+timewarp-file.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/examples/timewarp-file.c
+END
+varispeed-play.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsamplerate/examples/varispeed-play.c
+END

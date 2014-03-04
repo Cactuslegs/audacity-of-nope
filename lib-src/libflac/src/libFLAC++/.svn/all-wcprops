@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/libFLAC++
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/src/libFLAC++/Makefile.in
+END
+libFLAC++_dynamic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC++/libFLAC++_dynamic.vcproj
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC++/Makefile.lite
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12747/audacity-src/trunk/lib-src/libflac/src/libFLAC++/Makefile.am
+END
+libFLAC++_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC++/libFLAC++_static.vcproj
+END
+stream_encoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC++/stream_encoder.cpp
+END
+flac++.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC++/flac++.pc.in
+END
+metadata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC++/metadata.cpp
+END
+stream_decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC++/stream_decoder.cpp
+END
+libFLAC++.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libflac/src/libFLAC++/libFLAC++.m4
+END

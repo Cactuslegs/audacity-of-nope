@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/win32
+END
+MANIFEST.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/win32/MANIFEST.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/win32/README.txt
+END
+expat.iss
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/win32/expat.iss
+END

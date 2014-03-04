@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/bin
+END
+run_test.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/bin/run_test.cmd
+END
+run_test
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12739/audacity-src/trunk/lib-src/soundtouch/bin/run_test
+END

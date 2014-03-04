@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 99
+autom4te.cache
+config.h
+config.log
+config.status
+libtool
+Makefile
+stamp-h1
+.deps
+.dirstamp
+flac.pc
+
+END

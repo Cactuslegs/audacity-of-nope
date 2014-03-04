@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12592/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/oss
+END
+pa_unix_oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12592/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/oss/pa_unix_oss.c
+END
+low_latency_tip.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10714/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/oss/low_latency_tip.txt
+END
+recplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10714/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/oss/recplay.c
+END

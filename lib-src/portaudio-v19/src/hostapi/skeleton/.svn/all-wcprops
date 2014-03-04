@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/skeleton
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/skeleton/README.txt
+END
+pa_hostapi_skeleton.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/skeleton/pa_hostapi_skeleton.c
+END

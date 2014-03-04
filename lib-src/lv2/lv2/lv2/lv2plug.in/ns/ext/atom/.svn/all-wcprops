@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/atom
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/atom/NEWS
+END
+atom-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/atom/atom-test.c
+END
+atom.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/atom/atom.ttl
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/atom/util.h
+END
+lv2-atom.doap.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/atom/lv2-atom.doap.ttl
+END
+atom.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/atom/atom.h
+END
+forge.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/atom/forge.h
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2/lv2plug.in/ns/ext/atom/manifest.ttl
+END

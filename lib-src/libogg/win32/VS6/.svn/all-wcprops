@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libogg/win32/VS6
+END
+build_ogg_dynamic_debug.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/win32/VS6/build_ogg_dynamic_debug.bat
+END
+build_ogg_static_debug.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/win32/VS6/build_ogg_static_debug.bat
+END
+build_ogg_dynamic.bat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/win32/VS6/build_ogg_dynamic.bat
+END
+ogg_dynamic.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libogg/win32/VS6/ogg_dynamic.dsp
+END
+build_ogg_static.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/win32/VS6/build_ogg_static.bat
+END
+ogg.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libogg/win32/VS6/ogg.dsw
+END
+ogg_static.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libogg/win32/VS6/ogg_static.dsp
+END

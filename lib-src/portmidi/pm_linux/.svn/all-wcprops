@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_linux
+END
+pmlinuxalsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_linux/pmlinuxalsa.h
+END
+finddefault.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_linux/finddefault.c
+END
+README_LINUX.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_linux/README_LINUX.txt
+END
+pmlinux.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portmidi/pm_linux/pmlinux.c
+END
+pmlinuxalsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_linux/pmlinuxalsa.c
+END
+pmlinux.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portmidi/pm_linux/pmlinux.h
+END

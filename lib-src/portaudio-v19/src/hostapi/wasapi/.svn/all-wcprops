@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/wasapi
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/wasapi/readme.txt
+END
+pa_win_wasapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12594/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/wasapi/pa_win_wasapi.c
+END

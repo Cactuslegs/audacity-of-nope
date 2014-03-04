@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/sys/win/msvc
+END
+winstuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/sys/win/msvc/winstuff.c
+END
+winfun.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/sys/win/msvc/winfun.c
+END
+winfun.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/sys/win/msvc/winfun.h
+END
+switches.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/sys/win/msvc/switches.h
+END
+sndsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/sys/win/msvc/sndsystem.h
+END
+system.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/sys/win/msvc/system.lsp
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp
+END
+Device.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/Device.hxx
+END
+BlockingStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/BlockingStream.hxx
+END
+HostApi.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/HostApi.hxx
+END
+CallbackStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/CallbackStream.hxx
+END
+PortAudioCpp.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/PortAudioCpp.hxx
+END
+AsioDeviceAdapter.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/AsioDeviceAdapter.hxx
+END
+AutoSystem.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/AutoSystem.hxx
+END
+CallbackInterface.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/CallbackInterface.hxx
+END
+SystemDeviceIterator.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/SystemDeviceIterator.hxx
+END
+StreamParameters.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/StreamParameters.hxx
+END
+MemFunCallbackStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/MemFunCallbackStream.hxx
+END
+CFunCallbackStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/CFunCallbackStream.hxx
+END
+CppFunCallbackStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/CppFunCallbackStream.hxx
+END
+SampleDataFormat.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/SampleDataFormat.hxx
+END
+System.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/System.hxx
+END
+SystemHostApiIterator.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/SystemHostApiIterator.hxx
+END
+DirectionSpecificStreamParameters.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/DirectionSpecificStreamParameters.hxx
+END
+InterfaceCallbackStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/InterfaceCallbackStream.hxx
+END
+Stream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/Stream.hxx
+END
+Exception.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/portaudiocpp/Exception.hxx
+END

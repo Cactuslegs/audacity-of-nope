@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/doc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/Makefile.am
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/index.html
+END
+fish_xiph_org.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/fish_xiph_org.png
+END
+packets.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/packets.png
+END
+white-ogg.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/white-ogg.png
+END
+stream.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/stream.png
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/doc/Makefile.in
+END
+pages.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/pages.png
+END
+framing.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/framing.html
+END
+skeleton.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/skeleton.html
+END
+multiplex1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/multiplex1.png
+END
+oggstream.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/oggstream.html
+END
+white-xifish.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/white-xifish.png
+END
+ogg-multiplex.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/ogg-multiplex.html
+END
+vorbisword2.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/vorbisword2.png
+END
+rfc3533.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/rfc3533.txt
+END
+rfc5334.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/rfc5334.txt
+END

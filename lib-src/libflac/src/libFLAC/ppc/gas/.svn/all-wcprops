@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/libFLAC/ppc/gas
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/ppc/gas/Makefile.am
+END
+lpc_asm.s
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/libFLAC/ppc/gas/lpc_asm.s
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/src/libFLAC/ppc/gas/Makefile.in
+END

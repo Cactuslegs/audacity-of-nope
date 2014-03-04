@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12807/audacity-src/trunk/win/Projects/libsndfile
+END
+sndfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11069/audacity-src/trunk/win/Projects/libsndfile/sndfile.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/win/Projects/libsndfile/config.h
+END
+libsndfile.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12807/audacity-src/trunk/win/Projects/libsndfile/libsndfile.vcxproj.filters
+END
+libsndfile.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12804/audacity-src/trunk/win/Projects/libsndfile/libsndfile.vcproj
+END
+libsndfile.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12805/audacity-src/trunk/win/Projects/libsndfile/libsndfile.vcxproj
+END

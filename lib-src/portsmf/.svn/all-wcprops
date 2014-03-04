@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12910/audacity-src/trunk/lib-src/portsmf
+END
+allegrosmfwr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10695/audacity-src/trunk/lib-src/portsmf/allegrosmfwr.cpp
+END
+mfmidi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/mfmidi.cpp
+END
+autotools-fix-make-dist.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12906/audacity-src/trunk/lib-src/portsmf/autotools-fix-make-dist.patch
+END
+strparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/strparse.h
+END
+portsmf.suo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12812/audacity-src/trunk/lib-src/portsmf/portsmf.suo
+END
+portSMF.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/portSMF.pc.in
+END
+allegrosmfrd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portsmf/allegrosmfrd.cpp
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12812/audacity-src/trunk/lib-src/portsmf/changelog.txt
+END
+allegro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12812/audacity-src/trunk/lib-src/portsmf/allegro.cpp
+END
+allegroserial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/allegroserial.cpp
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/notes.txt
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12906/audacity-src/trunk/lib-src/portsmf/Makefile.am
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/README.txt
+END
+allegro.htm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/allegro.htm
+END
+allegrowr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portsmf/allegrowr.cpp
+END
+portSMF-uninstalled.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/portSMF-uninstalled.pc.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12910/audacity-src/trunk/lib-src/portsmf/configure
+END
+algsmfrd_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/algsmfrd_internal.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12906/audacity-src/trunk/lib-src/portsmf/Makefile.in
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/todo.txt
+END
+portsmf-VC8.sln
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/portsmf-VC8.sln
+END
+strparse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portsmf/strparse.cpp
+END
+trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/trace.h
+END
+portsmf.sln
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portsmf/portsmf.sln
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12818/audacity-src/trunk/lib-src/portsmf/autotools.patch
+END
+portsmf-VC8.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12812/audacity-src/trunk/lib-src/portsmf/portsmf-VC8.vcproj
+END
+mfmidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/mfmidi.h
+END
+portsmf.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/portsmf.vcproj
+END
+allegrord.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portsmf/allegrord.cpp
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/license.txt
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12857/audacity-src/trunk/lib-src/portsmf/configure.ac
+END
+algrd_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10680/audacity-src/trunk/lib-src/portsmf/algrd_internal.h
+END
+allegro.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12812/audacity-src/trunk/lib-src/portsmf/allegro.h
+END
+trace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portsmf/trace.cpp
+END

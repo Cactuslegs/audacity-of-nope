@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11636/audacity-src/trunk/mac/wxMac_additions
+END
+wxMac-2.8.12-wxaccessible.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11636/audacity-src/trunk/mac/wxMac_additions/wxMac-2.8.12-wxaccessible.patch
+END
+wxMac_bug_2_10.5.8_PPC.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11486/audacity-src/trunk/mac/wxMac_additions/wxMac_bug_2_10.5.8_PPC.patch
+END

@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/util.c
+END
+ucs4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/ucs4.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag/config.h.in
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/util.h
+END
+ucs4.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/ucs4.h
+END
+genre.dat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/genre.dat
+END
+latin1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/latin1.c
+END
+frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/frame.c
+END
+frametype.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/frametype.c
+END
+latin1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/latin1.h
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/frame.h
+END
+genre.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/genre.c
+END
+genre.dat.sed
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/genre.dat.sed
+END
+frametype.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/frametype.h
+END
+compat.gperf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/compat.gperf
+END
+genre.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/genre.h
+END
+crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/crc.c
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/CREDITS
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/crc.h
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag/ltmain.sh
+END
+render.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/render.c
+END
+id3tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/id3tag.h
+END
+render.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/render.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/INSTALL
+END
+utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/utf8.c
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/CHANGES
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/COPYRIGHT
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/utf8.h
+END
+libid3tag.list.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/libid3tag.list.in
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/parse.c
+END
+tag.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/tag.c
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag/config.sub
+END
+frametype.gperf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/frametype.gperf
+END
+parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/parse.h
+END
+tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/tag.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/configure.ac
+END
+field.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/field.c
+END
+ltconfig
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/ltconfig
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/version.c
+END
+field.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/field.h
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/Makefile.am
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/version.h
+END
+genre.dat.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/genre.dat.in
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/stamp-h.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag/Makefile.in
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/VERSION
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/global.h
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag/depcomp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/README
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/file.c
+END
+libid3tag.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/libid3tag.vcproj
+END
+compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/compat.c
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/file.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/debug.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libid3tag/COPYING
+END
+compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/compat.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/debug.h
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag/install-sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag/mkinstalldirs
+END
+utf16.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/utf16.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12847/audacity-src/trunk/lib-src/libid3tag/config.guess
+END
+utf16.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libid3tag/utf16.h
+END

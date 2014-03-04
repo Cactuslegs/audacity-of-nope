@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/13059/audacity-src/trunk/win
+END
+audacity.rc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13017/audacity-src/trunk/win/audacity.rc
+END
+compile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13049/audacity-src/trunk/win/compile.txt
+END
+po.rules
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10107/audacity-src/trunk/win/po.rules
+END
+configwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12781/audacity-src/trunk/win/configwin.h
+END
+sandbox.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10189/audacity-src/trunk/win/sandbox.txt
+END
+audacity.ico
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10107/audacity-src/trunk/win/audacity.ico
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10189/audacity-src/trunk/win/resource.h
+END
+ny.rules
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10107/audacity-src/trunk/win/ny.rules
+END
+audacity_InnoWizardSmallImage.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10107/audacity-src/trunk/win/audacity_InnoWizardSmallImage.bmp
+END
+ny.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12805/audacity-src/trunk/win/ny.xml
+END
+audacity_InnoWizardImage.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10107/audacity-src/trunk/win/audacity_InnoWizardImage.bmp
+END
+ny.props
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12805/audacity-src/trunk/win/ny.props
+END
+audacity-vs2012.sln
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12944/audacity-src/trunk/win/audacity-vs2012.sln
+END
+release.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10189/audacity-src/trunk/win/release.txt
+END
+audacity.sln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12945/audacity-src/trunk/win/audacity.sln
+END
+ny.targets
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12805/audacity-src/trunk/win/ny.targets
+END
+audacity_InnoWizard_InfoBefore.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12141/audacity-src/trunk/win/audacity_InnoWizard_InfoBefore.rtf
+END
+resetPrefs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12967/audacity-src/trunk/win/resetPrefs.txt
+END
+audacity.iss
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/13054/audacity-src/trunk/win/audacity.iss
+END

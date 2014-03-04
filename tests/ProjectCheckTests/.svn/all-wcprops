@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12959/audacity-src/trunk/tests/ProjectCheckTests
+END
+missing_aliased_and_auf_files.aup
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12959/audacity-src/trunk/tests/ProjectCheckTests/missing_aliased_and_auf_files.aup
+END
+orphaned_blockfiles.aup
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12959/audacity-src/trunk/tests/ProjectCheckTests/orphaned_blockfiles.aup
+END
+missing_blockfile.aup
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12959/audacity-src/trunk/tests/ProjectCheckTests/missing_blockfile.aup
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12959/audacity-src/trunk/tests/ProjectCheckTests/readme.txt
+END

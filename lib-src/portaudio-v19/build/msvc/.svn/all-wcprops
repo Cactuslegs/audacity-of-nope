@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/build/msvc
+END
+portaudio.sln
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/build/msvc/portaudio.sln
+END
+portaudio.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portaudio-v19/build/msvc/portaudio.dsw
+END
+portaudio.def
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/build/msvc/portaudio.def
+END
+portaudio.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/build/msvc/portaudio.vcproj
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/build/msvc/readme.txt
+END
+portaudio.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/build/msvc/portaudio.dsp
+END

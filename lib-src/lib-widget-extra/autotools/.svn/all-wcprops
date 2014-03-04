@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12902/audacity-src/trunk/lib-src/lib-widget-extra/autotools
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12902/audacity-src/trunk/lib-src/lib-widget-extra/autotools/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12902/audacity-src/trunk/lib-src/lib-widget-extra/autotools/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12902/audacity-src/trunk/lib-src/lib-widget-extra/autotools/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12902/audacity-src/trunk/lib-src/lib-widget-extra/autotools/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12902/audacity-src/trunk/lib-src/lib-widget-extra/autotools/install-sh
+END
+ar-lib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12902/audacity-src/trunk/lib-src/lib-widget-extra/autotools/ar-lib
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12902/audacity-src/trunk/lib-src/lib-widget-extra/autotools/depcomp
+END

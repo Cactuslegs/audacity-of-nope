@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++
+END
+decoders.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/decoders.h
+END
+metadata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/metadata.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/Makefile.in
+END
+test_libFLAC++.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/test_libFLAC++.vcproj
+END
+encoders.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/encoders.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/main.cpp
+END
+metadata_manip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/metadata_manip.cpp
+END
+metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/metadata.h
+END
+metadata_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/metadata_object.cpp
+END
+encoders.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/encoders.h
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/Makefile.lite
+END
+decoders.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/decoders.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/test_libFLAC++/Makefile.am
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/cmake_support
+END
+options_cmake.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/cmake_support/options_cmake.h.in
+END
+FindDXSDK.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/cmake_support/FindDXSDK.cmake
+END
+FindASIOSDK.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/cmake_support/FindASIOSDK.cmake
+END
+template_portaudio.def
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/cmake_support/template_portaudio.def
+END

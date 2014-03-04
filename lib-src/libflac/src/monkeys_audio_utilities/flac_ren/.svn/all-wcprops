@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/src/monkeys_audio_utilities/flac_ren
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/monkeys_audio_utilities/flac_ren/main.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/monkeys_audio_utilities/flac_ren/Makefile.am
+END
+flac_ren.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/src/monkeys_audio_utilities/flac_ren/flac_ren.vcproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/src/monkeys_audio_utilities/flac_ren/Makefile.in
+END

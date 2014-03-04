@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 78
+.deps
+Makefile
+list_formats
+make_sine
+sfprocess
+sndfile-to-text
+sndfilehandle
+
+END

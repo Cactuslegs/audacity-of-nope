@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools
+END
+ldc2.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/ldc2.py
+END
+errcheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/errcheck.py
+END
+xlc.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/xlc.py
+END
+suncxx.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/suncxx.py
+END
+gcc.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/gcc.py
+END
+gdc.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/gdc.py
+END
+icc.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/icc.py
+END
+nasm.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/nasm.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/__init__.py
+END
+cxx.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/cxx.py
+END
+cs.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/cs.py
+END
+gxx.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/gxx.py
+END
+msvc.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/msvc.py
+END
+bison.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/bison.py
+END
+gnu_dirs.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/gnu_dirs.py
+END
+gas.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/gas.py
+END
+asm.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/asm.py
+END
+python.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/python.py
+END
+c.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/c.py
+END
+c_aliases.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/c_aliases.py
+END
+ccroot.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/ccroot.py
+END
+compiler_cxx.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/compiler_cxx.py
+END
+glib2.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/glib2.py
+END
+ar.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/ar.py
+END
+perl.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/perl.py
+END
+c_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/c_tests.py
+END
+intltool.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/intltool.py
+END
+xlcxx.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/xlcxx.py
+END
+winres.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/winres.py
+END
+c_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/c_config.py
+END
+c_osx.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/c_osx.py
+END
+suncc.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/suncc.py
+END
+compiler_c.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/compiler_c.py
+END
+c_preproc.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/c_preproc.py
+END
+icpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/icpc.py
+END
+irixcc.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/irixcc.py
+END
+ifort.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waflib/Tools/ifort.py
+END

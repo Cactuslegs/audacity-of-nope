@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12910/audacity-src/trunk/lib-src/libflac
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/Makefile.in
+END
+config.rpath
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/config.rpath
+END
+strip_non_asm_libtool_args.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libflac/strip_non_asm_libtool_args.sh
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12748/audacity-src/trunk/lib-src/libflac/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12748/audacity-src/trunk/lib-src/libflac/compile
+END
+mac-asm-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libflac/mac-asm-fixes.patch
+END
+COPYING.GPL
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/COPYING.GPL
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12748/audacity-src/trunk/lib-src/libflac/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12748/audacity-src/trunk/lib-src/libflac/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12748/audacity-src/trunk/lib-src/libflac/ltmain.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/README
+END
+FLAC.sln
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/libflac/FLAC.sln
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/config.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12892/audacity-src/trunk/lib-src/libflac/configure.ac
+END
+COPYING.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libflac/COPYING.LGPL
+END
+libflac++-static.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12747/audacity-src/trunk/lib-src/libflac/libflac++-static.patch
+END
+ar-lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12748/audacity-src/trunk/lib-src/libflac/ar-lib
+END
+flac-lite.diff
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libflac/flac-lite.diff
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/Makefile.am
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/Makefile.lite
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12748/audacity-src/trunk/lib-src/libflac/missing
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/autogen.sh
+END
+COPYING.FDL
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libflac/COPYING.FDL
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12748/audacity-src/trunk/lib-src/libflac/install-sh
+END
+COPYING.Xiph
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/COPYING.Xiph
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12910/audacity-src/trunk/lib-src/libflac/configure
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/msvc
+END
+libsoxr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12071/audacity-src/trunk/lib-src/libsoxr/msvc/libsoxr.vcproj
+END
+soxr-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/msvc/soxr-config.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/msvc/README
+END

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 88
+autom4te.cache
+.deps
+Makefile
+config.h
+config.log
+config.status
+libid3tag.list
+stamp-h1
+
+END

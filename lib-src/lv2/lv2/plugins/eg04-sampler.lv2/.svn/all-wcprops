@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg04-sampler.lv2
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg04-sampler.lv2/README.txt
+END
+wscript
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg04-sampler.lv2/wscript
+END
+manifest.ttl.in
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg04-sampler.lv2/manifest.ttl.in
+END
+waf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg04-sampler.lv2/waf
+END
+click.wav
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg04-sampler.lv2/click.wav
+END
+sampler_ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg04-sampler.lv2/sampler_ui.c
+END
+sampler.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg04-sampler.lv2/sampler.c
+END
+sampler.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg04-sampler.lv2/sampler.ttl
+END
+uris.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/plugins/eg04-sampler.lv2/uris.h
+END

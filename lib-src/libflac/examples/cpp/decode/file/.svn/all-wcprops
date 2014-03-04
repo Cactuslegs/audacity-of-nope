@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/examples/cpp/decode/file
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/examples/cpp/decode/file/Makefile.in
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/examples/cpp/decode/file/main.cpp
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/examples/cpp/decode/file/Makefile.lite
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/examples/cpp/decode/file/Makefile.am
+END
+example_cpp_decode_file.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/examples/cpp/decode/file/example_cpp_decode_file.vcproj
+END

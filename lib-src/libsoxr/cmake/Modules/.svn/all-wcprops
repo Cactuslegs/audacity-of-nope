@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/cmake/Modules
+END
+FindLibAVCodec.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/cmake/Modules/FindLibAVCodec.cmake
+END
+FindSIMD.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/cmake/Modules/FindSIMD.cmake
+END
+FindOpenMP.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/cmake/Modules/FindOpenMP.cmake
+END
+TestBigEndian.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12864/audacity-src/trunk/lib-src/libsoxr/cmake/Modules/TestBigEndian.cmake
+END

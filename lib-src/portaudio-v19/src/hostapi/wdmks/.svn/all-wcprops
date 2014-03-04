@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/wdmks
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/wdmks/readme.txt
+END
+pa_win_wdmks.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/src/hostapi/wdmks/pa_win_wdmks.c
+END

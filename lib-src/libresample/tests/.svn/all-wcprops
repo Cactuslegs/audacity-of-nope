@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/tests
+END
+compareresample.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/tests/compareresample.c
+END
+testresample.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/tests/testresample.c
+END
+resample-sndfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/tests/resample-sndfile.c
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portburn
+END
+portburn_winxp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portburn/portburn_winxp.cpp
+END
+clip.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portburn/clip.wav
+END
+portburn_winxpv1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portburn/portburn_winxpv1.cpp
+END
+portburn_winxpv2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portburn/portburn_winxpv2.cpp
+END
+test_portburn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portburn/test_portburn.cpp
+END
+portburn.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portburn/portburn.h
+END
+portburn_macosx.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portburn/portburn_macosx.c
+END
+Makefile.macosx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portburn/Makefile.macosx
+END
+portburn.sln
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portburn/portburn.sln
+END
+portburn_macosx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portburn/portburn_macosx.cpp
+END
+portburn_staging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portburn/portburn_staging.cpp
+END
+portburn_staging.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portburn/portburn_staging.c
+END
+test_portburn.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portburn/test_portburn.vcproj
+END
+portburn.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portburn/portburn.vcproj
+END
+portburn_staging.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portburn/portburn_staging.h
+END

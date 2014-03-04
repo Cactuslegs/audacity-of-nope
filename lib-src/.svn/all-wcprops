@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/13043/audacity-src/trunk/lib-src
+END
+audacity-patches.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12958/audacity-src/trunk/lib-src/audacity-patches.txt
+END
+dist-libsoxr.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12960/audacity-src/trunk/lib-src/dist-libsoxr.mk
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12960/audacity-src/trunk/lib-src/Makefile.am
+END
+dist-portaudio.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12960/audacity-src/trunk/lib-src/dist-portaudio.mk
+END
+dist-libvamp.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12960/audacity-src/trunk/lib-src/dist-libvamp.mk
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12961/audacity-src/trunk/lib-src/Makefile.in
+END

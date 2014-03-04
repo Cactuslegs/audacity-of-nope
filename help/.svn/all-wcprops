@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/12961/audacity-src/trunk/help
+END
+audacity.appdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12786/audacity-src/trunk/help/audacity.appdata.xml
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12961/audacity-src/trunk/help/Makefile.in
+END
+audacity.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12119/audacity-src/trunk/help/audacity.1
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12960/audacity-src/trunk/help/Makefile.am
+END

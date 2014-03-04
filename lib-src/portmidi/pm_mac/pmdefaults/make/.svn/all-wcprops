@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_mac/pmdefaults/make
+END
+find-classrefs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_mac/pmdefaults/make/find-classrefs.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_mac/pmdefaults/make/build.xml
+END

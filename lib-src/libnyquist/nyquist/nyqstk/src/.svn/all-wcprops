@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12946/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src
+END
+ADSR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/ADSR.cpp
+END
+JetTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/JetTable.cpp
+END
+PitShift.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/PitShift.cpp
+END
+WaveLoop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/WaveLoop.cpp
+END
+PoleZero.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/PoleZero.cpp
+END
+Clarinet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Clarinet.cpp
+END
+BiQuad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/BiQuad.cpp
+END
+Saxofony.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Saxofony.cpp
+END
+ModalBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/ModalBar.cpp
+END
+FileWvIn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/FileWvIn.cpp
+END
+WvIn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/WvIn.cpp
+END
+Filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Filter.cpp
+END
+Generator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Generator.cpp
+END
+ReedTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/ReedTable.cpp
+END
+Modal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Modal.cpp
+END
+Effect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Effect.cpp
+END
+Delay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Delay.cpp
+END
+BowTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/BowTable.cpp
+END
+DelayA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/DelayA.cpp
+END
+Bowed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Bowed.cpp
+END
+Stk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Stk.cpp
+END
+OnePole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/OnePole.cpp
+END
+Mandolin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Mandolin.cpp
+END
+PRCRev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/PRCRev.cpp
+END
+Chorus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Chorus.cpp
+END
+PluckTwo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/PluckTwo.cpp
+END
+JCRev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/JCRev.cpp
+END
+NRev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/NRev.cpp
+END
+DelayL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/DelayL.cpp
+END
+FileRead.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/FileRead.cpp
+END
+BandedWG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/BandedWG.cpp
+END
+Noise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Noise.cpp
+END
+Envelope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Envelope.cpp
+END
+Instrmnt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Instrmnt.cpp
+END
+Flute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Flute.cpp
+END
+SineWave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/SineWave.cpp
+END
+OneZero.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/OneZero.cpp
+END
+Sitar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Sitar.cpp
+END
+Function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/src/Function.cpp
+END

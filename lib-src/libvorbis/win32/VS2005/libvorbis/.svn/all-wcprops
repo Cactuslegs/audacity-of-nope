@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/win32/VS2005/libvorbis
+END
+libvorbis.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvorbis/win32/VS2005/libvorbis/libvorbis.vcproj
+END
+libvorbis_dynamic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/win32/VS2005/libvorbis/libvorbis_dynamic.vcproj
+END
+libvorbis_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/win32/VS2005/libvorbis/libvorbis_static.vcproj
+END

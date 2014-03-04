@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12819/audacity-src/trunk/lib-src/portsmf/autotools
+END
+ar-lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12819/audacity-src/trunk/lib-src/portsmf/autotools/ar-lib
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12819/audacity-src/trunk/lib-src/portsmf/autotools/depcomp
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12819/audacity-src/trunk/lib-src/portsmf/autotools/missing
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12819/audacity-src/trunk/lib-src/portsmf/autotools/install-sh
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/examples/c/decode
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/examples/c/decode/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/examples/c/decode/Makefile.am
+END

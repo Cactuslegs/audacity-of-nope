@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/autotools/m4
+END
+ax_cxx_check_flag.m4
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/autotools/m4/ax_cxx_check_flag.m4
+END
+ax_cxxcpp_check_flag.m4
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/autotools/m4/ax_cxxcpp_check_flag.m4
+END
+ax_cflags_warn_all.m4
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/autotools/m4/ax_cflags_warn_all.m4
+END
+ax_cflags_strict_prototypes.m4
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/autotools/m4/ax_cflags_strict_prototypes.m4
+END

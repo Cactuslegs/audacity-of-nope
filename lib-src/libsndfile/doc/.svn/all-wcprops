@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/doc
+END
+new_file_type.HOWTO
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsndfile/doc/new_file_type.HOWTO
+END
+libsndfile.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libsndfile/doc/libsndfile.jpg
+END
+lists.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/lists.html
+END
+sndfile_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/sndfile_info.html
+END
+bugs.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/bugs.html
+END
+win32.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/win32.html
+END
+tutorial.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/tutorial.html
+END
+libsndfile.css.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/libsndfile.css.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libsndfile/doc/Makefile.am
+END
+pkgconfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/pkgconfig.html
+END
+FAQ.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/FAQ.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/index.html
+END
+api.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/api.html
+END
+embedded_files.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/embedded_files.html
+END
+command.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/command.html
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/doc/Makefile.in
+END
+dither.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/dither.html
+END
+octave.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/doc/octave.html
+END

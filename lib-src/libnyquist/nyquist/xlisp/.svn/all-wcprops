@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12946/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp
+END
+path.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/path.c
+END
+xlmath.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlmath.c
+END
+xlbfun.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10694/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlbfun.c
+END
+xlisp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11120/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlisp.c
+END
+osptrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/osptrs.h
+END
+xlisp.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10694/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlisp.h
+END
+extern.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/extern.c
+END
+xlinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlinit.c
+END
+xlcont.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlcont.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/extern.h
+END
+xlio.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10694/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlio.c
+END
+xlstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlstr.c
+END
+xlsym.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlsym.c
+END
+xlprin.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlprin.c
+END
+xlobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlobj.c
+END
+xllist.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xllist.c
+END
+xlsubr.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlsubr.c
+END
+xljump.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xljump.c
+END
+xlread.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10694/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlread.c
+END
+xlftab.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11120/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlftab.c
+END
+xlfio.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlfio.c
+END
+xlsys.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10694/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlsys.c
+END
+xlpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlpp.c
+END
+xldbug.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xldbug.c
+END
+xldmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xldmem.c
+END
+xlimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10694/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlimage.c
+END
+xlglob.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xlglob.c
+END
+osdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/osdefs.h
+END
+xleval.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xleval.c
+END
+xldmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/xlisp/xldmem.h
+END

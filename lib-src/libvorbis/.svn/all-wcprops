@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/COPYING
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/CHANGES
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12765/audacity-src/trunk/lib-src/libvorbis/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12766/audacity-src/trunk/lib-src/libvorbis/missing
+END
+vorbisfile.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvorbis/vorbisfile.pc.in
+END
+vorbis.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvorbis/vorbis.pc.in
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/autogen.sh
+END
+no-docs-examples.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvorbis/no-docs-examples.patch
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12766/audacity-src/trunk/lib-src/libvorbis/install-sh
+END
+vorbisenc-uninstalled.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvorbis/vorbisenc-uninstalled.pc.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/Makefile.in
+END
+vorbis.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/vorbis.m4
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvorbis/todo.txt
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvorbis/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12766/audacity-src/trunk/lib-src/libvorbis/depcomp
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12765/audacity-src/trunk/lib-src/libvorbis/autotools.patch
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12766/audacity-src/trunk/lib-src/libvorbis/compile
+END
+libvorbis.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/libvorbis.spec.in
+END
+local-libogg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvorbis/local-libogg.patch
+END
+vorbis-uninstalled.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvorbis/vorbis-uninstalled.pc.in
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12766/audacity-src/trunk/lib-src/libvorbis/config.guess
+END
+vorbisfile-uninstalled.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvorbis/vorbisfile-uninstalled.pc.in
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12766/audacity-src/trunk/lib-src/libvorbis/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12766/audacity-src/trunk/lib-src/libvorbis/ltmain.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/README
+END
+vorbisenc.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvorbis/vorbisenc.pc.in
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12752/audacity-src/trunk/lib-src/libvorbis/config.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12922/audacity-src/trunk/lib-src/libvorbis/configure.ac
+END

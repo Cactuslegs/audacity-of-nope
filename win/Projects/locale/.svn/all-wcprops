@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12807/audacity-src/trunk/win/Projects/locale
+END
+locale.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12807/audacity-src/trunk/win/Projects/locale/locale.vcxproj.filters
+END
+po.props
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12806/audacity-src/trunk/win/Projects/locale/po.props
+END
+locale.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12804/audacity-src/trunk/win/Projects/locale/locale.vcproj
+END
+po.targets
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12806/audacity-src/trunk/win/Projects/locale/po.targets
+END
+po.rules
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10107/audacity-src/trunk/win/Projects/locale/po.rules
+END
+locale.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12805/audacity-src/trunk/win/Projects/locale/locale.vcxproj
+END
+po.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12806/audacity-src/trunk/win/Projects/locale/po.xml
+END

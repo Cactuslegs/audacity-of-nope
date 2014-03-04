@@ -1,0 +1,1 @@
+/usr/bin/gcc  -O3 -DNDEBUG    CMakeFiles/vector-gen.dir/vector-gen.c.o  -o vector-gen -rdynamic -lm ../src/libsoxr.a -lm 

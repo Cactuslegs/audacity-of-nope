@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Matlab-testing
+END
+rfft2dTestML.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Matlab-testing/rfft2dTestML.m
+END
+conv2dTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Matlab-testing/conv2dTest.c
+END
+convtest.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Matlab-testing/convtest.m
+END
+rfft2dTestML.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Matlab-testing/rfft2dTestML.c
+END
+conv2dtest.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Matlab-testing/conv2dtest.m
+END
+convTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/Matlab-testing/convTest.c
+END

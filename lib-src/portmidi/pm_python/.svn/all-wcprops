@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_python
+END
+README_PYTHON.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_python/README_PYTHON.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12813/audacity-src/trunk/lib-src/portmidi/pm_python/setup.py
+END

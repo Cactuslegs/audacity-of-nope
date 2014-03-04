@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/COPYING
+END
+wscript
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/wscript
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/README
+END
+waf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/serd/waf
+END
+serd.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/serd.pc.in
+END
+PACKAGING
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/serd/PACKAGING
+END

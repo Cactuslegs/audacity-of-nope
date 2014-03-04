@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/src
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/src/Makefile.in
+END
+framing.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/src/framing.c
+END
+bitwise.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/src/bitwise.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12834/audacity-src/trunk/lib-src/libogg/src/Makefile.am
+END

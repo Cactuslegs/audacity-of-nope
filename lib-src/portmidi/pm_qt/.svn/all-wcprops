@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_qt
+END
+README_QT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_qt/README_QT.txt
+END
+portmidi.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmidi/pm_qt/portmidi.pro
+END

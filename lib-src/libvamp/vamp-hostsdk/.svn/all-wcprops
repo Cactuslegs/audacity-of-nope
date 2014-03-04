@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk
+END
+PluginHostAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/PluginHostAdapter.h
+END
+Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/Plugin.h
+END
+PluginSummarisingAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/PluginSummarisingAdapter.h
+END
+PluginWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/PluginWrapper.h
+END
+vamp-hostsdk.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/vamp-hostsdk.h
+END
+hostguard.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/hostguard.h
+END
+RealTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/RealTime.h
+END
+PluginLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/PluginLoader.h
+END
+PluginInputDomainAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/PluginInputDomainAdapter.h
+END
+PluginBufferingAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/PluginBufferingAdapter.h
+END
+PluginChannelAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/PluginChannelAdapter.h
+END
+PluginBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/vamp-hostsdk/PluginBase.h
+END

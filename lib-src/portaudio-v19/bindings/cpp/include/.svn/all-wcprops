@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/Makefile.am
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/cpp/include/Makefile.in
+END

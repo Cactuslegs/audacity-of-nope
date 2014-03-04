@@ -1,0 +1,40 @@
+10
+
+dir
+13066
+http://audacity.googlecode.com/svn/audacity-src/trunk/lib-src/ffmpeg
+http://audacity.googlecode.com/svn
+
+
+
+2011-04-02T02:10:50.642966Z
+11055
+lllucius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47890b92-0858-11df-a26f-8b716316a5bc
+
+win32
+dir
+
+libavformat
+dir
+
+libavcodec
+dir
+
+libavutil
+dir
+

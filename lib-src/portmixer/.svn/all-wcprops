@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13009/audacity-src/trunk/lib-src/portmixer
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12953/audacity-src/trunk/lib-src/portmixer/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12954/audacity-src/trunk/lib-src/portmixer/configure.ac
+END
+portaudio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/portmixer/portaudio.patch
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12908/audacity-src/trunk/lib-src/portmixer/Makefile.am
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12459/audacity-src/trunk/lib-src/portmixer/README.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/portmixer/LICENSE.txt
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12954/audacity-src/trunk/lib-src/portmixer/configure
+END

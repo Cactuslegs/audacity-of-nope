@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 49
+autom4te.cache
+config.log
+config.status
+Makefile
+
+END

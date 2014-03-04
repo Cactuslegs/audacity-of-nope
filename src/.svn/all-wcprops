@@ -1,0 +1,1037 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/13062/audacity-src/trunk/src
+END
+AudacityHeaders.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/src/AudacityHeaders.cpp
+END
+audacity.desktop.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11931/audacity-src/trunk/src/audacity.desktop.in
+END
+TimerRecordDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12725/audacity-src/trunk/src/TimerRecordDialog.cpp
+END
+UndoManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12721/audacity-src/trunk/src/UndoManager.cpp
+END
+BatchCommandDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12593/audacity-src/trunk/src/BatchCommandDialog.cpp
+END
+Spectrum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12582/audacity-src/trunk/src/Spectrum.cpp
+END
+Theme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12580/audacity-src/trunk/src/Theme.cpp
+END
+AudacityApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12789/audacity-src/trunk/src/AudacityApp.cpp
+END
+LabelDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12593/audacity-src/trunk/src/LabelDialog.h
+END
+FileNames.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12221/audacity-src/trunk/src/FileNames.h
+END
+PitchName.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12576/audacity-src/trunk/src/PitchName.cpp
+END
+CrossFade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12553/audacity-src/trunk/src/CrossFade.cpp
+END
+Lyrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10971/audacity-src/trunk/src/Lyrics.h
+END
+FFT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12593/audacity-src/trunk/src/FFT.cpp
+END
+Dither.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12593/audacity-src/trunk/src/Dither.cpp
+END
+SoundActivatedRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10189/audacity-src/trunk/src/SoundActivatedRecord.h
+END
+audacity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10107/audacity-src/trunk/src/audacity.xml
+END
+AudioIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13044/audacity-src/trunk/src/AudioIO.cpp
+END
+RealFFTf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/13038/audacity-src/trunk/src/RealFFTf.h
+END
+SampleFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12593/audacity-src/trunk/src/SampleFormat.h
+END
+Printing.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10189/audacity-src/trunk/src/Printing.h
+END
+MixerBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11636/audacity-src/trunk/src/MixerBoard.h
+END
+Snap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12827/audacity-src/trunk/src/Snap.cpp
+END
+Mix.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12560/audacity-src/trunk/src/Mix.h
+END
+HelpText.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12593/audacity-src/trunk/src/HelpText.h
+END
+TimerRecordDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/src/TimerRecordDialog.h
+END
+AudacityHeaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13031/audacity-src/trunk/src/AudacityHeaders.h
+END
+Audacity.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12964/audacity-src/trunk/src/Audacity.h
+END
+LabelTrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12593/audacity-src/trunk/src/LabelTrack.h
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12593/audacity-src/trunk/src/Matrix.h
+END
+SoundActivatedRecord.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12482/audacity-src/trunk/src/SoundActivatedRecord.cpp
+END
+Screenshot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12593/audacity-src/trunk/src/Screenshot.cpp
+END
+Sequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11857/audacity-src/trunk/src/Sequence.h
+END
+Resample.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12452/audacity-src/trunk/src/Resample.h
+END
+VoiceKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12221/audacity-src/trunk/src/VoiceKey.h
+END
+FFT.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12593/audacity-src/trunk/src/FFT.h
+END
+Dither.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12593/audacity-src/trunk/src/Dither.h
+END
+Dependencies.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12482/audacity-src/trunk/src/Dependencies.cpp
+END
+Menus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/13012/audacity-src/trunk/src/Menus.cpp
+END
+HistoryWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12482/audacity-src/trunk/src/HistoryWindow.cpp
+END
+BlockFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12576/audacity-src/trunk/src/BlockFile.cpp
+END
+DeviceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12924/audacity-src/trunk/src/DeviceManager.cpp
+END
+AllThemeResources.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12296/audacity-src/trunk/src/AllThemeResources.h
+END
+TrackArtist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13061/audacity-src/trunk/src/TrackArtist.cpp
+END
+MixerBoard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12482/audacity-src/trunk/src/MixerBoard.cpp
+END
+ShuttlePrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12593/audacity-src/trunk/src/ShuttlePrefs.h
+END
+CaptureEvents.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10189/audacity-src/trunk/src/CaptureEvents.h
+END
+AboutDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12593/audacity-src/trunk/src/AboutDialog.h
+END
+NoteTrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12593/audacity-src/trunk/src/NoteTrack.h
+END
+LyricsWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10544/audacity-src/trunk/src/LyricsWindow.h
+END
+ShuttleGui.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12376/audacity-src/trunk/src/ShuttleGui.h
+END
+ImageManipulation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12593/audacity-src/trunk/src/ImageManipulation.cpp
+END
+LabelTrack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12596/audacity-src/trunk/src/LabelTrack.cpp
+END
+Matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12593/audacity-src/trunk/src/Matrix.cpp
+END
+Languages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12714/audacity-src/trunk/src/Languages.cpp
+END
+Sequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12984/audacity-src/trunk/src/Sequence.cpp
+END
+Resample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12475/audacity-src/trunk/src/Resample.cpp
+END
+DirManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12508/audacity-src/trunk/src/DirManager.cpp
+END
+WaveClip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12577/audacity-src/trunk/src/WaveClip.cpp
+END
+Project.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/13034/audacity-src/trunk/src/Project.h
+END
+TimeDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12725/audacity-src/trunk/src/TimeDialog.cpp
+END
+Profiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10189/audacity-src/trunk/src/Profiler.h
+END
+CaptureEvents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10552/audacity-src/trunk/src/CaptureEvents.cpp
+END
+ShuttlePrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12593/audacity-src/trunk/src/ShuttlePrefs.cpp
+END
+TrackPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/13012/audacity-src/trunk/src/TrackPanel.h
+END
+Benchmark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12593/audacity-src/trunk/src/Benchmark.cpp
+END
+Menus.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12980/audacity-src/trunk/src/Menus.h
+END
+TrackArtist.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12593/audacity-src/trunk/src/TrackArtist.h
+END
+LangChoice.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12593/audacity-src/trunk/src/LangChoice.h
+END
+RealFFTf48x.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13038/audacity-src/trunk/src/RealFFTf48x.h
+END
+BatchCommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13008/audacity-src/trunk/src/BatchCommands.cpp
+END
+Lyrics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12482/audacity-src/trunk/src/Lyrics.cpp
+END
+Spectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12593/audacity-src/trunk/src/Spectrum.h
+END
+Theme.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10189/audacity-src/trunk/src/Theme.h
+END
+ImageManipulation.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12593/audacity-src/trunk/src/ImageManipulation.h
+END
+FFmpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12826/audacity-src/trunk/src/FFmpeg.h
+END
+Track.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12508/audacity-src/trunk/src/Track.h
+END
+PlatformCompatibility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12104/audacity-src/trunk/src/PlatformCompatibility.cpp
+END
+AColor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12593/audacity-src/trunk/src/AColor.cpp
+END
+Prefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12593/audacity-src/trunk/src/Prefs.cpp
+END
+TrackPanelAx.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10189/audacity-src/trunk/src/TrackPanelAx.h
+END
+TrackPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13033/audacity-src/trunk/src/TrackPanel.cpp
+END
+AutoRecovery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12593/audacity-src/trunk/src/AutoRecovery.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13036/audacity-src/trunk/src/Makefile.am
+END
+RealFFTf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/13038/audacity-src/trunk/src/RealFFTf.cpp
+END
+LangChoice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12593/audacity-src/trunk/src/LangChoice.cpp
+END
+HelpText.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12577/audacity-src/trunk/src/HelpText.cpp
+END
+Shuttle.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12593/audacity-src/trunk/src/Shuttle.h
+END
+Mix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12574/audacity-src/trunk/src/Mix.cpp
+END
+RingBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12651/audacity-src/trunk/src/RingBuffer.h
+END
+Tags.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13033/audacity-src/trunk/src/Tags.cpp
+END
+PluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12593/audacity-src/trunk/src/PluginManager.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13037/audacity-src/trunk/src/Makefile.in
+END
+FFmpeg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/13033/audacity-src/trunk/src/FFmpeg.cpp
+END
+Track.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/13033/audacity-src/trunk/src/Track.cpp
+END
+BatchProcessDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12254/audacity-src/trunk/src/BatchProcessDialog.h
+END
+BatchCommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12593/audacity-src/trunk/src/BatchCommands.h
+END
+Legacy.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12593/audacity-src/trunk/src/Legacy.h
+END
+SplashDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12593/audacity-src/trunk/src/SplashDialog.cpp
+END
+Envelope.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12130/audacity-src/trunk/src/Envelope.h
+END
+Prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12593/audacity-src/trunk/src/Prefs.h
+END
+AColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12593/audacity-src/trunk/src/AColor.h
+END
+WaveTrack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13061/audacity-src/trunk/src/WaveTrack.cpp
+END
+Shuttle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12593/audacity-src/trunk/src/Shuttle.cpp
+END
+FreqWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12593/audacity-src/trunk/src/FreqWindow.h
+END
+ViewInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12593/audacity-src/trunk/src/ViewInfo.h
+END
+Dependencies.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11066/audacity-src/trunk/src/Dependencies.h
+END
+AutoRecovery.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12593/audacity-src/trunk/src/AutoRecovery.h
+END
+LyricsWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12482/audacity-src/trunk/src/LyricsWindow.cpp
+END
+ShuttleGui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12392/audacity-src/trunk/src/ShuttleGui.cpp
+END
+BlockFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11297/audacity-src/trunk/src/BlockFile.h
+END
+DeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11186/audacity-src/trunk/src/DeviceManager.h
+END
+BatchProcessDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12826/audacity-src/trunk/src/BatchProcessDialog.cpp
+END
+AudacityLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12973/audacity-src/trunk/src/AudacityLogger.cpp
+END
+SseMathFuncs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13046/audacity-src/trunk/src/SseMathFuncs.cpp
+END
+Legacy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12593/audacity-src/trunk/src/Legacy.cpp
+END
+MacroMagic.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10189/audacity-src/trunk/src/MacroMagic.h
+END
+WrappedType.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10189/audacity-src/trunk/src/WrappedType.h
+END
+Languages.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12593/audacity-src/trunk/src/Languages.h
+END
+InterpolateAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12593/audacity-src/trunk/src/InterpolateAudio.h
+END
+LoadModules.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12356/audacity-src/trunk/src/LoadModules.h
+END
+CrossFade.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12221/audacity-src/trunk/src/CrossFade.h
+END
+WaveClip.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12221/audacity-src/trunk/src/WaveClip.h
+END
+TimeDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12593/audacity-src/trunk/src/TimeDialog.h
+END
+float_cast.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12593/audacity-src/trunk/src/float_cast.h
+END
+Internat.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12593/audacity-src/trunk/src/Internat.h
+END
+SampleFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12593/audacity-src/trunk/src/SampleFormat.cpp
+END
+Printing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12580/audacity-src/trunk/src/Printing.cpp
+END
+WaveTrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13061/audacity-src/trunk/src/WaveTrack.h
+END
+RealFFTf48x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13038/audacity-src/trunk/src/RealFFTf48x.cpp
+END
+AudioIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12598/audacity-src/trunk/src/AudioIO.h
+END
+Benchmark.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12593/audacity-src/trunk/src/Benchmark.h
+END
+Experimental.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13040/audacity-src/trunk/src/Experimental.h
+END
+ThemeAsCeeCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10750/audacity-src/trunk/src/ThemeAsCeeCode.h
+END
+WrappedType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10189/audacity-src/trunk/src/WrappedType.cpp
+END
+Snap.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12827/audacity-src/trunk/src/Snap.h
+END
+FileIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12980/audacity-src/trunk/src/FileIO.cpp
+END
+AudacityLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12719/audacity-src/trunk/src/AudacityLogger.h
+END
+SseMathFuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13038/audacity-src/trunk/src/SseMathFuncs.h
+END
+LoadModules.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12712/audacity-src/trunk/src/LoadModules.cpp
+END
+InterpolateAudio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12593/audacity-src/trunk/src/InterpolateAudio.cpp
+END
+FileFormats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12593/audacity-src/trunk/src/FileFormats.cpp
+END
+TrackPanelAx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12607/audacity-src/trunk/src/TrackPanelAx.cpp
+END
+VoiceKey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12605/audacity-src/trunk/src/VoiceKey.cpp
+END
+Screenshot.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12826/audacity-src/trunk/src/Screenshot.h
+END
+PlatformCompatibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10189/audacity-src/trunk/src/PlatformCompatibility.h
+END
+TimeTrack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12999/audacity-src/trunk/src/TimeTrack.cpp
+END
+Internat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12593/audacity-src/trunk/src/Internat.cpp
+END
+GStreamerLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12826/audacity-src/trunk/src/GStreamerLoader.h
+END
+PluginManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12593/audacity-src/trunk/src/PluginManager.cpp
+END
+RingBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12767/audacity-src/trunk/src/RingBuffer.cpp
+END
+AboutDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13062/audacity-src/trunk/src/AboutDialog.cpp
+END
+NoteTrack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12593/audacity-src/trunk/src/NoteTrack.cpp
+END
+HistoryWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12593/audacity-src/trunk/src/HistoryWindow.h
+END
+LabelDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12609/audacity-src/trunk/src/LabelDialog.cpp
+END
+FileNames.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12964/audacity-src/trunk/src/FileNames.cpp
+END
+Tags.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/13032/audacity-src/trunk/src/Tags.h
+END
+BatchCommandDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12593/audacity-src/trunk/src/BatchCommandDialog.h
+END
+UndoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12593/audacity-src/trunk/src/UndoManager.h
+END
+configtemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12960/audacity-src/trunk/src/configtemplate.h
+END
+Project.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13034/audacity-src/trunk/src/Project.cpp
+END
+AudacityApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12712/audacity-src/trunk/src/AudacityApp.h
+END
+FileIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12980/audacity-src/trunk/src/FileIO.h
+END
+Envelope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12577/audacity-src/trunk/src/Envelope.cpp
+END
+PitchName.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12369/audacity-src/trunk/src/PitchName.h
+END
+DirManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12101/audacity-src/trunk/src/DirManager.h
+END
+SplashDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12593/audacity-src/trunk/src/SplashDialog.h
+END
+FileFormats.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12593/audacity-src/trunk/src/FileFormats.h
+END
+GStreamerLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10189/audacity-src/trunk/src/GStreamerLoader.cpp
+END
+Profiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12482/audacity-src/trunk/src/Profiler.cpp
+END
+FreqWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12668/audacity-src/trunk/src/FreqWindow.cpp
+END
+TimeTrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12130/audacity-src/trunk/src/TimeTrack.h
+END

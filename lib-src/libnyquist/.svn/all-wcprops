@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12946/audacity-src/trunk/lib-src/libnyquist
+END
+nyx.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11807/audacity-src/trunk/lib-src/libnyquist/nyx.c
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/LICENSE.txt
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12943/audacity-src/trunk/lib-src/libnyquist/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12946/audacity-src/trunk/lib-src/libnyquist/Makefile.in
+END
+xlextstart.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/xlextstart.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12942/audacity-src/trunk/lib-src/libnyquist/configure.ac
+END
+nyx.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11786/audacity-src/trunk/lib-src/libnyquist/nyx.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12946/audacity-src/trunk/lib-src/libnyquist/Makefile.am
+END
+hurd-nyquist.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/hurd-nyquist.patch
+END
+nyquist.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist.patch
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/README.txt
+END
+kFreeBSD-nyquist.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/kFreeBSD-nyquist.patch
+END

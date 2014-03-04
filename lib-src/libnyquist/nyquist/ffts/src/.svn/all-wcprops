@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12946/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src
+END
+dxpose.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src/dxpose.h
+END
+matlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src/matlib.c
+END
+fft2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src/fft2d.h
+END
+fftlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src/fftlib.h
+END
+matlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src/matlib.h
+END
+fftext.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src/fftext.c
+END
+files
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src/files
+END
+dxpose.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src/dxpose.c
+END
+fft2d.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src/fft2d.c
+END
+fftext.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src/fftext.h
+END
+fftlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/ffts/src/fftlib.c
+END

@@ -1,0 +1,1 @@
+/usr/bin/gcc   -Wconversion -Wall -W -pedantic -Wundef -Wcast-align -Wpointer-arith -Wno-long-long -Wnested-externs -Wmissing-prototypes -Wstrict-prototypes -O3 -DNDEBUG    CMakeFiles/3-options-input-fn.dir/3-options-input-fn.c.o  -o 3-options-input-fn -rdynamic -lm ../src/libsoxr.a -lm 

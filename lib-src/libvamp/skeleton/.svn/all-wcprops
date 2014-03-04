@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/skeleton
+END
+plugins.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/skeleton/plugins.cpp
+END
+MyPlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/skeleton/MyPlugin.cpp
+END
+vamp-plugin.list
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/skeleton/vamp-plugin.list
+END
+MyPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/skeleton/MyPlugin.h
+END
+vamp-plugin.map
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/skeleton/vamp-plugin.map
+END
+Makefile.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/skeleton/Makefile.skeleton
+END

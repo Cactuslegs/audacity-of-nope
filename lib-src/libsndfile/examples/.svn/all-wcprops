@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/examples
+END
+sndfilehandle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/examples/sndfilehandle.cc
+END
+sndfile-to-text.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/examples/sndfile-to-text.c
+END
+list_formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/examples/list_formats.c
+END
+sfprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/examples/sfprocess.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/examples/Makefile.am
+END
+generate.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/examples/generate.c
+END
+make_sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11069/audacity-src/trunk/lib-src/libsndfile/examples/make_sine.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12939/audacity-src/trunk/lib-src/libsndfile/examples/Makefile.in
+END

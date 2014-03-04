@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12897/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12897/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch/Makefile.in
+END
+WavFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch/WavFile.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch/main.cpp
+END
+soundstretch.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/12739/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch/soundstretch.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch/Makefile.am
+END
+RunParameters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch/RunParameters.cpp
+END
+soundstretch.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch/soundstretch.dsp
+END
+WavFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch/WavFile.cpp
+END
+RunParameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch/RunParameters.h
+END
+soundstretch.sln
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch/soundstretch.sln
+END
+soundstretch.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12860/audacity-src/trunk/lib-src/soundtouch/source/SoundStretch/soundstretch.dsw
+END

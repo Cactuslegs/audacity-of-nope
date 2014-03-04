@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12899/audacity-src/trunk/lib-src/libflac/test
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12893/audacity-src/trunk/lib-src/libflac/test/Makefile.in
+END
+picture.ok
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/picture.ok
+END
+test_metaflac.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/test_metaflac.sh
+END
+metaflac.flac.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/metaflac.flac.in
+END
+test_streams.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/test_streams.sh
+END
+write_iff.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/write_iff.pl
+END
+metaflac.flac.ok
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/metaflac.flac.ok
+END
+test_wrapper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/test_wrapper.sh
+END
+test_libFLAC++.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/test_libFLAC++.sh
+END
+test_seeking.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/test_seeking.sh
+END
+test_grabbag.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/test_grabbag.sh
+END
+test_bins.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/test_bins.sh
+END
+test_libFLAC.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/test_libFLAC.sh
+END
+test_compression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/test_compression.sh
+END
+Makefile.lite
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/Makefile.lite
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/Makefile.am
+END
+test_flac.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/test_flac.sh
+END
+cuesheet.ok
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12745/audacity-src/trunk/lib-src/libflac/test/cuesheet.ok
+END

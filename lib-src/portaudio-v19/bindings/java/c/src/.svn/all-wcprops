@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/java/c/src
+END
+com_portaudio_BlockingStream.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/java/c/src/com_portaudio_BlockingStream.c
+END
+com_portaudio_PortAudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/java/c/src/com_portaudio_PortAudio.c
+END
+jpa_tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/java/c/src/jpa_tools.c
+END
+com_portaudio_BlockingStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/java/c/src/com_portaudio_BlockingStream.h
+END
+com_portaudio_PortAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/java/c/src/com_portaudio_PortAudio.h
+END
+jpa_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12231/audacity-src/trunk/lib-src/portaudio-v19/bindings/java/c/src/jpa_tools.h
+END

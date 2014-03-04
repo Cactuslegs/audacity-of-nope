@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/tests
+END
+runtests.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/tests/runtests.c
+END
+chardata.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/tests/chardata.c
+END
+runtestspp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/tests/runtestspp.cpp
+END
+xmltest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/tests/xmltest.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/tests/README.txt
+END
+minicheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/tests/minicheck.c
+END
+chardata.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/tests/chardata.h
+END
+minicheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12944/audacity-src/trunk/lib-src/expat/tests/minicheck.h
+END

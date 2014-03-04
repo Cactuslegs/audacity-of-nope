@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/COPYING
+END
+lv2.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/lv2.pc.in
+END
+wscript
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/wscript
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12778/audacity-src/trunk/lib-src/lv2/lv2/README
+END
+waf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/lv2/waf
+END

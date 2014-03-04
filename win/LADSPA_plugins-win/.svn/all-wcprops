@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10189/audacity-src/trunk/win/LADSPA_plugins-win
+END
+libfftw3-3.def
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10107/audacity-src/trunk/win/LADSPA_plugins-win/libfftw3-3.def
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10107/audacity-src/trunk/win/LADSPA_plugins-win/makefile
+END
+LADSPA_plugins-win.iss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10107/audacity-src/trunk/win/LADSPA_plugins-win/LADSPA_plugins-win.iss
+END
+fftw3.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10189/audacity-src/trunk/win/LADSPA_plugins-win/fftw3.h
+END
+LADSPA_plugins-win.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/win/LADSPA_plugins-win/LADSPA_plugins-win.vcproj
+END
+libfftw3f-3.def
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10107/audacity-src/trunk/win/LADSPA_plugins-win/libfftw3f-3.def
+END
+makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10189/audacity-src/trunk/win/LADSPA_plugins-win/makefile.inc
+END
+libfftw3l-3.def
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10107/audacity-src/trunk/win/LADSPA_plugins-win/libfftw3l-3.def
+END
+ladspa.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10189/audacity-src/trunk/win/LADSPA_plugins-win/ladspa.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10189/audacity-src/trunk/win/LADSPA_plugins-win/config.h
+END
+readme_LADSPA_plugins-win.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10189/audacity-src/trunk/win/LADSPA_plugins-win/readme_LADSPA_plugins-win.txt
+END
+LADSPA_plugins-win.sln
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10189/audacity-src/trunk/win/LADSPA_plugins-win/LADSPA_plugins-win.sln
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12992/audacity-src/trunk/lib-src/lv2
+END
+serdnode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12781/audacity-src/trunk/lib-src/lv2/serdnode.patch
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12992/audacity-src/trunk/lib-src/lv2/configure
+END
+usegetprocaddress.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12781/audacity-src/trunk/lib-src/lv2/usegetprocaddress.patch
+END
+unpack-waf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12937/audacity-src/trunk/lib-src/lv2/unpack-waf
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12957/audacity-src/trunk/lib-src/lv2/Makefile
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12781/audacity-src/trunk/lib-src/lv2/build
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11532/audacity-src/trunk/lib-src/libmad/msvc++
+END
+libmad.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libmad/msvc++/libmad.dsp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11532/audacity-src/trunk/lib-src/libmad/msvc++/Makefile.in
+END
+mad.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libmad/msvc++/mad.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libmad/msvc++/Makefile.am
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libmad/msvc++/config.h
+END

@@ -1,0 +1,1523 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12946/audacity-src/trunk/lib-src/libnyquist/nyquist/tran
+END
+delaycc.alg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/delaycc.alg
+END
+tapf.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tapf.c
+END
+maxv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/maxv.alg
+END
+instrsax.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsax.alg
+END
+instrflutefreq.alg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrflutefreq.alg
+END
+tapf.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tapf.h
+END
+pluck.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/pluck.alg
+END
+shape.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/shape.c
+END
+oneshot.alg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/oneshot.alg
+END
+aresoncv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/aresoncv.alg
+END
+instrclar.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrclar.c
+END
+resonvv.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/resonvv.c
+END
+follow.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/follow.c
+END
+shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/shape.h
+END
+biquadfilt.alg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/biquadfilt.alg
+END
+tone.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tone.c
+END
+stkchorus.alg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/stkchorus.alg
+END
+instrclar.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrclar.h
+END
+fmosc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fmosc.c
+END
+follow.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/follow.h
+END
+resonvv.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/resonvv.h
+END
+clip.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/clip.alg
+END
+areson.alg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/areson.alg
+END
+congen.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/congen.c
+END
+tapv.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tapv.c
+END
+tone.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tone.h
+END
+tapf.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tapf.alg
+END
+fmosc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fmosc.h
+END
+convolve.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/convolve.alg
+END
+exp.alg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/exp.alg
+END
+congen.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/congen.h
+END
+instrclarfreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrclarfreq.c
+END
+tapv.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tapv.h
+END
+gate.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/gate.c
+END
+alpassvv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpassvv.alg
+END
+chase.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/chase.c
+END
+follow.alg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/follow.alg
+END
+resonvv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/resonvv.alg
+END
+instrclarfreq.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrclarfreq.h
+END
+gate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/gate.h
+END
+chase.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/chase.h
+END
+tapv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tapv.alg
+END
+alpasscv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpasscv.alg
+END
+instrflute.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrflute.c
+END
+resoncv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/resoncv.alg
+END
+white.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/white.alg
+END
+log.alg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/log.alg
+END
+sampler.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/sampler.c
+END
+alpass.alg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpass.alg
+END
+prod.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/prod.c
+END
+instrflute.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrflute.h
+END
+instrbow.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrbow.c
+END
+sampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/sampler.h
+END
+prod.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/prod.h
+END
+tonev.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tonev.alg
+END
+instrbow.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrbow.h
+END
+instrflutefreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrflutefreq.c
+END
+instrbanded.alg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrbanded.alg
+END
+resonvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/resonvc.c
+END
+exprel.alg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/exprel.alg
+END
+instrflutefreq.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrflutefreq.h
+END
+resonvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/resonvc.h
+END
+stkchorus.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/stkchorus.c
+END
+delaycv.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/delaycv.c
+END
+stkchorus.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/stkchorus.h
+END
+atonev.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/atonev.c
+END
+delaycv.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/delaycv.h
+END
+eqbandvvv.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/eqbandvvv.c
+END
+stkpitshift.alg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/stkpitshift.alg
+END
+quantize.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/quantize.c
+END
+eqbandvvv.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/eqbandvvv.h
+END
+atonev.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/atonev.h
+END
+amosc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/amosc.c
+END
+quantize.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/quantize.h
+END
+atone.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/atone.c
+END
+amosc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/amosc.h
+END
+instrfluteall.alg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrfluteall.alg
+END
+translate.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/translate.lsp
+END
+coterm.alg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/coterm.alg
+END
+allpoles.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/allpoles.c
+END
+atone.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/atone.h
+END
+allpoles.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/allpoles.h
+END
+siosc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/siosc.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/log.c
+END
+innerloop.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/innerloop.lsp
+END
+integrate.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/integrate.c
+END
+amosc.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/amosc.alg
+END
+osc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/osc.c
+END
+siosc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/siosc.h
+END
+instrsaxall.alg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsaxall.alg
+END
+offset.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/offset.c
+END
+reson.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/reson.c
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/log.h
+END
+atone.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/atone.alg
+END
+integrate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/integrate.h
+END
+scale.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/scale.c
+END
+fmosc.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fmosc.alg
+END
+ifft.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/ifft.c
+END
+osc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/osc.h
+END
+instrclarall.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrclarall.c
+END
+offset.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/offset.h
+END
+reson.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/reson.h
+END
+scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/scale.h
+END
+ifft.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/ifft.h
+END
+instrbanded.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrbanded.c
+END
+sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/sine.c
+END
+instrclarall.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrclarall.h
+END
+instrclarfreq.alg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrclarfreq.alg
+END
+aresonvc.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/aresonvc.alg
+END
+instrbanded.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrbanded.h
+END
+instrmandolin.alg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrmandolin.alg
+END
+integrate.alg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/integrate.alg
+END
+sine.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/sine.h
+END
+chase.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/chase.alg
+END
+delaycc.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/delaycc.c
+END
+offset.alg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/offset.alg
+END
+reson.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/reson.alg
+END
+delaycc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/delaycc.h
+END
+fmfb.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fmfb.c
+END
+instrclarall.alg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrclarall.alg
+END
+partial.alg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/partial.alg
+END
+sine.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/sine.alg
+END
+fmfb.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fmfb.h
+END
+aresoncv.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/aresoncv.c
+END
+instrflute.alg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrflute.alg
+END
+fmfbv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fmfbv.alg
+END
+lpreson.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/lpreson.c
+END
+instrmodalbar.alg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrmodalbar.alg
+END
+sampler.alg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/sampler.alg
+END
+biquadfilt.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/biquadfilt.c
+END
+aresoncv.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/aresoncv.h
+END
+ifft-old.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/ifft-old.alg
+END
+lpreson.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/lpreson.h
+END
+instrbow.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrbow.alg
+END
+biquadfilt.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/biquadfilt.h
+END
+coterm.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/coterm.c
+END
+fmfb.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fmfb.alg
+END
+exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/exp.c
+END
+alpassvc.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpassvc.alg
+END
+coterm.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/coterm.h
+END
+resonvc.alg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/resonvc.alg
+END
+exp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/exp.h
+END
+recip.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/recip.c
+END
+lpreson.alg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/lpreson.alg
+END
+recip.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/recip.h
+END
+delaycv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/delaycv.alg
+END
+sqrt.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/sqrt.alg
+END
+instrsaxfreq.alg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsaxfreq.alg
+END
+alpasscv.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpasscv.c
+END
+fromarraystream.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fromarraystream.c
+END
+stkrev.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/stkrev.c
+END
+writetoss.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/writetoss.lsp
+END
+init.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/init.lsp
+END
+white.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/white.c
+END
+alpasscv.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpasscv.h
+END
+shape.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/shape.alg
+END
+instrmandolin.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrmandolin.c
+END
+slope.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/slope.c
+END
+fromarraystream.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fromarraystream.h
+END
+recip.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/recip.alg
+END
+stkrev.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/stkrev.h
+END
+white.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/white.h
+END
+upsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/upsample.c
+END
+instrmandolin.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrmandolin.h
+END
+slope.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/slope.h
+END
+buzz.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/buzz.c
+END
+upsample.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/upsample.h
+END
+allpoles.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/allpoles.alg
+END
+instrbowedfreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrbowedfreq.c
+END
+fromarraystream.alg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fromarraystream.alg
+END
+buzz.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/buzz.h
+END
+stkrev.alg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/stkrev.alg
+END
+eqbandv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/eqbandv.alg
+END
+instrmodalbar.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrmodalbar.c
+END
+gate.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/gate.alg
+END
+instrsitar.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsitar.c
+END
+pwl.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/pwl.c
+END
+aresonvv.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/aresonvv.c
+END
+slope.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/slope.alg
+END
+instrbowedfreq.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrbowedfreq.h
+END
+instrmodalbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrmodalbar.h
+END
+upsample.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/upsample.alg
+END
+instrsitar.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsitar.h
+END
+pwl.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/pwl.h
+END
+aresonvv.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/aresonvv.h
+END
+scale.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/scale.alg
+END
+maxv.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/maxv.c
+END
+instrsax.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsax.c
+END
+buzz.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/buzz.alg
+END
+stkpitshift.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/stkpitshift.c
+END
+instrbowedfreq.alg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrbowedfreq.alg
+END
+oneshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/oneshot.c
+END
+maxv.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/maxv.h
+END
+instrsax.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsax.h
+END
+writesusp.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/writesusp.lsp
+END
+stkpitshift.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/stkpitshift.h
+END
+pwl.alg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/pwl.alg
+END
+instrsitar.alg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsitar.alg
+END
+oneshot.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/oneshot.h
+END
+prod.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/prod.alg
+END
+abs.alg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/abs.alg
+END
+clip.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/clip.c
+END
+areson.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/areson.c
+END
+instrfluteall.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrfluteall.c
+END
+sqrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/sqrt.c
+END
+instrsaxfreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsaxfreq.c
+END
+clip.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/clip.h
+END
+areson.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/areson.h
+END
+instrfluteall.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrfluteall.h
+END
+instrsaxfreq.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsaxfreq.h
+END
+sqrt.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/sqrt.h
+END
+alpassvv.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpassvv.c
+END
+writemake.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/writemake.lsp
+END
+instrsaxall.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsaxall.c
+END
+alpassvv.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpassvv.h
+END
+instrsaxall.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrsaxall.h
+END
+downproto.alg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/downproto.alg
+END
+eqbandvvv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/eqbandvvv.alg
+END
+atonev.alg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/atonev.alg
+END
+delay.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/delay.alg
+END
+resoncv.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/resoncv.c
+END
+aresonvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/aresonvc.c
+END
+quantize.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/quantize.alg
+END
+instrclar.alg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/instrclar.alg
+END
+alpass.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpass.c
+END
+resoncv.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/resoncv.h
+END
+aresonvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/aresonvc.h
+END
+tone.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tone.alg
+END
+const.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/const.c
+END
+alpass.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpass.h
+END
+fromobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fromobject.c
+END
+congen.alg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/congen.alg
+END
+tonev.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tonev.c
+END
+const.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/const.h
+END
+partial.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/partial.c
+END
+fromobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fromobject.h
+END
+fmfbv.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fmfbv.c
+END
+tonev.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/tonev.h
+END
+partial.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/partial.h
+END
+siosc.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/siosc.alg
+END
+osc.alg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/osc.alg
+END
+fmfbv.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fmfbv.h
+END
+abs.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/abs.c
+END
+const.alg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/const.alg
+END
+translate-stk.lsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/translate-stk.lsp
+END
+ifft.alg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/ifft.alg
+END
+abs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/abs.h
+END
+fromobject.alg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/fromobject.alg
+END
+alpassvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpassvc.c
+END
+pluck.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/pluck.c
+END
+alpassvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/alpassvc.h
+END
+pluck.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/pluck.h
+END
+aresonvv.alg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libnyquist/nyquist/tran/aresonvv.alg
+END

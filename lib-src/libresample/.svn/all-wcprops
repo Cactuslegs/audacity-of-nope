@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12877/audacity-src/trunk/lib-src/libresample
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10385/audacity-src/trunk/lib-src/libresample/config.guess
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/README.txt
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10385/audacity-src/trunk/lib-src/libresample/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libresample/install-sh
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libresample/LICENSE.txt
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libresample/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libresample/Makefile.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libresample/configure.in
+END

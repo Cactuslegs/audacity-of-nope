@@ -1,0 +1,151 @@
+# project serd (0.18.2) configured on Sun Mar  2 11:50:07 2014 by
+# waf 1.7.8 (abi 98, python 20703f0 on linux2)
+# using waf --prefix=. --include=. --no-utils --static --no-shared configure
+#
+----------------------------------------
+Setting top to
+/home/justin/audacity-read-only/lib-src/lv2/serd
+----------------------------------------
+Setting out to
+/home/justin/audacity-read-only/lib-src/lv2/serd/build
+----------------------------------------
+Checking for 'gcc' (c compiler)
+find program=['gcc', 'cc'] paths=['/usr/lib/lightdm/lightdm', '/usr/local/sbin', '/usr/local/bin', '/usr/sbin', '/usr/bin', '/sbin', '/bin', '/usr/games'] var='CC' -> '/usr/bin/gcc'
+find program=['ar'] paths=['/usr/lib/lightdm/lightdm', '/usr/local/sbin', '/usr/local/bin', '/usr/sbin', '/usr/bin', '/sbin', '/bin', '/usr/games'] var='AR' -> '/usr/bin/ar'
+/usr/bin/gcc
+----------------------------------------
+Checking for function fmax
+==>
+#include <math.h>
+
+int main(int argc, char **argv) {
+	void *p;
+	(void)argc; (void)argv;
+	p=(void*)(fmax);
+	return 0;
+}
+
+<==
+[1/2] [32mc: build/.conf_check_1b4dd6e2a8e85085f06c9f0072653967/test.c -> build/.conf_check_1b4dd6e2a8e85085f06c9f0072653967/testbuild/test.c.1.o
+[0m
+['/usr/bin/gcc', '-I/home/justin/audacity-read-only/lib-src/lv2/serd', '-I/home/justin/audacity-read-only/lib-src/lv2/lv2', '-DNDEBUG', '-fshow-column', '-std=c99', '-I/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_1b4dd6e2a8e85085f06c9f0072653967/testbuild', '../test.c', '-c', '-o', 'test.c.1.o']
+[2/2] [33mcprogram: build/.conf_check_1b4dd6e2a8e85085f06c9f0072653967/testbuild/test.c.1.o -> build/.conf_check_1b4dd6e2a8e85085f06c9f0072653967/testbuild/testprog
+[0m
+['/usr/bin/gcc', '-L/home/justin/audacity-read-only/lib-src/lv2/lv2', '-llv2-', 'test.c.1.o', '-o', '/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_1b4dd6e2a8e85085f06c9f0072653967/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic', '-lm']
+err: /usr/bin/ld: cannot find -llv2-
+collect2: ld returned 1 exit status
+
+from /home/justin/audacity-read-only/lib-src/lv2/serd: Test does not build: Traceback (most recent call last):
+  File "/home/justin/audacity-read-only/lib-src/lv2/serd/waflib/Tools/c_config.py", line 460, in run_c_code
+    bld.compile()
+  File "/home/justin/audacity-read-only/lib-src/lv2/serd/waflib/Build.py", line 198, in compile
+    raise Errors.BuildError(self.producer.error)
+BuildError: Build failed
+ -> task in 'testprog' failed (exit status 1): 
+	{task 150740620: cprogram test.c.1.o -> testprog}
+['/usr/bin/gcc', '-L/home/justin/audacity-read-only/lib-src/lv2/lv2', '-llv2-', 'test.c.1.o', '-o', '/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_1b4dd6e2a8e85085f06c9f0072653967/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic', '-lm']
+
+not found
+from /home/justin/audacity-read-only/lib-src/lv2/serd: The configuration failed
+----------------------------------------
+Checking for function posix_memalign
+==>
+#include <stdlib.h>
+
+int main(int argc, char **argv) {
+	void *p;
+	(void)argc; (void)argv;
+	p=(void*)(posix_memalign);
+	return 0;
+}
+
+<==
+[1/2] [32mc: build/.conf_check_2ea5194723c5954b674a495a108c60eb/test.c -> build/.conf_check_2ea5194723c5954b674a495a108c60eb/testbuild/test.c.1.o
+[0m
+['/usr/bin/gcc', '-I/home/justin/audacity-read-only/lib-src/lv2/serd', '-I/home/justin/audacity-read-only/lib-src/lv2/lv2', '-DNDEBUG', '-fshow-column', '-std=c99', '-I/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_2ea5194723c5954b674a495a108c60eb/testbuild', '-D_POSIX_C_SOURCE=201112L', '../test.c', '-c', '-o', 'test.c.1.o']
+[2/2] [33mcprogram: build/.conf_check_2ea5194723c5954b674a495a108c60eb/testbuild/test.c.1.o -> build/.conf_check_2ea5194723c5954b674a495a108c60eb/testbuild/testprog
+[0m
+['/usr/bin/gcc', '-L/home/justin/audacity-read-only/lib-src/lv2/lv2', '-llv2-', 'test.c.1.o', '-o', '/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_2ea5194723c5954b674a495a108c60eb/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
+err: /usr/bin/ld: cannot find -llv2-
+collect2: ld returned 1 exit status
+
+from /home/justin/audacity-read-only/lib-src/lv2/serd: Test does not build: Traceback (most recent call last):
+  File "/home/justin/audacity-read-only/lib-src/lv2/serd/waflib/Tools/c_config.py", line 460, in run_c_code
+    bld.compile()
+  File "/home/justin/audacity-read-only/lib-src/lv2/serd/waflib/Build.py", line 198, in compile
+    raise Errors.BuildError(self.producer.error)
+BuildError: Build failed
+ -> task in 'testprog' failed (exit status 1): 
+	{task 150795628: cprogram test.c.1.o -> testprog}
+['/usr/bin/gcc', '-L/home/justin/audacity-read-only/lib-src/lv2/lv2', '-llv2-', 'test.c.1.o', '-o', '/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_2ea5194723c5954b674a495a108c60eb/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
+
+not found
+from /home/justin/audacity-read-only/lib-src/lv2/serd: The configuration failed
+----------------------------------------
+Checking for function posix_fadvise
+==>
+#include <fcntl.h>
+
+int main(int argc, char **argv) {
+	void *p;
+	(void)argc; (void)argv;
+	p=(void*)(posix_fadvise);
+	return 0;
+}
+
+<==
+[1/2] [32mc: build/.conf_check_5c8e2d113ba3a2849a1f88f23768beda/test.c -> build/.conf_check_5c8e2d113ba3a2849a1f88f23768beda/testbuild/test.c.1.o
+[0m
+['/usr/bin/gcc', '-I/home/justin/audacity-read-only/lib-src/lv2/serd', '-I/home/justin/audacity-read-only/lib-src/lv2/lv2', '-DNDEBUG', '-fshow-column', '-std=c99', '-I/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_5c8e2d113ba3a2849a1f88f23768beda/testbuild', '-D_POSIX_C_SOURCE=201112L', '../test.c', '-c', '-o', 'test.c.1.o']
+[2/2] [33mcprogram: build/.conf_check_5c8e2d113ba3a2849a1f88f23768beda/testbuild/test.c.1.o -> build/.conf_check_5c8e2d113ba3a2849a1f88f23768beda/testbuild/testprog
+[0m
+['/usr/bin/gcc', '-L/home/justin/audacity-read-only/lib-src/lv2/lv2', '-llv2-', 'test.c.1.o', '-o', '/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_5c8e2d113ba3a2849a1f88f23768beda/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
+err: /usr/bin/ld: cannot find -llv2-
+collect2: ld returned 1 exit status
+
+from /home/justin/audacity-read-only/lib-src/lv2/serd: Test does not build: Traceback (most recent call last):
+  File "/home/justin/audacity-read-only/lib-src/lv2/serd/waflib/Tools/c_config.py", line 460, in run_c_code
+    bld.compile()
+  File "/home/justin/audacity-read-only/lib-src/lv2/serd/waflib/Build.py", line 198, in compile
+    raise Errors.BuildError(self.producer.error)
+BuildError: Build failed
+ -> task in 'testprog' failed (exit status 1): 
+	{task 150806956: cprogram test.c.1.o -> testprog}
+['/usr/bin/gcc', '-L/home/justin/audacity-read-only/lib-src/lv2/lv2', '-llv2-', 'test.c.1.o', '-o', '/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_5c8e2d113ba3a2849a1f88f23768beda/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
+
+not found
+from /home/justin/audacity-read-only/lib-src/lv2/serd: The configuration failed
+----------------------------------------
+Checking for function fileno
+==>
+#include <stdio.h>
+
+int main(int argc, char **argv) {
+	void *p;
+	(void)argc; (void)argv;
+	p=(void*)(fileno);
+	return 0;
+}
+
+<==
+[1/2] [32mc: build/.conf_check_5f8f3f8e645c8ffce7bb23f14cb68a53/test.c -> build/.conf_check_5f8f3f8e645c8ffce7bb23f14cb68a53/testbuild/test.c.1.o
+[0m
+['/usr/bin/gcc', '-I/home/justin/audacity-read-only/lib-src/lv2/serd', '-I/home/justin/audacity-read-only/lib-src/lv2/lv2', '-DNDEBUG', '-fshow-column', '-std=c99', '-I/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_5f8f3f8e645c8ffce7bb23f14cb68a53/testbuild', '-D_POSIX_C_SOURCE=201112L', '../test.c', '-c', '-o', 'test.c.1.o']
+[2/2] [33mcprogram: build/.conf_check_5f8f3f8e645c8ffce7bb23f14cb68a53/testbuild/test.c.1.o -> build/.conf_check_5f8f3f8e645c8ffce7bb23f14cb68a53/testbuild/testprog
+[0m
+['/usr/bin/gcc', '-L/home/justin/audacity-read-only/lib-src/lv2/lv2', '-llv2-', 'test.c.1.o', '-o', '/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_5f8f3f8e645c8ffce7bb23f14cb68a53/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
+err: /usr/bin/ld: cannot find -llv2-
+collect2: ld returned 1 exit status
+
+from /home/justin/audacity-read-only/lib-src/lv2/serd: Test does not build: Traceback (most recent call last):
+  File "/home/justin/audacity-read-only/lib-src/lv2/serd/waflib/Tools/c_config.py", line 460, in run_c_code
+    bld.compile()
+  File "/home/justin/audacity-read-only/lib-src/lv2/serd/waflib/Build.py", line 198, in compile
+    raise Errors.BuildError(self.producer.error)
+BuildError: Build failed
+ -> task in 'testprog' failed (exit status 1): 
+	{task 150709452: cprogram test.c.1.o -> testprog}
+['/usr/bin/gcc', '-L/home/justin/audacity-read-only/lib-src/lv2/lv2', '-llv2-', 'test.c.1.o', '-o', '/home/justin/audacity-read-only/lib-src/lv2/serd/build/.conf_check_5f8f3f8e645c8ffce7bb23f14cb68a53/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
+
+not found
+from /home/justin/audacity-read-only/lib-src/lv2/serd: The configuration failed

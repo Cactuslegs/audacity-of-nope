@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/host
+END
+vamp-simple-host.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/host/vamp-simple-host.cpp
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/host/system.h
+END

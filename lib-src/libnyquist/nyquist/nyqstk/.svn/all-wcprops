@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12946/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk
+END
+instr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/instr.h
+END
+stkinit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/stkinit.cpp
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/globals.h
+END
+stkinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/stkinit.h
+END
+stkint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/stkint.cpp
+END
+instr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/instr.cpp
+END
+stkint.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libnyquist/nyquist/nyqstk/stkint.h
+END

@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/doc/libogg
+END
+ogg_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_page.html
+END
+ogg_sync_state.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_sync_state.html
+END
+ogg_packet_clear.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_packet_clear.html
+END
+ogg_stream_pageout.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_pageout.html
+END
+ogg_page_bos.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_page_bos.html
+END
+ogg_sync_pageseek.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_sync_pageseek.html
+END
+datastructures.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/datastructures.html
+END
+ogg_page_version.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_page_version.html
+END
+ogg_page_continued.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_page_continued.html
+END
+oggpack_writecopy.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_writecopy.html
+END
+oggpack_bytes.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_bytes.html
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/style.css
+END
+oggpack_write.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_write.html
+END
+oggpack_read1.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_read1.html
+END
+ogg_stream_reset.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_reset.html
+END
+oggpack_readinit.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_readinit.html
+END
+oggpack_writeclear.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_writeclear.html
+END
+oggpack_bits.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_bits.html
+END
+ogg_stream_clear.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_clear.html
+END
+reference.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/reference.html
+END
+oggpack_look.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_look.html
+END
+ogg_packet.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_packet.html
+END
+ogg_page_serialno.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_page_serialno.html
+END
+oggpack_adv.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_adv.html
+END
+ogg_stream_init.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_init.html
+END
+ogg_stream_pagein.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_pagein.html
+END
+ogg_page_eos.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_page_eos.html
+END
+ogg_page_packets.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_page_packets.html
+END
+oggpack_writecheck.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_writecheck.html
+END
+ogg_stream_check.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_check.html
+END
+oggpack_adv1.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_adv1.html
+END
+encoding.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/encoding.html
+END
+ogg_sync_init.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_sync_init.html
+END
+ogg_stream_flush_fill.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_flush_fill.html
+END
+ogg_page_pageno.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_page_pageno.html
+END
+oggpack_writetrunc.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_writetrunc.html
+END
+oggpack_buffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_buffer.html
+END
+ogg_stream_packetin.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_packetin.html
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/Makefile.am
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/index.html
+END
+ogg_page_granulepos.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_page_granulepos.html
+END
+oggpack_writeinit.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_writeinit.html
+END
+ogg_sync_reset.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_sync_reset.html
+END
+decoding.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/decoding.html
+END
+general.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/general.html
+END
+oggpack_reset.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_reset.html
+END
+ogg_sync_clear.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_sync_clear.html
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12836/audacity-src/trunk/lib-src/libogg/doc/libogg/Makefile.in
+END
+ogg_sync_destroy.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_sync_destroy.html
+END
+ogg_stream_pageout_fill.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_pageout_fill.html
+END
+ogg_stream_packetpeek.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_packetpeek.html
+END
+ogg_iovec_t.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_iovec_t.html
+END
+ogg_stream_reset_serialno.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_reset_serialno.html
+END
+ogg_stream_state.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_state.html
+END
+ogg_sync_wrote.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_sync_wrote.html
+END
+ogg_stream_flush.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_flush.html
+END
+ogg_stream_eos.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_eos.html
+END
+oggpack_writealign.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_writealign.html
+END
+ogg_stream_destroy.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_destroy.html
+END
+ogg_sync_buffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_sync_buffer.html
+END
+oggpack_get_buffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_get_buffer.html
+END
+ogg_sync_check.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_sync_check.html
+END
+ogg_page_checksum_set.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_page_checksum_set.html
+END
+oggpack_read.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_read.html
+END
+bitpacking.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/bitpacking.html
+END
+oggpack_look1.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/oggpack_look1.html
+END
+ogg_sync_pageout.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_sync_pageout.html
+END
+ogg_stream_iovecin.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_iovecin.html
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/overview.html
+END
+ogg_stream_packetout.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12751/audacity-src/trunk/lib-src/libogg/doc/libogg/ogg_stream_packetout.html
+END

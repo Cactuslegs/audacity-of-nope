@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12943/audacity-src/trunk/lib-src/libnyquist/autotools
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12823/audacity-src/trunk/lib-src/libnyquist/autotools/missing
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12823/audacity-src/trunk/lib-src/libnyquist/autotools/install-sh
+END
+ar-lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12823/audacity-src/trunk/lib-src/libnyquist/autotools/ar-lib
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12823/audacity-src/trunk/lib-src/libnyquist/autotools/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12943/audacity-src/trunk/lib-src/libnyquist/autotools/compile
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/examples
+END
+AmplitudeFollower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/examples/AmplitudeFollower.cpp
+END
+vamp-example-plugins.cat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvamp/examples/vamp-example-plugins.cat
+END
+FixedTempoEstimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/examples/FixedTempoEstimator.h
+END
+PercussionOnsetDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/examples/PercussionOnsetDetector.h
+END
+AmplitudeFollower.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/examples/AmplitudeFollower.h
+END
+SpectralCentroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/examples/SpectralCentroid.cpp
+END
+vamp-example-plugins.n3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10188/audacity-src/trunk/lib-src/libvamp/examples/vamp-example-plugins.n3
+END
+SpectralCentroid.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/examples/SpectralCentroid.h
+END
+PowerSpectrum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/examples/PowerSpectrum.cpp
+END
+plugins.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/examples/plugins.cpp
+END
+PowerSpectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/examples/PowerSpectrum.h
+END
+ZeroCrossing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/examples/ZeroCrossing.cpp
+END
+FixedTempoEstimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12810/audacity-src/trunk/lib-src/libvamp/examples/FixedTempoEstimator.cpp
+END
+ZeroCrossing.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/examples/ZeroCrossing.h
+END
+PercussionOnsetDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10189/audacity-src/trunk/lib-src/libvamp/examples/PercussionOnsetDetector.cpp
+END
